@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "title": "Raspberry Pi 5 Model 8GB RAM",
+    "category": "Electronics",
+    "price": 10089,
+    "image": "PASTE_RAW_URL_HERE_FOR_Raspberry-Pi-5-2.jpg",
+    "images": [
+      "PASTE_RAW_URL_HERE_FOR_Raspberry-Pi-5-4-2.jpg",
+      "PASTE_RAW_URL_HERE_FOR_Raspberry-Pi-5-5.jpg",
+      "PASTE_RAW_URL_HERE_FOR_Raspberry-Pi-5-10.jpg",
+      "PASTE_RAW_URL_HERE_FOR_Raspberry-Pi-5-6.jpg"
+    ],
+    "description": "Greetings, Raspberry Pi enthusiasts! It’s official—the Raspberry Pi 5 has arrived Welcome to the cutting-edge Raspberry Pi 5 Model 8GB RAM, the latest generation of this iconic computing marvel. Packed with a 64-bit quad-core Arm Cortex-A76 processor clocked at 2.4GHz, the Raspberry Pi 5 boasts an impressive 2–3× increase in CPU performance compared to its predecessor, the Raspberry Pi 4.",
+    "rating": 4.4,
+    "reviewCount": 128,
+    "reviews": [
+      { "id": "r1", "name": "Sairaj", "stars": 5, "text": "Awesome product!!!" },
+      { "id": "r2", "name": "Aditya", "stars": 3, "text": "Good But stopped working after 3 days" },
+      { "id": "r3", "name": "Rohit", "stars": 4, "text": "Delivery was fast" }
+    ]
+  },
