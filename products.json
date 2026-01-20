@@ -3,7 +3,7 @@
     "id": "1",
     "title": "Raspberry Pi 5 Model 8GB RAM",
     "category": "Electronics",
-    "price": 69000,
+    "price": 10089,
     "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Raspberry-Pi-5-2.jpg",
     "images": [
       "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Raspberry-Pi-5-4-2.jpg",
@@ -115,7 +115,7 @@
     "id": "6",
     "title": "Raspberry Pi Zero 2 W",
     "category": "Electronics",
-    "price": 1000.00 ,
+    "price": 1640.00 ,
 
 
     "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/rpi-zero.jpg",
@@ -306,6 +306,310 @@
     ],
 
     "description": "This is 40 Pins dsPIC Start Up Kit – SKDS40A. The SKds40A is designed to support Microchip  40-pin dsPIC MCU. It supports dsPIC30F3011, 4011, 3014, 4013.",
+    "rating": 4.2,
+    "reviewCount": 115,
+    "reviews": [
+      { "id": "r1", "name": "Tesjawi", "stars": 4, "text": "crazy." },
+      { "id": "r2", "name": "Surya", "stars": 5, "text": "very nice" },
+      { "id": "r3", "name": "Kavya", "stars": 2, "text": "omg!" },
+      { "id": "r4", "name": "Kancha", "stars": 5, "text": "Best Quality" }
+    ]
+  },
+
+  {
+    "id": "14",
+    "title": "650nm 6mm 5V DC 5mW Mini Laser Dot Diode Module",
+    "category": "Electronics",
+    "price": 16.00 ,
+
+
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/im131029001_2_1.jpg",
+
+    "images": [
+        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/5vlaser-1.jpg",
+        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/31CfR6roROL._SX342_.jpg",
+        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/im131029001_1_1.jpg",
+        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/images.jpg",
+        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/s-l500.jpg"
+    ],
+
+    "description": "650nm 6mm 5V DC 5mW Mini Laser Dot Diode Module which is made of copper plastic. It is suitable for 3V 5mW standard, with 6mm outside diameter, can be used to connect diode tubes for multiple uses.",
+    "rating": 4.2,
+    "reviewCount": 115,
+    "reviews": [
+      { "id": "r1", "name": "Tesjawi", "stars": 4, "text": "crazy." },
+      { "id": "r2", "name": "Surya", "stars": 5, "text": "very nice" },
+      { "id": "r3", "name": "Kavya", "stars": 2, "text": "omg!" },
+      { "id": "r4", "name": "Kancha", "stars": 5, "text": "Best Quality" }
+    ]
+  },
+
+  {
+    "id": "15",
+    "title": "Laser Module 650NM 5V",
+    "category": "Electronics",
+    "price": 31.00 ,
+
+
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/1-15.jpg",
+
+    "images": [
+        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/sku_58601_1.jpg"
+    ],
+
+    "description": "The LASER MODULE 650NM 5V head is composed of a light-emitting tube, condenser lens, and adjustable copper sleeve and it is assembled when delivered, the focal length of the lens is adjusted glued by strong glue stick, which can work directly after connecting to a 5V DC power supply.",
+    "rating": 4.2,
+    "reviewCount": 115,
+    "reviews": [
+      { "id": "r1", "name": "Tesjawi", "stars": 4, "text": "crazy." },
+      { "id": "r2", "name": "Surya", "stars": 5, "text": "very nice" },
+      { "id": "r3", "name": "Kavya", "stars": 2, "text": "omg!" },
+      { "id": "r4", "name": "Kancha", "stars": 5, "text": "Best Quality" }
+    ]
+  },
+
+  {
+    "id": "16",
+    "title": "Teensy 4.0 Development Board with Headers",
+    "category": "Electronics",
+    "price": 380.00 ,
+
+
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Untitled-3.jpg",
+
+    "images": [
+        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/573.jpg",
+        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/574.jpg",
+        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/575.jpg",
+        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/576.jpg"
+    ],
+
+    "description": "The Teensy 4.0 with Headers is a compact yet incredibly powerful development board featuring a 600MHz ARM Cortex-M7 processor. Pre-soldered headers mean no hassle—just plug in and start building. Despite its tiny 1.4″ x 0.7″ footprint, this board delivers serious performance for real-time computing, audio, and high-speed interfaces.",
+    "rating": 4.2,
+    "reviewCount": 115,
+    "reviews": [
+      { "id": "r1", "name": "Tesjawi", "stars": 4, "text": "crazy." },
+      { "id": "r2", "name": "Surya", "stars": 5, "text": "very nice" },
+      { "id": "r3", "name": "Kavya", "stars": 2, "text": "omg!" },
+      { "id": "r4", "name": "Kancha", "stars": 5, "text": "Best Quality" }
+    ]
+  },
+
+  {
+    "id": "17",
+    "title": "Waveshare Luckfox Pico Mini A RV1103 Linux Micro Development Board, Integrates ARM Cortex-A7/RISC-V MCU/NPU/ISP Processors",
+    "category": "Electronics",
+    "price": 992.00 ,
+
+
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/1-67.jpg",
+
+    "images": [
+        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/luckfox-pico-mini-a-1.jpg",
+        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/luckfox-pico-mini-a-2.jpg",
+        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Luckfox-Pico-Mini-details-size.jpg"
+    ],
+
+    "description": "The integration of diverse processors, including the ARM Cortex-A7, RISC-V MCU, NPU, and ISP, makes this board versatile for a range of applications requiring varied computational capabilities. Developers can leverage these components to build solutions that involve machine learning, image processing, IoT, and other embedded applications.",
+    "rating": 4.2,
+    "reviewCount": 115,
+    "reviews": [
+      { "id": "r1", "name": "Tesjawi", "stars": 4, "text": "crazy." },
+      { "id": "r2", "name": "Surya", "stars": 5, "text": "very nice" },
+      { "id": "r3", "name": "Kavya", "stars": 2, "text": "omg!" },
+      { "id": "r4", "name": "Kancha", "stars": 5, "text": "Best Quality" }
+    ]
+  },
+
+  {
+    "id": "18",
+    "title": "Logitech C270 Digital HD Webcam",
+    "category": "Electronics",
+    "price": 2000.00 ,
+
+
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Logitech-C270-Digital-HD-Webcam-4.jpg",
+
+    "images": [
+        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Logitech-C270-Digital-HD-Webcam-3.jpg",
+        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Logitech-C270-Digital-HD-Webcam-1.jpg"
+    ],
+
+    "description": "The Logitech C270 Digital HD Webcam has Crisp HD 720p/30 fps video calls with diagonal 55° field of  view and auto light correction. This Logitech C270 Digital HD Webcam is Compatible with popular platforms including Skype and Zoom. The Logitech C270 Digital HD Webcam is  built-in noise-reducing mic makes sure your voice comes across clearly up to 1.5 meters away, even if you’re in busy surroundings. C270’s Right Light 2 feature adjusts to lighting conditions, producing brighter, contrasted images to help you look good in all your conference calls.",
+    "rating": 4.2,
+    "reviewCount": 115,
+    "reviews": [
+      { "id": "r1", "name": "Tesjawi", "stars": 4, "text": "crazy." },
+      { "id": "r2", "name": "Surya", "stars": 5, "text": "very nice" },
+      { "id": "r3", "name": "Kavya", "stars": 2, "text": "omg!" },
+      { "id": "r4", "name": "Kancha", "stars": 5, "text": "Best Quality" }
+    ]
+  },
+
+  {
+    "id": "19",
+    "title": "Elecrow CrowView Note-All-in-One Portable Monitor, Phone-to-Laptop Device With Full-Featured Type-C",
+    "category": "Electronics",
+    "price": 17034.00 ,
+
+
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Elecrow-CrowView-Note-All-in-One-Portable-Monitor-Phone-to-Laptop-Device-With-Full-Featured-Type-C (1).jpg",
+
+    "images": [
+        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Elecrow-CrowView-Note-All-in-One-Portable-Monitor-Phone-to-Laptop-Device-With-Full-Featured-Type-C (1).jpg"
+    ],
+
+    "description": "we designed the Elecrow CrowView Note-All-in-One Portable Monitor , empowering all your devices as laptops. This Elecrow CrowView Note all-in-one portable monitor is compatible with smartphones, single-board computers such as Raspberry Pi 5 and Jetson Nano, mini PCs, and gaming consoles. It provides a clean, organized workspace, enhancing your productivity anywhere.",
+    "rating": 4.2,
+    "reviewCount": 115,
+    "reviews": [
+      { "id": "r1", "name": "Tesjawi", "stars": 4, "text": "crazy." },
+      { "id": "r2", "name": "Surya", "stars": 5, "text": "very nice" },
+      { "id": "r3", "name": "Kavya", "stars": 2, "text": "omg!" },
+      { "id": "r4", "name": "Kancha", "stars": 5, "text": "Best Quality" }
+    ]
+  },
+
+  {
+    "id": "20",
+    "title": "Olimex Duinomite-Mini PIC32MX795 PIC 32Bit",
+    "category": "Electronics",
+    "price": 2913.00 ,
+
+
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Olimex-Duinomite-mini-Pic32MX795-Pic-32Bit - Copy.jpg",
+
+    "images": [
+        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/DUINOMITE-MINI-3.jpg",
+        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/DUINOMITE-MINI-2.jpg"
+    ],
+
+    "description": "The Olimex Duinomite-mini Pic32MX795 Pic 32Bit is a Maximite Compatible Basic computer, originally designed by Geoff Graham, with additional features. DuinoMite allows you to program in BASIC language and have VGA and Keyboard interface, so you can develop and write your code in Basic without the need of any computer.",
+    "rating": 4.2,
+    "reviewCount": 115,
+    "reviews": [
+      { "id": "r1", "name": "Tesjawi", "stars": 4, "text": "crazy." },
+      { "id": "r2", "name": "Surya", "stars": 5, "text": "very nice" },
+      { "id": "r3", "name": "Kavya", "stars": 2, "text": "omg!" },
+      { "id": "r4", "name": "Kancha", "stars": 5, "text": "Best Quality" }
+    ]
+  },
+
+  {
+    "id": "21",
+    "title": "STMICROELECTRONICS NUCLEO-G071RB Development Board ,Nucleo-64, 32-Bit, STM32G071RB MCU",
+    "category": "Electronics",
+    "price": 1423.00 ,
+
+
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Development-Board-Nucleo-64-32-Bit-STM32G071RB-MCU-Arduino.jpg",
+
+    "images": [
+        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Development-Board-Nucleo-64-32-Bit-STM32G071RB-MCU-Arduino.jpg"
+    ],
+
+    "description": "The STM Nucleo Development Board, STMICROELECTRONICS NUCLEO-G071RB – STM32 Nucleo-64 STM32G071RB Development Board boards provide an affordable and flexible way for users to try out new concepts and build prototypes with the STM32 microcontroller, which provide various combinations of performance, power consumption and features. do not require any separate probe, as it integrates the ST-LINK/V2-1 debugger/programmer. The STM32 Nucleo-64 boards come with the comprehensive free STM32 software libraries and examples that are available with the STM32Cube package.",
+    "rating": 4.2,
+    "reviewCount": 115,
+    "reviews": [
+      { "id": "r1", "name": "Tesjawi", "stars": 4, "text": "crazy." },
+      { "id": "r2", "name": "Surya", "stars": 5, "text": "very nice" },
+      { "id": "r3", "name": "Kavya", "stars": 2, "text": "omg!" },
+      { "id": "r4", "name": "Kancha", "stars": 5, "text": "Best Quality" }
+    ]
+  },
+
+  {
+    "id": "22",
+    "title": "3.5″ inch ILI9486 TFT LCD Module 480×320 for Arduino Uno without Stylus",
+    "category": "Electronics",
+    "price": 1054.00 ,
+
+
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/14.jpg",
+
+    "images": [
+        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/3.5-inch-TFT-tocuh-LCD-for-Arudino-uno-05.webp",
+        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/3.5-inch-TFT-tocuh-LCD-for-Arudino-uno-04.webp"
+    ],
+
+    "description": "3.5″ inch ILI9486 TFT  LCD Module 480×320 for Arduino Uno without Stylus is a compact yet powerful display solution designed specifically for Arduino Uno boards. With a high-resolution 480×320 screen, it offers crisp and clear visuals for your projects. This module boasts compatibility with Arduino Uno, making it easy to integrate into your existing projects. Whether you’re building a smart home dashboard, a portable gaming device, or an interactive art installation, this LCD Module provides a vibrant canvas for your creativity.",
+    "rating": 4.2,
+    "reviewCount": 115,
+    "reviews": [
+      { "id": "r1", "name": "Tesjawi", "stars": 4, "text": "crazy." },
+      { "id": "r2", "name": "Surya", "stars": 5, "text": "very nice" },
+      { "id": "r3", "name": "Kavya", "stars": 2, "text": "omg!" },
+      { "id": "r4", "name": "Kancha", "stars": 5, "text": "Best Quality" }
+    ]
+  },
+
+  {
+    "id": "23",
+    "title": "4D Systems 3.2″ LCD module with Arduino Adaptor Shield and Cable uLCD-32PTU-AR",
+    "category": "Electronics",
+    "price": 31.00 ,
+
+
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/51.jpg",
+
+    "images": [
+        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/50-1.jpg"
+    ],
+
+    "description": "The 4D Arduino Adaptor Shield (Rev 2.0) is designed to seamlessly connect 4D Systems display modules to Arduino boards, eliminating the need for jumper wires. Compatible with gen4 displays like the gen4-uLCD-24DT and gen4-uLCD-43DT, it facilitates easy integration into projects. The included 4DLCD-32QA is a 3.2” TFT display with a resolution of 240×320 pixels, offering 65K colors, a brightness of 200 cd/m², and a contrast ratio of 350:1. With a 4-wire resistive touch screen and a 40-pin FPC interface, LCD module with Arduino Adapter Shield is perfect for enhancing Arduino projects that require a graphical display.",
+    "rating": 4.2,
+    "reviewCount": 115,
+    "reviews": [
+      { "id": "r1", "name": "Tesjawi", "stars": 4, "text": "crazy." },
+      { "id": "r2", "name": "Surya", "stars": 5, "text": "very nice" },
+      { "id": "r3", "name": "Kavya", "stars": 2, "text": "omg!" },
+      { "id": "r4", "name": "Kancha", "stars": 5, "text": "Best Quality" }
+    ]
+  },
+
+  {
+    "id": "24",
+    "title": "Micro USB-A to Micro-B Cable 100cm Data & Power Cable",
+    "category": "Electronics",
+    "price": 107.00 ,
+
+
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Micro-USB-A-to-Micro-B-Cable-100cm-1-1.jpg",
+
+    "images": [
+        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Micro-USB-A-to-Micro-B-Cable-100cm-2-1.jpg",
+        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Micro-USB-A-to-Micro-B-Cable-100cm-3-1.jpg"
+    ],
+
+    "description": "The Micro USB-A to Micro-B Cable is a durable and reliable data and charging cable designed for a wide range of electronic devices. With a length of 100cm, it offers flexibility and convenience for connecting devices at a comfortable distance. The cable supports both data transfer and power delivery, making it suitable for smartphones, tablets, development boards, cameras, and other USB-enabled devices.",
+    "rating": 4.2,
+    "reviewCount": 115,
+    "reviews": [
+      { "id": "r1", "name": "Tesjawi", "stars": 4, "text": "crazy." },
+      { "id": "r2", "name": "Surya", "stars": 5, "text": "very nice" },
+      { "id": "r3", "name": "Kavya", "stars": 2, "text": "omg!" },
+      { "id": "r4", "name": "Kancha", "stars": 5, "text": "Best Quality" }
+    ]
+  },
+
+  {
+    "id": "25",
+    "title": "Official Arduino Edge Control AKX00034",
+    "category": "Electronics",
+    "price": 22162.00 ,
+
+
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/1017386_1.jpg",
+
+    "images": [
+        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/1017386_2.jpg",
+        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/1017386_3.jpg",
+        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/1017386_4.jpg",
+        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/1017386_5.jpg"
+    ],
+
+    "description": "The Official Arduino Edge Control can be positioned anywhere and is suitable for precision farming, smart agriculture, and other applications requiring intelligent control in remote locations. Power can be either supplied via solar panel or DC input.",
     "rating": 4.2,
     "reviewCount": 115,
     "reviews": [
