@@ -3,7 +3,7 @@
     "id": "1",
     "title": "Raspberry Pi 5 Model 8GB RAM",
     "category": "Electronics",
-    "price": 2009,
+    "price": 10089,
     "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Raspberry-Pi-5-2.jpg",
     "images": [
       "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Raspberry-Pi-5-4-2.jpg",
@@ -617,6 +617,1119 @@
       { "id": "r2", "name": "Surya", "stars": 5, "text": "very nice" },
       { "id": "r3", "name": "Kavya", "stars": 2, "text": "omg!" },
       { "id": "r4", "name": "Kancha", "stars": 5, "text": "Best Quality" }
+    ]
+  },
+  {
+    "id": "26",
+    "title": "SmartElex 16-Channel Analog/Digital MUX Breakout Board – CD74HC4067 (Pack of 2)",
+    "category": "Electronics",
+    "tags": ["Development", "Breakout_Boards"], 
+    "price": 444 ,
+
+
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/31HbwXcqw.jpg",
+
+    "images": [
+        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/417uB0EWU.jpg",
+        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/31sSijhe48.jpg",
+        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/51eRva7Ron.jpg"
+    ],
+
+    "description": "The SmartElex Analog/Digital MUX Breakout is a compact and smart board that brings huge flexibility to your circuits. With this Analog/Digital MUX Breakout, you can switch one signal line among 16 different channels - perfect when you want to read many sensors without using lots of pins. Built around the reliable CD74HC4067 chip, this 16-Channel MUX Breakout makes your work easier: whether you're dealing with analog signals like temperature sensors or digital signals like buttons and switches, it handles both. With just a few control lines, you can pick which channel to connect. Ideal for hobbyists, makers, and DIY electronics enthusiasts, this multiplexer module gives you room to expand without complexity. Simply plug it in, connect a few wires, and free up your microcontroller’s pins for other tasks - making your project cleaner and smarter.",
+    "rating": 3.9,
+    "reviewCount": 240,
+    "reviews": [
+      { "id": "r1", "name": "Tesjawi", "stars": 3, "text": "crazy." },
+      { "id": "r2", "name": "Surya", "stars": 4, "text": "very nice" },
+      { "id": "r3", "name": "Kavya", "stars": 4, "text": "omg!" },
+      { "id": "r4", "name": "Kancha", "stars": 5, "text": "Best Quality" }
+    ]
+  },
+  {
+    "id": "27",
+    "title": "ATSAMA5D27-SOM1",
+    "category": "Integrated Circuits",
+    "tags": ["Microcontrollers", "FPGA Modules"], 
+    "price": 3365.00 ,
+
+
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/MFG_ATSAMA5D2.webp",
+
+    "images": [
+        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/MFG_ATSAMA5D2.webp"
+    ],
+
+    "description": "The module is built around the ATSAMA5D27C-D1G-CU, which is a 'System in Package' (SiP) that combines the microprocessor with DDR2 memory.",
+    "rating": 4.8,
+    "reviewCount": 260,
+    "reviews": [
+      { "id": "r1", "name": "Tesjawi", "stars": 4, "text": "crazy." },
+      { "id": "r2", "name": "Surya", "stars": 5, "text": "very nice" },
+      { "id": "r3", "name": "Kavya", "stars": 2, "text": "omg!" },
+      { "id": "r4", "name": "Kancha", "stars": 5, "text": "Best Quality" }
+    ]
+  },
+  {
+    "id": "28",
+    "title": "OSD3358-512M-ISM",
+    "category": "Integrated Circuits",
+    "tags": ["Microcontrollers", "FPGA Modules"], 
+    "price": 4500.00 ,
+
+
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/MFG_OSD3358-512M-ISM_sml.webp",
+
+    "images": [
+        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/MFG_OSD3358-512M-ISM_sml.webp"
+    ],
+
+    "description": "The OSD3358-512M-ISM is a high-performance System-in-Package (SiP) from Octavo Systems. It is a more powerful alternative to the SAMA5D27-SOM1 you previously looked at, integrating a full Linux-ready computer—including the processor, RAM, and power management—into a single BGA package.",
+    "rating": 4.6,
+    "reviewCount": 1144,
+    "reviews": [
+      { "id": "r1", "name": "Tesjawi", "stars": 4, "text": "crazy." },
+      { "id": "r2", "name": "Surya", "stars": 5, "text": "very nice" },
+      { "id": "r3", "name": "Kavya", "stars": 2, "text": "omg!" },
+      { "id": "r4", "name": "Kancha", "stars": 5, "text": "Best Quality" }
+    ]
+  },
+  {
+    "id": "29",
+    "title": "40 pins PIC Start Up Kit Combo 2 SK40C + PIC18F4550 (SK40C2)",
+    "category": "Electronics",
+    "tags": ["Microcontroller Development Boards", "Embedded Systems", "Programmers Evaluation Boards"], 
+    "price": 1503 ,
+
+
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/4079-800x800.jpg",
+
+    "images": [
+        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/4079-800x800.jpg"
+    ],
+
+    "description": "This is 40 pins PIC Start Up Kit Combo 2 SK40C + PIC18F4550 (SK40C2). The SK40C (new version of SK40B) is a 40pin PIC microcontroller starter kit designed to offer an easy-to-start solution for PIC microcontroller user. This board comes with the basic element for the user to begin project development. It offers plug and use features.",
+    "rating": 4.9,
+    "reviewCount": 1089,
+    "reviews": [
+      { "id": "r1", "name": "Tesjawi", "stars": 4, "text": "crazy." },
+      { "id": "r2", "name": "Surya", "stars": 5, "text": "very nice" },
+      { "id": "r3", "name": "Kavya", "stars": 2, "text": "omg!" },
+      { "id": "r4", "name": "Kancha", "stars": 5, "text": "Best Quality" }
+    ]
+  },
+  {
+    "id": "30",
+    "title": "Raspberry Pi 3 Model B+ Starter Kit",
+    "category": "Electronics",
+    "tags": ["Microcontroller Development Boards", "Embedded Systems", "Programmers Evaluation Boards", "Raspberry Pi Kits"], 
+
+    "price": 5534.00 ,
+
+
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/RPI-kit.jpg",
+
+    "images": [
+        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Raspberry-Pi-3-B.jpg",
+        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/5V-3A-Raspberry-Pi-Supply.jpg",
+        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Raspberr-Pi-3-Model-B-or-B-plus-Case-Red-White.png",
+        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/1LAN_RJ45.jpg",
+        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/HDMI-to-HDMI_Copper_Black.jpg",
+        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Heat-Sink_Alimunium.jpg",
+        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/SD-card.jpg",
+        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/sandisk-32-gb-card.jpg"
+        
+    ],
+
+    "description": "An exclusive Starter Kit from Robu.in that includes the fastest model of the Raspberry Pi family – The Raspberry Pi 3 Model B+ and everything you need to get up and running.The raspberry pi 3 b+ kit is the most popular board featuring a 64-bit quad-core processor running at 1.4 GHz. It incorporates enhanced built-in dual-band WiFi (2.4 GHz and 5 GHz), Bluetooth 4.2/BLE, and faster Ethernet. Also included in this Raspberry Pi 3 Starter Kit is a premium Raspberry Pi 3 case, a 32 GB Class 10 MicroSD Card.The 5V,3 A Micro USB power supply is specially designed and tested for the Raspberry Pi 3 B+. The high-Quality 50cm HDMI to HDMI cable made up of Copper will give seamless connectivity with the Display. RJ45 Ethernet patch LAN cable with gold-plated connectors will give a high-speed LAN connection to your Board Get it and kick start your journey with Raspberry Pi.",
+    "rating": 4.5,
+    "reviewCount": 110,
+    "reviews": [
+      { "id": "r1", "name": "Tesjawi", "stars": 4, "text": "crazy." },
+      { "id": "r2", "name": "Surya", "stars": 5, "text": "very nice" },
+      { "id": "r3", "name": "Kavya", "stars": 2, "text": "omg!" },
+      { "id": "r4", "name": "Kancha", "stars": 5, "text": "Best Quality" }
+    ]
+  },
+  {
+    "id": "31",
+    "title": "Quantum Tiny Linux Development Kit – With SoM and Expansion Board",
+    "category": "Electronics",
+    "tags": ["Microcontroller Development Boards", "Embedded Systems", "Internet of Things"], 
+
+    "price": 8001.00 ,
+
+
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/quantum_mini_linux_dev_kit_hardware_overview_4vfLMw7_2000x.png",
+
+    "images": [
+        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/seeed_quantummini_2000x.jpg",
+        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Quantum-Mini-Linux-Dev-Kit_2000x.png"
+    ],
+
+    "description": "Quantum Tiny Linux Development Kit – With SoM and Expansion BoardQuantum Tiny Linux Development Kit consists of a core board which is the SoM (System on Module) and an expansion board as the carrier board.The SoM, Quark-N, is based on Allwinner H3, Quad-core Cortex-A7, and ARM Mali400 MP2 GPU. The carrier board, Atom-N, leads out a row of golden finger pins to realize I/O expansion, expand SPI, I2C, UART, GPIO, and other useful interfaces.The kit may be the smallest Linux development board on the market which is suitable for scenarios such as a personal server, intelligent voice assistant, and robotic development.",
+    "rating": 4.2,
+    "reviewCount": 115,
+    "reviews": [
+      { "id": "r1", "name": "Tesjawi", "stars": 4, "text": "crazy." },
+      { "id": "r2", "name": "Surya", "stars": 5, "text": "very nice" },
+      { "id": "r3", "name": "Kavya", "stars": 2, "text": "omg!" },
+      { "id": "r4", "name": "Kancha", "stars": 5, "text": "Best Quality" }
+    ]
+  },
+
+
+  {
+    "id": "32",
+    "title": "EK-TM4C123GXL",
+    "category": "Electronics",
+    "tags": ["Microcontroller Development Boards", "Embedded Systems", "Internet of Things", "Embedded Evaluation Kits"], 
+
+    "price": 1908.00 ,
+
+
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/EK_TM4C123GX.webp",
+
+    "images": [
+        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/EK_TM4C123GX.webp"
+    ],
+
+    "description": "The EK-TM4C123GXL, also known as the Tiva C Series LaunchPad, is a low-cost evaluation platform from Texas Instruments for the ARM Cortex-M4F-based microcontroller. It is widely used in engineering education and for prototyping high-performance embedded systems.",
+    "rating": 4.2,
+    "reviewCount": 115,
+    "reviews": [
+      { "id": "r1", "name": "Tesjawi", "stars": 4, "text": "crazy." },
+      { "id": "r2", "name": "Surya", "stars": 5, "text": "very nice" },
+      { "id": "r3", "name": "Kavya", "stars": 2, "text": "omg!" },
+      { "id": "r4", "name": "Kancha", "stars": 5, "text": "Best Quality" }
+    ]
+  },
+
+  {
+    "id": "33",
+    "title": "X-NUCLEO-GNSS1A1",
+    "category": "Electronics",
+    "tags": [
+      "Expansion Board"
+    ],
+    "price": 1923.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/x-nucleo-gnss1a1.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/x-nucleo-gnss1a1.jpg"
+    ],
+    "description": "The X-NUCLEO-GNSS1A1 is a specialized expansion board from STMicroelectronics designed to add high-performance satellite positioning capabilities to STM32 Nucleo development boards. It is built around the Teseo-LIV3F tiny GNSS module.",
+    "rating": 3.6,
+    "reviewCount": 161,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Amit",
+        "stars": 3,
+        "text": "Took a while to arrive."
+      }
+    ]
+  },
+  {
+    "id": "34",
+    "title": "SmartElex ATmega2560 Development Board with LCD1602 LCD Display-Upgraded",
+    "category": "Electronics",
+    "tags": [
+      "Microcontroller Development Boards",
+      "All-in-One Prototyping Boards",
+      "Industrial Embedded Systems"
+    ],
+    "price": 3952.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/SmartElex-ATmega2560-Development-Board-3.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/SmartElex-ATmega2560-Development-Board-6.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/SmartElex-ATmega2560-Development-Board-7.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/8-2.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/SmartElex-ATmega2560-Development-Board-with-LCD1602-LCD-Display-1-1.png",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/SmartElex-ATmega2560-Development-Board-with-LCD1602-LCD-Display-2-1.png",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/SmartElex-ATmega2560-Development-Board-with-LCD1602-LCD-Display-3-1.png"
+    ],
+    "description": "SmartElex ATMEGA2560 Development Board is a powerful development platform based on ATMEGA2560 microcontroller which is one of the most feature-rich AVR microcontrollers from Atmel, featuring 256K Flash, 8K RAM, 86 I/O lines arranged in nine 8 bit ports, 16 ADCs, 4 UARTs, 6 timers, 8 interrupts and much more. This board is ideal for developing embedded applications involving high-speed wireless communication, USB-based data logging, real-time data monitoring, and control etc.",
+    "rating": 4.0,
+    "reviewCount": 193,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Anjali",
+        "stars": 4,
+        "text": "Very good, works as expected."
+      }
+    ]
+  },
+  {
+    "id": "35",
+    "title": "ESP-01 ESP8266 Serial WIFI Wireless Transceiver Module",
+    "category": "Electronics",
+    "tags": [
+      "Internet of Things",
+      "Wireless Transceivers",
+      "Microcontroller Accessories"
+    ],
+    "price": 107.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/521.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/167.jpg"
+    ],
+    "description": "The ESP-01 ESP8266 Serial WIFI Wireless Transceiver Module is a self-contained SOC with integrated TCP/IP protocol stack that can give any microcontroller access to your WiFi network. The ESP8266 is capable of either hosting an application or offloading all Wi-Fi networking functions from another application processor.",
+    "rating": 3.6,
+    "reviewCount": 198,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Vikram",
+        "stars": 4,
+        "text": "Satisfied with the purchase."
+      },
+      {
+        "id": "r2",
+        "name": "Priya",
+        "stars": 3,
+        "text": "Decent quality for the price."
+      },
+      {
+        "id": "r3",
+        "name": "Vikram",
+        "stars": 3,
+        "text": "It's okay, does the job."
+      },
+      {
+        "id": "r4",
+        "name": "Aditya",
+        "stars": 4,
+        "text": "Fast delivery and good quality."
+      },
+      {
+        "id": "r5",
+        "name": "Vikram",
+        "stars": 4,
+        "text": "Fast delivery and good quality."
+      },
+      {
+        "id": "r6",
+        "name": "Priya",
+        "stars": 3,
+        "text": "Took a while to arrive."
+      },
+      {
+        "id": "r7",
+        "name": "Amit",
+        "stars": 3,
+        "text": "It's okay, does the job."
+      },
+      {
+        "id": "r8",
+        "name": "Neha",
+        "stars": 4,
+        "text": "Satisfied with the purchase."
+      }
+    ]
+  },
+  {
+    "id": "36",
+    "title": "ESPresso Lite V2.0 ESP8266, Espressif, IoT, wifi",
+    "category": "Electronics",
+    "tags": [
+      "Microcontrollers",
+      "Arduino-Compatible Boards"
+    ],
+    "price": 892.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/800x800-3-800x800.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/800x800-6-800x800.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/800x800-5-800x800.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/800x800-1-800x800.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/800x800-2-800x800.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Espresso-Lite-Fritzing-800x800-800x800.jpg"
+    ],
+    "description": "The ESPresso Lite V2.0 ESP8266 is the first low-cost Arduino-compatible ESP8266 WiFi development board manufactured by Malaysia. Working together with experts, a Singapore IoT technology company, this board allows anyone to learn, experiment and build their IoT projects easily and quickly.",
+    "rating": 4.6,
+    "reviewCount": 109,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Amit",
+        "stars": 5,
+        "text": "Best quality product."
+      },
+      {
+        "id": "r2",
+        "name": "Amit",
+        "stars": 5,
+        "text": "Highly recommended."
+      }
+    ]
+  },
+  {
+    "id": "37",
+    "title": "ESPresso Lite V2.0 IoT Starter Kit ESP8266, Espressif IoT WiFi",
+    "category": "Electronics",
+    "tags": [
+      "Arduino-Compatible Kits",
+      "Wireless Sensor Node Kits",
+      "Wi-Fi Development Kits"
+    ],
+    "price": 2249.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/KIT-ESP-01-800x800.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/KIT-ESP-01-800x800.jpg"
+    ],
+    "description": "The ESPresso Lite V2.0 IoT Starter Kit is an all-in-one educational bundle designed for beginners and developers to quickly prototype connected devices. Unlike the standalone board, the Starter Kit specifically includes the necessary sensors and debugging tools to build a functional IoT node out of the box.",
+    "rating": 5.0,
+    "reviewCount": 69,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Priya",
+        "stars": 4,
+        "text": "Fast delivery and good quality."
+      }
+    ]
+  },
+  {
+    "id": "38",
+    "title": "Micro SD Card Reader Module",
+    "category": "Electronics",
+    "tags": [
+      "Storage Modules",
+      "Arduino Modules",
+      "Breakout Boards",
+      "IoT Components"
+    ],
+    "price": 39.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Micro-SD-Card-Reader-Module-1.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Micro-SD-Card-Reader-Module-4.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/2-61.jpg"
+    ],
+    "description": "Add the desired memory to your Arduino project to store the data, Media etc. Micro SD Card Reader Module also called Micro SD Adaptor which is designed for dual I/O voltages. The Module is a simple solution for transferring data to and from a standard SD card. The pinout is directly compatible with Not only with Arduino as shown in the diagram in below, but can also be used with other microcontrollers. Micro SD Card Reader Module has an SPI interface which is compatible with any sd card and it uses 5V or 3.3V power supply which is compatible with Arduino UNO/Mega.SD module has various applications such as data logger, audio, video, graphics.",
+    "rating": 4.0,
+    "reviewCount": 187,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Anjali",
+        "stars": 3,
+        "text": "Took a while to arrive."
+      },
+      {
+        "id": "r2",
+        "name": "Sairaj",
+        "stars": 5,
+        "text": "Exceeded my expectations!"
+      },
+      {
+        "id": "r3",
+        "name": "Aditya",
+        "stars": 3,
+        "text": "Decent quality for the price."
+      },
+      {
+        "id": "r4",
+        "name": "Arjun",
+        "stars": 3,
+        "text": "Decent quality for the price."
+      },
+      {
+        "id": "r5",
+        "name": "Neha",
+        "stars": 5,
+        "text": "Highly recommended."
+      },
+      {
+        "id": "r6",
+        "name": "Amit",
+        "stars": 5,
+        "text": "Absolutely amazing!"
+      },
+      {
+        "id": "r7",
+        "name": "Arjun",
+        "stars": 4,
+        "text": "Satisfied with the purchase."
+      },
+      {
+        "id": "r8",
+        "name": "Sneha",
+        "stars": 3,
+        "text": "Decent quality for the price."
+      },
+      {
+        "id": "r9",
+        "name": "Sneha",
+        "stars": 3,
+        "text": "Decent quality for the price."
+      }
+    ]
+  },
+  {
+    "id": "39",
+    "title": "MCU-Micro USB Breadboard 5V Power Supply Module",
+    "category": "Electronics",
+    "tags": [
+      "Power Supply Modules",
+      "Breakout Boards",
+      "Prototyping Tools",
+      "Basic Electronic Components"
+    ],
+    "price": 12.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/4-6.png",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/4-6.png",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/mad.79.jpg"
+    ],
+    "description": "MCU-Micro USB Breadboard 5V Power Supply Module 5Pin Female Connector B type PCB Converter. This breakout board is great for interfacing USB Signals with your custom designed microcontroller boards. It also is useful if all you want is access to 5V USB power for your prototype circuits such as breadboards, perforated boards or Vero boards.Pinouts:VCC: 5V Power SupplyD- : USB D- SignalD+: USB D+ SignalID: USB Identifier Signal for OTG DevicesGND: Power Ground",
+    "rating": 4.5,
+    "reviewCount": 104,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Sneha",
+        "stars": 4,
+        "text": "Satisfied with the purchase."
+      },
+      {
+        "id": "r2",
+        "name": "Rahul",
+        "stars": 3,
+        "text": "Took a while to arrive."
+      },
+      {
+        "id": "r3",
+        "name": "Amit",
+        "stars": 5,
+        "text": "Best quality product."
+      },
+      {
+        "id": "r4",
+        "name": "Sneha",
+        "stars": 4,
+        "text": "Fast delivery and good quality."
+      },
+      {
+        "id": "r5",
+        "name": "Priya",
+        "stars": 4,
+        "text": "Very good, works as expected."
+      }
+    ]
+  },
+  {
+    "id": "40",
+    "title": "Male to Female Jumper Wires 40 Pin 30cm",
+    "category": "Electronics",
+    "tags": [
+      "Cables & Connectors",
+      "Prototyping Accessories",
+      "Jumper Wires"
+    ],
+    "price": 55.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/male-to-female.png",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/male-to-female.png",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/40P-Color-DuPont-Line-2-54-Female-To-Male-Male-To-Male-Female-To-Female-40.jpg"
+    ],
+    "description": "This is Male to Female Jumper Wires 40 Pin 30cm. A very Flexible and easily detachable cable to the no. of wires according to your requirement. It has 1Pin male to the 1pin female header with both ends. Also, it is compatible with 2.54 mm mil spacing pin headers.",
+    "rating": 4.6,
+    "reviewCount": 165,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Arjun",
+        "stars": 5,
+        "text": "Highly recommended."
+      },
+      {
+        "id": "r2",
+        "name": "Sneha",
+        "stars": 5,
+        "text": "Absolutely amazing!"
+      },
+      {
+        "id": "r3",
+        "name": "Amit",
+        "stars": 5,
+        "text": "Highly recommended."
+      },
+      {
+        "id": "r4",
+        "name": "Sneha",
+        "stars": 4,
+        "text": "Very good, works as expected."
+      },
+      {
+        "id": "r5",
+        "name": "Amit",
+        "stars": 3,
+        "text": "It's okay, does the job."
+      },
+      {
+        "id": "r6",
+        "name": "Anjali",
+        "stars": 5,
+        "text": "Absolutely amazing!"
+      },
+      {
+        "id": "r7",
+        "name": "Sneha",
+        "stars": 4,
+        "text": "Satisfied with the purchase."
+      }
+    ]
+  },
+  {
+    "id": "41",
+    "title": "ProMicro RP2040 Blackboard Proxy",
+    "category": "Electronics",
+    "tags": [
+      "Microcontroller Boards",
+      "Pro Micro Compatible Controllers",
+      "IoT Development Boards"
+    ],
+    "price": 303.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/2-17.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/5-31.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/17-1.jpg"
+    ],
+    "description": "The ProMicro RP2040 Blackboard Proxy is a high-performance, ultra-compact development board that adapts the powerful Raspberry Pi RP2040 chip into the classic \"Pro Micro\" footprint.",
+    "rating": 3.6,
+    "reviewCount": 38,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Aditya",
+        "stars": 5,
+        "text": "Highly recommended."
+      },
+      {
+        "id": "r2",
+        "name": "Sneha",
+        "stars": 5,
+        "text": "Highly recommended."
+      },
+      {
+        "id": "r3",
+        "name": "Priya",
+        "stars": 3,
+        "text": "Took a while to arrive."
+      },
+      {
+        "id": "r4",
+        "name": "Arjun",
+        "stars": 4,
+        "text": "Very good, works as expected."
+      },
+      {
+        "id": "r5",
+        "name": "Arjun",
+        "stars": 5,
+        "text": "Best quality product."
+      },
+      {
+        "id": "r6",
+        "name": "Aditya",
+        "stars": 4,
+        "text": "Very good, works as expected."
+      },
+      {
+        "id": "r7",
+        "name": "Priya",
+        "stars": 4,
+        "text": "Fast delivery and good quality."
+      },
+      {
+        "id": "r8",
+        "name": "Rahul",
+        "stars": 5,
+        "text": "Exceeded my expectations!"
+      },
+      {
+        "id": "r9",
+        "name": "Vikram",
+        "stars": 3,
+        "text": "Decent quality for the price."
+      },
+      {
+        "id": "r10",
+        "name": "Sneha",
+        "stars": 4,
+        "text": "Very good, works as expected."
+      }
+    ]
+  },
+  {
+    "id": "42",
+    "title": "Microsoft\u2019s Azure Sphere MT3620 Starter Kit",
+    "category": "Electronics",
+    "tags": [
+      "IoT Development Kits",
+      "Development Boards",
+      "Cloud-Integrated Hardware",
+      "Embedded Systems"
+    ],
+    "price": 8499.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/4-54.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/2-49.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/3-35.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/5-22.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/1-62.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/3-35 (1).jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/5-22 (1).jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/1-62 (1).jpg"
+    ],
+    "description": "Microsoft\u2019s Azure Sphere MT3620 Starter Kit supports rapid prototyping of highly secure, end-to-end IoT implementations using Microsoft\u2019s Azure Sphere. The small form-factor carrier board includes a production-ready MT3620 Sphere module with Wi-Fi connectivity, along with multiple expansion interfaces for easy integration of sensors, displays, motors, relays, and more.This Starter Kit highlights Avnet\u2019s certified, production-ready Sphere MT3620 module which is based on the highly integrated MediaTek MT3620AN tri-core Wi-Fi SoC device. Embedded user applications targeting it\u2019s 500 MHz ARM Cortex-A7 application processor are built and debugged using Microsoft\u2019s popular Visual Studio IDE.",
+    "rating": 4.8,
+    "reviewCount": 63,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Arjun",
+        "stars": 5,
+        "text": "Best quality product."
+      }
+    ]
+  },
+  {
+    "id": "43",
+    "title": "Sipeed Maixduino for RISC-V AI + IoT",
+    "category": "Electronics",
+    "tags": [
+      "Microcontroller Boards",
+      "RP2040 Development Tools"
+    ],
+    "price": 3590.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/3.3.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/3.2.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/3.1.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/23.jpg"
+    ],
+    "description": "Based on MAIX Module, the Maixduino is a RISC-V 64 development board for AI + IoT applications. Different with other Sipeed MAIX dev. boards, Maixduino was designed in an Arduino Uno form factor, with the ESP32 module on board together with the MAIX AI module.",
+    "rating": 3.9,
+    "reviewCount": 160,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Anjali",
+        "stars": 4,
+        "text": "Satisfied with the purchase."
+      }
+    ]
+  },
+  {
+    "id": "44",
+    "title": "LILYGO T-Display 4MB ESP32 WiFi Bluetooth Development Board",
+    "category": "Electronics",
+    "tags": [
+      "Microcontroller Development Boards",
+      "IoT Development Kits",
+      "Display Modules"
+    ],
+    "price": 1198.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/TTGO-ESP32-WiFi-and-Bluetooth-Development-Board-with-1.14-LCD-Display-2.png",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/TTGO-ESP32-WiFi-and-Bluetooth-Development-Board-with-1.14-LCD-Display-1.png",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/TTGO-ESP32-WiFi-and-Bluetooth-Development-Board-with-1.14-LCD-Display-3.png",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/13.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/3.3.jpg"
+    ],
+    "description": "This is LILYGO board is based on the ESP32-D0WDQ6 Wifi Module comes with a built-in 1.14inch display and also it has an onboard battery connector and battery management system. The board has an onboard USB Type \u2013 C connector which can be used to provide power and to upload code to the ESP32.Features:Easy to UseLOW Energy ConsumptionWide ApplicationLong Life",
+    "rating": 4.4,
+    "reviewCount": 112,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Aditya",
+        "stars": 5,
+        "text": "Highly recommended."
+      },
+      {
+        "id": "r2",
+        "name": "Rahul",
+        "stars": 4,
+        "text": "Fast delivery and good quality."
+      },
+      {
+        "id": "r3",
+        "name": "Amit",
+        "stars": 4,
+        "text": "Satisfied with the purchase."
+      },
+      {
+        "id": "r4",
+        "name": "Amit",
+        "stars": 4,
+        "text": "Fast delivery and good quality."
+      },
+      {
+        "id": "r5",
+        "name": "Priya",
+        "stars": 5,
+        "text": "Best quality product."
+      }
+    ]
+  },
+  {
+    "id": "45",
+    "title": "Pycom WiPy 2.0 WiFi-Bluetooth IOT Development Board",
+    "category": "Electronics",
+    "tags": [
+      "IoT Development Boards",
+      "MicroPython Controllers",
+      "Wireless Communication Modules"
+    ],
+    "price": 1784.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Pycom-WiPy-2.0-WiFi-Bluetooth-IOT-Development-Board-4.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/25-1.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Pycom-WiPy-2.0-WiFi-Bluetooth-IOT-Development-Board-1.jpg"
+    ],
+    "description": "Introducing WiPy 2.0. The tiny MicroPython enabled Wifi & Bluetooth IoT development platform. With a 1KM WiFi range, state of the art Espressif ESP32 chipset and dual processor, the WiPy is all about taking the Internet of Things to the next level. Create and connect your things everywhere.",
+    "rating": 4.8,
+    "reviewCount": 138,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Sairaj",
+        "stars": 5,
+        "text": "Absolutely amazing!"
+      },
+      {
+        "id": "r2",
+        "name": "Sneha",
+        "stars": 4,
+        "text": "Very good, works as expected."
+      },
+      {
+        "id": "r3",
+        "name": "Anjali",
+        "stars": 3,
+        "text": "It's okay, does the job."
+      },
+      {
+        "id": "r4",
+        "name": "Amit",
+        "stars": 5,
+        "text": "Absolutely amazing!"
+      },
+      {
+        "id": "r5",
+        "name": "Sairaj",
+        "stars": 4,
+        "text": "Fast delivery and good quality."
+      },
+      {
+        "id": "r6",
+        "name": "Aditya",
+        "stars": 5,
+        "text": "Best quality product."
+      },
+      {
+        "id": "r7",
+        "name": "Priya",
+        "stars": 3,
+        "text": "Took a while to arrive."
+      },
+      {
+        "id": "r8",
+        "name": "Aditya",
+        "stars": 3,
+        "text": "Took a while to arrive."
+      },
+      {
+        "id": "r9",
+        "name": "Anjali",
+        "stars": 5,
+        "text": "Exceeded my expectations!"
+      }
+    ]
+  },
+  {
+    "id": "46",
+    "title": "NANO32 ESP32 IoT Development Board",
+    "category": "Electronics",
+    "tags": [
+      "Microcontroller Development Boards",
+      "IoT Development Kits",
+      "Wireless Communication Modules"
+    ],
+    "price": 2913.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/robu-3.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/robu-1-1.jpg"
+    ],
+    "description": "The NANO32 ESP32 IoT Development Board is the product by the designers of Arduino Nano and Espresso Lite (Thailand-based Gravitech and MakerAsia respectively) is the first third-party development board that provides another alternative to the eager-beavers community of geeks, makers, hackers and developers interested in the latest Wi-Fi/BT combo \u2018wonder\u2019 chip.",
+    "rating": 4.4,
+    "reviewCount": 186,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Arjun",
+        "stars": 4,
+        "text": "Fast delivery and good quality."
+      },
+      {
+        "id": "r2",
+        "name": "Neha",
+        "stars": 4,
+        "text": "Very good, works as expected."
+      },
+      {
+        "id": "r3",
+        "name": "Rahul",
+        "stars": 3,
+        "text": "Took a while to arrive."
+      },
+      {
+        "id": "r4",
+        "name": "Sairaj",
+        "stars": 3,
+        "text": "It's okay, does the job."
+      },
+      {
+        "id": "r5",
+        "name": "Arjun",
+        "stars": 4,
+        "text": "Satisfied with the purchase."
+      },
+      {
+        "id": "r6",
+        "name": "Vikram",
+        "stars": 3,
+        "text": "It's okay, does the job."
+      }
+    ]
+  },
+  {
+    "id": "47",
+    "title": "ESP8266 Serial Port To Wi-Fi Module, FL-M1S",
+    "category": "Electronics",
+    "tags": [
+      "Wi-Fi Modules",
+      "Serial-to-Wireless Adapters",
+      "IoT Communication Components",
+      "Wireless Transceivers"
+    ],
+    "price": 123.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/534.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/robu-2-25.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/robu-5-12.jpg"
+    ],
+    "description": "This ESP8266 Serial Port To Wi-Fi Module, FL-M1S  serial transceiver module, based on ESP8266 SoC with an integrated TCP/IP protocol stack It can either host the application or offload all Wi-Fi networking functions from another application processor.ESP8266 has powerful onboard processing and storage capabilities allowing it to integrate with sensors and other devices through GPIOs with minimal development up-front and minimal loading during runtime.",
+    "rating": 4.7,
+    "reviewCount": 75,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Anjali",
+        "stars": 5,
+        "text": "Exceeded my expectations!"
+      },
+      {
+        "id": "r2",
+        "name": "Arjun",
+        "stars": 5,
+        "text": "Exceeded my expectations!"
+      },
+      {
+        "id": "r3",
+        "name": "Anjali",
+        "stars": 5,
+        "text": "Exceeded my expectations!"
+      },
+      {
+        "id": "r4",
+        "name": "Aditya",
+        "stars": 3,
+        "text": "It's okay, does the job."
+      }
+    ]
+  },
+  {
+    "id": "48",
+    "title": "Uno R3 Board without Cable compatible with Arduino",
+    "category": "Electronics",
+    "tags": [
+      "Microcontroller Development Boards",
+      "8-bit Microcontrollers",
+      "Arduino & Compatible Boards"
+    ],
+    "price": 448.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Sku-14140.png",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Coupon-code-Banner-2.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Arduino-Comparision-2.jpg"
+    ],
+    "description": "Uno R3 is one of the widely used and accepted module for prototyping. It has huge user community worldwide. Uno R3 SMD module is based on the Atmega328p-AU MCU of Atmel AVR Family. It is a 8 Bit Microcontroller. This is an entry level development board. But, is not a basic one, it packs 32 KB Flash, 2 KB RAM, and 1 KB of EEPROM.",
+    "rating": 4.5,
+    "reviewCount": 46,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Vikram",
+        "stars": 3,
+        "text": "It's okay, does the job."
+      },
+      {
+        "id": "r2",
+        "name": "Anjali",
+        "stars": 4,
+        "text": "Very good, works as expected."
+      },
+      {
+        "id": "r3",
+        "name": "Arjun",
+        "stars": 5,
+        "text": "Absolutely amazing!"
+      },
+      {
+        "id": "r4",
+        "name": "Sairaj",
+        "stars": 4,
+        "text": "Very good, works as expected."
+      },
+      {
+        "id": "r5",
+        "name": "Neha",
+        "stars": 4,
+        "text": "Satisfied with the purchase."
+      },
+      {
+        "id": "r6",
+        "name": "Aditya",
+        "stars": 4,
+        "text": "Satisfied with the purchase."
+      },
+      {
+        "id": "r7",
+        "name": "Sneha",
+        "stars": 4,
+        "text": "Fast delivery and good quality."
+      }
+    ]
+  },
+  {
+    "id": "49",
+    "title": "Data Logger module Logging Shield data Recorder Shield",
+    "category": "Electronics",
+    "tags": [
+      "Arduino Shields",
+      "Storage & Memory Modules",
+      "Data Acquisition (DAQ) Tools",
+      "IoT Components"
+    ],
+    "price": 146.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/7-47.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/New-Data-Logger-Module-Logging-Recorder-Shield-V1-0-for-Arduino-UNO-SD-Card.jpg_640x640.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/12-1-3.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/1-57.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Micro-SD-Card-Reader-Module-1.jpg"
+    ],
+    "description": "Here\u2019s a handy Arduino shield we\u2019ve had a lot of people looking for a dedicated and well-designed data logging shield. We worked hard to engineer an inexpensive but well-rounded design. Not only is it easy to assemble and customize. The Data Logger module Logging Shield data Recorder Shield also comes with great documentation and libraries.",
+    "rating": 3.9,
+    "reviewCount": 178,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Sairaj",
+        "stars": 5,
+        "text": "Absolutely amazing!"
+      },
+      {
+        "id": "r2",
+        "name": "Sairaj",
+        "stars": 4,
+        "text": "Fast delivery and good quality."
+      },
+      {
+        "id": "r3",
+        "name": "Priya",
+        "stars": 3,
+        "text": "It's okay, does the job."
+      },
+      {
+        "id": "r4",
+        "name": "Rahul",
+        "stars": 5,
+        "text": "Exceeded my expectations!"
+      },
+      {
+        "id": "r5",
+        "name": "Sneha",
+        "stars": 3,
+        "text": "Decent quality for the price."
+      },
+      {
+        "id": "r6",
+        "name": "Amit",
+        "stars": 3,
+        "text": "Took a while to arrive."
+      },
+      {
+        "id": "r7",
+        "name": "Sairaj",
+        "stars": 4,
+        "text": "Very good, works as expected."
+      },
+      {
+        "id": "r8",
+        "name": "Vikram",
+        "stars": 4,
+        "text": "Satisfied with the purchase."
+      },
+      {
+        "id": "r9",
+        "name": "Amit",
+        "stars": 3,
+        "text": "It's okay, does the job."
+      }
+    ]
+  },
+  {
+    "id": "50",
+    "title": "UNO Proto Shield prototype expansion board with SYB-170 mini breadboard",
+    "category": "Electronics",
+    "tags": [
+      "Arduino Shields",
+      "Prototyping Boards",
+      "Educational Electronics",
+      "Breadboards & Accessories"
+    ],
+    "price": 82.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/5-5.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/5-5.jpg"
+    ],
+    "description": "Used in conjunction with the Arduino UNO Proto Shield prototype expansion board, used to build prototype circuits can be directly soldered components on the board, you can also connect the circuit through the above mini breadboard. Between breadboard and the board through the double-sided adhesive connection, when sold breadboard and the board are separate.",
+    "rating": 3.8,
+    "reviewCount": 21,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Anjali",
+        "stars": 3,
+        "text": "It's okay, does the job."
+      },
+      {
+        "id": "r2",
+        "name": "Aditya",
+        "stars": 4,
+        "text": "Satisfied with the purchase."
+      },
+      {
+        "id": "r3",
+        "name": "Arjun",
+        "stars": 5,
+        "text": "Highly recommended."
+      }
     ]
   }
 ]
