@@ -804,8 +804,7 @@
     ]
   },
 
-  {
-    "id": "33",
+  { "id": "33",
     "title": "X-NUCLEO-GNSS1A1",
     "category": "Electronics",
     "tags": [
@@ -1729,6 +1728,2656 @@
         "name": "Arjun",
         "stars": 5,
         "text": "Highly recommended."
+      }
+    ]
+  },
+  {
+    "id": "51",
+    "title": "Adafruit Industries LLC 2130",
+    "category": "Electronics",
+    "tags": [
+      "Development Boards",
+      "Evaluation Boards",
+      "Audio Amplifier Evaluation Boards"
+    ],
+    "price": 256.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/1528_2130_sml(200x200).webp",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/1528_2130_sml(200x200).webp"
+    ],
+    "description": "The Adafruit 2130, also known as the PowerBoost 1000C, is a highly versatile power management module. It is a combined DC/DC boost converter and LiPo battery charger that allows you to run a 5V project from a single-cell Lithium Ion or Lithium Polymer battery, even while the battery is being charged.",
+    "rating": 3.7,
+    "reviewCount": 34,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Rahul",
+        "stars": 4,
+        "text": "Satisfied with the purchase."
+      },
+      {
+        "id": "r2",
+        "name": "Sairaj",
+        "stars": 4,
+        "text": "Satisfied with the purchase."
+      },
+      {
+        "id": "r3",
+        "name": "Sneha",
+        "stars": 5,
+        "text": "Highly recommended."
+      },
+      {
+        "id": "r4",
+        "name": "Neha",
+        "stars": 4,
+        "text": "Fast delivery and good quality."
+      },
+      {
+        "id": "r5",
+        "name": "Vikram",
+        "stars": 5,
+        "text": "Best quality product."
+      },
+      {
+        "id": "r6",
+        "name": "Aditya",
+        "stars": 5,
+        "text": "Absolutely amazing!"
+      },
+      {
+        "id": "r7",
+        "name": "Priya",
+        "stars": 4,
+        "text": "Satisfied with the purchase."
+      },
+      {
+        "id": "r8",
+        "name": "Rahul",
+        "stars": 5,
+        "text": "Best quality product."
+      },
+      {
+        "id": "r9",
+        "name": "Rahul",
+        "stars": 3,
+        "text": "Took a while to arrive."
+      }
+    ]
+  },
+  {
+    "id": "52",
+    "title": "Renesas Electronics Fast Prototyping Board for RL78/G23 16 bit Prototyping Board RTK7RLG230CLG000BJ",
+    "category": "Electronics",
+    "tags": [
+      "Microcontroller Development Boards",
+      "16-bit Microcontrollers",
+      "Embedded Evaluation Tools"
+    ],
+    "price": 3042.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Y2174407-02.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Y2174407-01.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Y2174407-03.jpg"
+    ],
+    "description": "This board is optimized for low-power applications and ease of use. It features the RL78/G23 16-bit MCU, which is known for its industry-leading low power consumption and high processing performance. The board includes a built-in emulator circuit, allowing you to write and debug programs without needing additional tools. It also provides Arduino Uno and Pmod\u2122 interfaces, making it highly expandable with a wide range of existing sensors and modules.",
+    "rating": 3.8,
+    "reviewCount": 67,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Vikram",
+        "stars": 5,
+        "text": "Absolutely amazing!"
+      },
+      {
+        "id": "r2",
+        "name": "Aditya",
+        "stars": 5,
+        "text": "Highly recommended."
+      }
+    ]
+  },
+  {
+    "id": "53",
+    "title": "Infineon OPTIGA Trust Adapter Adapter Evaluation Board OPTIGATRUSTADAPTERTOBO1",
+    "category": "Electronics",
+    "tags": [
+      "Security Evaluation Boards",
+      "IoT Security Development Kits",
+      "Embedded Development Accessories"
+    ],
+    "price": 7683.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Y0277205-01.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Y0277205-01.jpg"
+    ],
+    "description": "This adapter board acts as a standardized hardware interface for evaluating Infineon's OPTIGA\u2122 Trust security solutions (such as the Trust M, Trust X, or Trust E). It allows you to easily connect these security chips to popular development ecosystems like Arduino, Raspberry Pi, and MikroE Click sockets. It is a critical tool for developers looking to add hardware-based security, such as authentication, encryption, and secure storage, to their IoT devices without designing custom PCBs in the early stages.",
+    "rating": 4.9,
+    "reviewCount": 114,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Priya",
+        "stars": 4,
+        "text": "Fast delivery and good quality."
+      },
+      {
+        "id": "r2",
+        "name": "Arjun",
+        "stars": 5,
+        "text": "Best quality product."
+      },
+      {
+        "id": "r3",
+        "name": "Vikram",
+        "stars": 4,
+        "text": "Fast delivery and good quality."
+      },
+      {
+        "id": "r4",
+        "name": "Anjali",
+        "stars": 5,
+        "text": "Exceeded my expectations!"
+      },
+      {
+        "id": "r5",
+        "name": "Sairaj",
+        "stars": 4,
+        "text": "Satisfied with the purchase."
+      },
+      {
+        "id": "r6",
+        "name": "Rahul",
+        "stars": 5,
+        "text": "Highly recommended."
+      }
+    ]
+  },
+  {
+    "id": "54",
+    "title": "Microchip AVR16EB32 CURIOSITY NANO PCB Assembly Evaluation Board EV73J36A",
+    "category": "Electronics",
+    "tags": [
+      "Microcontroller Development Boards",
+      "8-bit Microcontrollers",
+      "Curiosity Nano Evaluation Kits",
+      "Embedded Development Tools"
+    ],
+    "price": 1585.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Y0301096-01 (1).jpg",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Y0301096-01 (1).jpg"
+    ],
+    "description": "This PCB assembly features the AVR16EB32 microcontroller, which is an 8-bit MCU optimized for low-latency control and analog signal conditioning. The board includes an on-board debugger (nEDBG), which means no external tools are required to program or debug the MCU. It provides access to all I/O pins via headers and includes a user-programmable button and LED. The board is also compatible with the Curiosity Nano Base for Click boards\u2122, allowing for easy hardware expansion.",
+    "rating": 4.0,
+    "reviewCount": 54,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Aditya",
+        "stars": 4,
+        "text": "Fast delivery and good quality."
+      }
+    ]
+  },
+  {
+    "id": "55",
+    "title": "NodeMcu V3 Lua WIFI Internet of Things development board",
+    "category": "Electronics",
+    "tags": [
+      "IoT Development Boards",
+      "Wi-Fi Microcontrollers",
+      "Prototyping Hardware"
+    ],
+    "price": 415.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/4_e039e1e6-0e75-4159-a870-4c83215766c0_720x.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/4_e039e1e6-0e75-4159-a870-4c83215766c0_720x.jpg"
+    ],
+    "description": "The NodeMCU V3 (often manufactured by LoLin) integrates the ESP-12E module with a built-in USB-to-Serial converter (typically the CH340G) and a 3.3V voltage regulator. This \"all-in-one\" design allows you to plug it directly into your computer via Micro-USB to start programming. While it was originally designed for the Lua scripting language, it is most commonly programmed today using Arduino C++ or MicroPython.",
+    "rating": 4.0,
+    "reviewCount": 18,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Vikram",
+        "stars": 5,
+        "text": "Highly recommended."
+      }
+    ]
+  },
+  {
+    "id": "56",
+    "title": "ESP32 Nodemcu Lua Board Development",
+    "category": "Electronics",
+    "tags": [
+      "IoT Development Boards",
+      "Dual-Core Microcontrollers",
+      "Wireless Communication Modules"
+    ],
+    "price": 1175.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/3_e28b7c3d-fe81-418c-a938-aec4f950d6eb_720x.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/3_e28b7c3d-fe81-418c-a938-aec4f950d6eb_720x.jpg"
+    ],
+    "description": "The ESP32 NodeMCU is a powerful upgrade to the ESP8266, featuring a dual-core 32-bit processor, integrated Wi-Fi, and Dual-mode Bluetooth (Classic + BLE). It is designed for high-performance IoT applications that require more processing power and memory. While \"NodeMCU\" refers to the original Lua firmware, these boards are now industry standards for MicroPython and Arduino development. They include an onboard USB-to-Serial bridge (like the CP2102 or CH340) and a voltage regulator for easy USB-powered prototyping.",
+    "rating": 3.6,
+    "reviewCount": 20,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Sairaj",
+        "stars": 3,
+        "text": "Took a while to arrive."
+      },
+      {
+        "id": "r2",
+        "name": "Arjun",
+        "stars": 4,
+        "text": "Fast delivery and good quality."
+      }
+    ]
+  },
+  {
+    "id": "57",
+    "title": "PCIe to M.2 4G/5G And USB 3.2 HAT for Raspberry Pi 5",
+    "category": "Electronics",
+    "tags": [
+      "Raspberry Pi 5 Accessories",
+      "PCIe Expansion Boards",
+      "Cellular IoT Gateways"
+    ],
+    "price": 2899.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/pcie-to-4g-5g-m.2-usb3.2-hat-plus-1_720x.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/pcie-to-4g-5g-m.2-usb3.2-hat-plus-1_720x.jpg"
+    ],
+    "description": "The PCIe to M.2 4G/5G and USB 3.2 HAT is an add-on board that converts the Raspberry Pi 5's 16-pin PCIe connector into an M.2 Key-B slot (typically used for 4G/5G modules) and additional USB 3.2 Gen 1 ports. These HATs often include integrated cooling, SIM card slots, and power management to handle the high power requirements of 5G modems. They allow the Pi 5 to act as a high-speed cellular gateway or an industrial IoT controller with ultra-low latency.",
+    "rating": 4.6,
+    "reviewCount": 134,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Vikram",
+        "stars": 5,
+        "text": "Highly recommended."
+      },
+      {
+        "id": "r2",
+        "name": "Amit",
+        "stars": 5,
+        "text": "Absolutely amazing!"
+      }
+    ]
+  },
+  {
+    "id": "58",
+    "title": "Micro HDMI to HDMI Multifunctional Adapter for Raspberry Pi",
+    "category": "Electronics",
+    "tags": [
+      "Raspberry Pi Accessories",
+      "Video Cables & Adapters",
+      "HDMI Converters"
+    ],
+    "price": 499.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/pi5-connector-adapter-1_720x.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/pi5-connector-adapter-1_720x.jpg"
+    ],
+    "description": "A specialized connector designed for the Raspberry Pi 4 and Raspberry Pi 5, which use Micro HDMI ports to save space. A \"multifunctional\" version often goes beyond a simple gender changer; it may include features like integrated audio breakout (3.5mm jack), additional power inputs to stabilize the signal over long cables, or a 90-degree angled design to fit into tight enclosures or \"Blackboard\" proxy setups. It allows you to use standard, full-sized HDMI cables to connect your Pi to monitors, TVs, or projectors.",
+    "rating": 4.0,
+    "reviewCount": 189,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Arjun",
+        "stars": 3,
+        "text": "It's okay, does the job."
+      },
+      {
+        "id": "r2",
+        "name": "Aditya",
+        "stars": 4,
+        "text": "Satisfied with the purchase."
+      },
+      {
+        "id": "r3",
+        "name": "Neha",
+        "stars": 3,
+        "text": "Decent quality for the price."
+      }
+    ]
+  },
+  {
+    "id": "59",
+    "title": "USB Current and Voltage Meter - Voltmeter / Ammeter for USB Chargers",
+    "category": "USB Testers & Analyzers, Electrical Multimeters",
+    "tags": [],
+    "price": 179.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/DSC02385_2000x.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/DSC02385_2000x.jpg"
+    ],
+    "description": "A compact, \"pass-through\" diagnostic tool used to measure the real-time voltage (Volts) and current draw (Amps) from a USB power source to a connected device. It is essential for testing the health of USB chargers, checking the quality of charging cables, and monitoring the power consumption of microcontrollers like the ESP32 or Raspberry Pi. Many models also track capacity (mAh) and energy (Wh), which is helpful for testing the actual capacity of power banks.",
+    "rating": 3.6,
+    "reviewCount": 121,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Vikram",
+        "stars": 4,
+        "text": "Fast delivery and good quality."
+      },
+      {
+        "id": "r2",
+        "name": "Aditya",
+        "stars": 5,
+        "text": "Best quality product."
+      },
+      {
+        "id": "r3",
+        "name": "Vikram",
+        "stars": 3,
+        "text": "It's okay, does the job."
+      },
+      {
+        "id": "r4",
+        "name": "Sneha",
+        "stars": 3,
+        "text": "Took a while to arrive."
+      },
+      {
+        "id": "r5",
+        "name": "Rahul",
+        "stars": 5,
+        "text": "Absolutely amazing!"
+      },
+      {
+        "id": "r6",
+        "name": "Priya",
+        "stars": 4,
+        "text": "Very good, works as expected."
+      },
+      {
+        "id": "r7",
+        "name": "Amit",
+        "stars": 4,
+        "text": "Satisfied with the purchase."
+      },
+      {
+        "id": "r8",
+        "name": "Priya",
+        "stars": 5,
+        "text": "Absolutely amazing!"
+      },
+      {
+        "id": "r9",
+        "name": "Neha",
+        "stars": 4,
+        "text": "Very good, works as expected."
+      },
+      {
+        "id": "r10",
+        "name": "Anjali",
+        "stars": 4,
+        "text": "Satisfied with the purchase."
+      }
+    ]
+  },
+  {
+    "id": "60",
+    "title": "16 Bit I2C ADS1115 4 channel ADC Module with Pro Gain Amplifier",
+    "category": "Electronics",
+    "tags": [
+      "Data Acquisition Modules",
+      "Analog-to-Digital Converters (ADC)",
+      "Sensor Interface Modules",
+      "Electronics Components"
+    ],
+    "price": 549.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/He838e63450e5472db5f42b79b8b2790bZ_720x.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/H561dd5381edb49a8ae0d9e067da5df4am_720x.jpg"
+    ],
+    "description": "A high-precision 16-bit Analog-to-Digital Converter (ADC) that allows microcontrollers without built-in ADCs (like the Raspberry Pi) or with low-resolution ADCs to read analog signals with extreme accuracy. It features four input channels that can be used as four single-ended or two differential inputs. The integrated Programmable Gain Amplifier (PGA) allows you to boost small signals up to $\\pm 256\\text{mV}$, making it ideal for measuring tiny voltage changes from sensors. It communicates via I2C, making it easy to chain with other modules.",
+    "rating": 3.7,
+    "reviewCount": 72,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Sairaj",
+        "stars": 5,
+        "text": "Absolutely amazing!"
+      },
+      {
+        "id": "r2",
+        "name": "Amit",
+        "stars": 3,
+        "text": "Took a while to arrive."
+      },
+      {
+        "id": "r3",
+        "name": "Aditya",
+        "stars": 5,
+        "text": "Best quality product."
+      },
+      {
+        "id": "r4",
+        "name": "Vikram",
+        "stars": 5,
+        "text": "Best quality product."
+      }
+    ]
+  },
+  {
+    "id": "61",
+    "title": "AD8221AR / AD8221 Precision Instrumentation Amplifier",
+    "category": "Electronics",
+    "tags": [
+      "Instrumentation Amplifiers",
+      "Precision Operational Amplifiers",
+      "Signal Conditioning Modules",
+      "Integrated Circuits (IC)"
+    ],
+    "price": 1299.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/20191101_130625_720x.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/20191101_130454_720x.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/20191101_130652_720x.jpg"
+    ],
+    "description": "The AD8221 is a high-performance, precision instrumentation amplifier that delivers the industry's highest Common-Mode Rejection Ratio (CMRR) over frequency in its class. It is designed to extract small differential signals in the presence of large common-mode noise, making it ideal for precision data acquisition, biomedical monitoring, and aerospace instrumentation. The gain is easily set with a single external resistor, ranging from 1 to 1000. It is available in space-saving MSOP and SOIC packages, ensuring high accuracy even at high temperatures and frequencies.",
+    "rating": 3.6,
+    "reviewCount": 161,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Sairaj",
+        "stars": 4,
+        "text": "Fast delivery and good quality."
+      },
+      {
+        "id": "r2",
+        "name": "Amit",
+        "stars": 5,
+        "text": "Highly recommended."
+      },
+      {
+        "id": "r3",
+        "name": "Vikram",
+        "stars": 3,
+        "text": "Decent quality for the price."
+      },
+      {
+        "id": "r4",
+        "name": "Rahul",
+        "stars": 3,
+        "text": "Took a while to arrive."
+      },
+      {
+        "id": "r5",
+        "name": "Amit",
+        "stars": 4,
+        "text": "Very good, works as expected."
+      },
+      {
+        "id": "r6",
+        "name": "Vikram",
+        "stars": 4,
+        "text": "Satisfied with the purchase."
+      },
+      {
+        "id": "r7",
+        "name": "Aditya",
+        "stars": 3,
+        "text": "Took a while to arrive."
+      },
+      {
+        "id": "r8",
+        "name": "Aditya",
+        "stars": 3,
+        "text": "Decent quality for the price."
+      },
+      {
+        "id": "r9",
+        "name": "Rahul",
+        "stars": 3,
+        "text": "Took a while to arrive."
+      },
+      {
+        "id": "r10",
+        "name": "Vikram",
+        "stars": 3,
+        "text": "It's okay, does the job."
+      }
+    ]
+  },
+  {
+    "id": "62",
+    "title": "12 Bit I2C ADS1015 4 channel ADC Module with Pro Gain Amplifier",
+    "category": "Electronics",
+    "tags": [
+      "Data Acquisition Modules",
+      "Analog-to-Digital Converters (ADC)",
+      "Sensor Interface Modules",
+      "Electronic Components"
+    ],
+    "price": 549.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/ads1015-16-bit-adc-06-800x800_720x.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/H8f922cac1e2d4810ae1569d0332aaf3ft_720x.jpg"
+    ],
+    "description": "The ADS1015 is a high-speed, precision 12-bit Analog-to-Digital Converter (ADC) designed for microcontrollers that either lack an ADC or require higher performance. It features four input channels that can be configured as four single-ended or two differential inputs. Its standout feature is the Programmable Gain Amplifier (PGA), which can boost low-voltage signals (up to x16), allowing for the measurement of very small analog changes. With a high sampling rate of up to 3300 samples per second, it is significantly faster than its 16-bit sibling (the ADS1115), making it ideal for monitoring rapidly changing signals.",
+    "rating": 3.5,
+    "reviewCount": 42,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Priya",
+        "stars": 3,
+        "text": "Took a while to arrive."
+      },
+      {
+        "id": "r2",
+        "name": "Arjun",
+        "stars": 5,
+        "text": "Absolutely amazing!"
+      }
+    ]
+  },
+  {
+    "id": "63",
+    "title": "CJMCU-9833 AD9833 Module Signal Generator Module",
+    "category": "Electronics",
+    "tags": [
+      "Signal Generator Modules",
+      "Function Generators",
+      "DDS (Direct Digital Synthesis) Modules",
+      "Electronic Prototyping Components"
+    ],
+    "price": 499.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/20191101_130512_720x.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/20191101_130512_720x.jpg"
+    ],
+    "description": "A low-power, programmable waveform generator capable of producing sine, triangular, and square wave outputs. It is based on the AD9833 Direct Digital Synthesis (DDS) chip. The module features a high-precision 25MHz active crystal oscillator and communicates via a 3-wire SPI interface, making it easy to control frequency and phase via software. It is widely used for sensor excitation, frequency sweeping, and clock generation in electronic testing.",
+    "rating": 4.7,
+    "reviewCount": 144,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Arjun",
+        "stars": 4,
+        "text": "Very good, works as expected."
+      },
+      {
+        "id": "r2",
+        "name": "Sairaj",
+        "stars": 5,
+        "text": "Absolutely amazing!"
+      }
+    ]
+  },
+  {
+    "id": "64",
+    "title": "10A 12V-40V 13KHz PWM DC Motor Adjuster",
+    "category": "Electronics",
+    "tags": [
+      "Motor Controllers",
+      "DC Power Regulators",
+      "PWM Speed Controllers",
+      "Electronic Power Modules"
+    ],
+    "price": 229.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/20190510_110532_720x.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/20190510_110556_720x.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/20190510_110656_720x.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/20190510_110813_720x.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/20190510_110830_720x.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/20190510_110857_720x.jpg"
+    ],
+    "description": "A high-efficiency Pulse Width Modulation (PWM) speed controller designed for DC motors. It allows you to control the speed of a motor by adjusting the duty cycle of the power delivered, rather than changing the voltage, which preserves torque even at low speeds. This specific module supports a wide input range of 12V to 40V and can handle up to 10A of continuous current. It features an onboard potentiometer for manual adjustment and typically includes a 10A fuse for overcurrent protection.",
+    "rating": 3.8,
+    "reviewCount": 80,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Anjali",
+        "stars": 3,
+        "text": "Decent quality for the price."
+      },
+      {
+        "id": "r2",
+        "name": "Priya",
+        "stars": 5,
+        "text": "Exceeded my expectations!"
+      }
+    ]
+  },
+  {
+    "id": "65",
+    "title": "90W 5A / 200W PWM Motor Speed Controller Module",
+    "category": "Electronics",
+    "tags": [
+      "Motor Control Modules",
+      "DC Speed Regulators",
+      "Power Electronics",
+      "PWM Controllers"
+    ],
+    "price": 199.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/20190701_144416_720x.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/20190701_144501_720x.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/20190701_144620_720x.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/20190701_144815_720x.jpg"
+    ],
+    "description": "A versatile Pulse Width Modulation (PWM) DC motor speed controller designed to regulate motor speed with high efficiency and minimal heat. These modules typically feature an onboard potentiometer for manual control and an integrated fuse for overcurrent protection. The 90W/5A version is ideal for smaller 12V-24V applications, while the 200W (up to 10A) variant is suited for more demanding 12V-36V projects. Unlike simple voltage regulators, these maintain motor torque even at lower speeds by rapidly switching the power on and off (duty cycle adjustment).",
+    "rating": 4.7,
+    "reviewCount": 175,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Sneha",
+        "stars": 3,
+        "text": "Took a while to arrive."
+      },
+      {
+        "id": "r2",
+        "name": "Vikram",
+        "stars": 5,
+        "text": "Exceeded my expectations!"
+      },
+      {
+        "id": "r3",
+        "name": "Arjun",
+        "stars": 5,
+        "text": "Highly recommended."
+      },
+      {
+        "id": "r4",
+        "name": "Aditya",
+        "stars": 3,
+        "text": "It's okay, does the job."
+      },
+      {
+        "id": "r5",
+        "name": "Aditya",
+        "stars": 3,
+        "text": "Decent quality for the price."
+      },
+      {
+        "id": "r6",
+        "name": "Vikram",
+        "stars": 5,
+        "text": "Best quality product."
+      },
+      {
+        "id": "r7",
+        "name": "Priya",
+        "stars": 4,
+        "text": "Very good, works as expected."
+      },
+      {
+        "id": "r8",
+        "name": "Rahul",
+        "stars": 5,
+        "text": "Best quality product."
+      },
+      {
+        "id": "r9",
+        "name": "Arjun",
+        "stars": 5,
+        "text": "Exceeded my expectations!"
+      }
+    ]
+  },
+  {
+    "id": "66",
+    "title": "XM1584 Ultra-Small Size DC-DC Step Down Module",
+    "category": "Electronics",
+    "tags": [
+      "DC-DC Power Converters",
+      "Voltage Regulators",
+      "Buck Converters",
+      "Power Management Modules"
+    ],
+    "price": 99.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/bec-alimentatore-regolatore-dc-dc-xm1584-step-down-08v-20v-3a_720x.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/61sGMvZK-HL._SX425_400x.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/new-10PCS-XM1584-Ultra-small-size-DC-DC-step-down-power-supply-module-3A-adjustable-step_400x.jpg"
+    ],
+    "description": "An ultra-compact buck (step-down) converter designed for applications with extremely limited space. It is based on the XM1584 (or sometimes the MP2307) high-frequency switching regulator. This module is significantly smaller than the common LM2596 boards, yet it can efficiently step down higher input voltages to a lower, stable output voltage. It features an onboard multi-turn potentiometer for precise output voltage adjustment.",
+    "rating": 4.9,
+    "reviewCount": 42,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Rahul",
+        "stars": 3,
+        "text": "Took a while to arrive."
+      },
+      {
+        "id": "r2",
+        "name": "Amit",
+        "stars": 5,
+        "text": "Exceeded my expectations!"
+      },
+      {
+        "id": "r3",
+        "name": "Priya",
+        "stars": 4,
+        "text": "Satisfied with the purchase."
+      }
+    ]
+  },
+  {
+    "id": "67",
+    "title": "VXO78015-500-M-TR",
+    "category": "Electronics",
+    "tags": [
+      "DC-DC Power Converters",
+      "Switching Regulators",
+      "Power Management Modules",
+      "SMT Voltage Regulators"
+    ],
+    "price": 224.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/52951970_535x.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/52951970_535x.jpg"
+    ],
+    "description": "A high-efficiency non-isolated DC-DC switching regulator designed as a pin-compatible, high-performance replacement for traditional LM78xx linear regulators. Part of the VXO78 series from CUI Inc., this surface-mount (SMT) module provides a fixed 1.5V output at up to 500mA. Unlike linear regulators, it does not require a heatsink because it uses switching technology to minimize power dissipation, making it ideal for compact, battery-powered designs",
+    "rating": 4.3,
+    "reviewCount": 36,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Aditya",
+        "stars": 4,
+        "text": "Satisfied with the purchase."
+      },
+      {
+        "id": "r2",
+        "name": "Anjali",
+        "stars": 5,
+        "text": "Best quality product."
+      },
+      {
+        "id": "r3",
+        "name": "Neha",
+        "stars": 5,
+        "text": "Best quality product."
+      },
+      {
+        "id": "r4",
+        "name": "Sneha",
+        "stars": 4,
+        "text": "Fast delivery and good quality."
+      },
+      {
+        "id": "r5",
+        "name": "Sairaj",
+        "stars": 3,
+        "text": "Took a while to arrive."
+      }
+    ]
+  },
+  {
+    "id": "68",
+    "title": "V7812-500",
+    "category": "Electronics",
+    "tags": [
+      "DC-DC Power Converters",
+      "Switching Regulators",
+      "Power Management Modules",
+      "Step-Down (Buck) Converters"
+    ],
+    "price": 1557.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/49999020_535x.png",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/49999020_535x.png"
+    ],
+    "description": "A high-efficiency switching regulator designed to be a high-performance, drop-in replacement for the classic LM7812 linear regulator. While the traditional LM7812 dissipates excess voltage as heat (often requiring a bulky heatsink), the V7812-500 uses switching technology to achieve up to 95% efficiency. This allows it to convert a wide range of input voltages down to a stable 12V output at 500mA without getting hot, making it perfect for compact or battery-operated devices where thermal management is a concern.",
+    "rating": 4.8,
+    "reviewCount": 45,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Priya",
+        "stars": 4,
+        "text": "Satisfied with the purchase."
+      },
+      {
+        "id": "r2",
+        "name": "Sneha",
+        "stars": 3,
+        "text": "It's okay, does the job."
+      },
+      {
+        "id": "r3",
+        "name": "Arjun",
+        "stars": 3,
+        "text": "It's okay, does the job."
+      },
+      {
+        "id": "r4",
+        "name": "Sairaj",
+        "stars": 5,
+        "text": "Exceeded my expectations!"
+      },
+      {
+        "id": "r5",
+        "name": "Sairaj",
+        "stars": 4,
+        "text": "Very good, works as expected."
+      },
+      {
+        "id": "r6",
+        "name": "Amit",
+        "stars": 3,
+        "text": "Decent quality for the price."
+      }
+    ]
+  },
+  {
+    "id": "69",
+    "title": "ULP40-1348 (EOS Power)",
+    "category": "Electronics",
+    "tags": [
+      "AC-DC Power Supplies",
+      "Open Frame Power Modules",
+      "Industrial Power Units",
+      "Power Converters"
+    ],
+    "price": 3923.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/55756607_535x.png",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/55756607_535x.png"
+    ],
+    "description": "A high-efficiency, ultra-low profile AC-DC open-frame power supply. It is designed to deliver 40W of power in a compact 2x3 inch footprint, specifically for applications where space is at a premium and high reliability is required. The ULP (Ultra-Low Profile) series is known for its high power density and ability to operate with convection cooling. This specific model provides a stable 48V DC output, making it suitable for industrial automation, telecommunications, and PoE (Power over Ethernet) injectors.",
+    "rating": 4.0,
+    "reviewCount": 88,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Neha",
+        "stars": 3,
+        "text": "It's okay, does the job."
+      }
+    ]
+  },
+  {
+    "id": "70",
+    "title": "SmartElex MAX31856 Temperature PCB Breakout Board with SPI Interface",
+    "category": "Electronics",
+    "tags": [
+      "Temperature Sensor Modules",
+      "Data Acquisition",
+      "Embedded Prototyping",
+      "SPI Sensor Boards"
+    ],
+    "price": 398.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/45_6d5fecde-79d4-42de-81cc-1ccecb9982b7.png",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/46_59f3471f-5eb7-4957-ac74-8b3d3aabad30.png",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/TIFCC0259.png"
+    ],
+    "description": "A high-precision digital temperature sensor expansion board based on the MAX31856 IC. This module is designed to handle all types of thermocouples (K, J, N, R, S, T, E, and B) and provides cold-junction compensation and digitization. Unlike simpler modules, it features high-precision 19-bit resolution and internal protection against overvoltage and shorts to ground or VCC. It communicates via a high-speed SPI interface, making it compatible with any microcontroller that needs to measure extreme temperatures (up to $+1800^\\circ\\text{C}$).",
+    "rating": 4.8,
+    "reviewCount": 44,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Sairaj",
+        "stars": 3,
+        "text": "It's okay, does the job."
+      },
+      {
+        "id": "r2",
+        "name": "Sairaj",
+        "stars": 4,
+        "text": "Fast delivery and good quality."
+      },
+      {
+        "id": "r3",
+        "name": "Rahul",
+        "stars": 4,
+        "text": "Very good, works as expected."
+      }
+    ]
+  },
+  {
+    "id": "71",
+    "title": "SmartElex NEO-M9N GNSS Breakout Board",
+    "category": "Electronics",
+    "tags": [
+      "GNSS/GPS Modules",
+      "Navigation & Positioning",
+      "IoT Communication",
+      "Satellite Receivers"
+    ],
+    "price": 2044.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/TIFCC0258.png",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/41_8107a35f-82cd-4497-a526-8c82f3c98384.png",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/42_b2d89583-93e3-4005-a459-56dc5af5e0c5.png"
+    ],
+    "description": "A high-performance Global Navigation Satellite System (GNSS) receiver board based on the advanced u-blox M9 platform. This module can concurrently receive signals from up to four GNSS constellations (GPS, GLONASS, Galileo, and BeiDou), significantly increasing positioning accuracy and reducing lock time in challenging environments. It features a high update rate of up to 25 Hz, an integrated SMA connector for external antennas, and an onboard battery for hot-start capabilities.",
+    "rating": 3.8,
+    "reviewCount": 139,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Sneha",
+        "stars": 4,
+        "text": "Fast delivery and good quality."
+      },
+      {
+        "id": "r2",
+        "name": "Aditya",
+        "stars": 4,
+        "text": "Very good, works as expected."
+      },
+      {
+        "id": "r3",
+        "name": "Sneha",
+        "stars": 5,
+        "text": "Best quality product."
+      },
+      {
+        "id": "r4",
+        "name": "Sairaj",
+        "stars": 3,
+        "text": "Decent quality for the price."
+      },
+      {
+        "id": "r5",
+        "name": "Sneha",
+        "stars": 5,
+        "text": "Absolutely amazing!"
+      },
+      {
+        "id": "r6",
+        "name": "Sneha",
+        "stars": 4,
+        "text": "Very good, works as expected."
+      }
+    ]
+  },
+  {
+    "id": "72",
+    "title": "SmartElex 3.3V 1A LM2575S Buck Module",
+    "category": "Electronics",
+    "tags": [
+      "DC-DC Power Converters",
+      "Voltage Regulators",
+      "Buck Converters",
+      "Power Management Modules"
+    ],
+    "price": 144.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/415_14943199-4f79-4493-88fa-05fa036af2f4.png",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/416_00436852-eaed-46d2-be86-8cea94760342.png",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/417_65e6b9b6-0bcd-4885-832b-b9173ce4b66f.png"
+    ],
+    "description": "A high-efficiency DC-DC Step-Down (Buck) converter module designed to provide a stable 3.3V output from a higher input voltage. It is based on the LM2575S-3.3 monolithic integrated circuit, which is known for its reliability and simplicity compared to older linear regulators. This module is capable of driving a 1A load with excellent line and load regulation. It typically features integrated filter capacitors to ensure a low-ripple output, making it safe for powering sensitive digital electronics.",
+    "rating": 4.4,
+    "reviewCount": 32,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Aditya",
+        "stars": 4,
+        "text": "Satisfied with the purchase."
+      },
+      {
+        "id": "r2",
+        "name": "Arjun",
+        "stars": 3,
+        "text": "It's okay, does the job."
+      }
+    ]
+  },
+  {
+    "id": "73",
+    "title": "2-String 20A Lithium Battery Protection Module Balanced Version",
+    "category": "Electronics",
+    "tags": [
+      "Battery Management Systems (BMS)",
+      "Lithium Battery Protection",
+      "Power Management Modules",
+      "DIY Battery Packs"
+    ],
+    "price": 67.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/107_1e79c3b0-d06d-4721-a87e-afc52b284f88.png",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/108_1c31e3fe-abb7-4fee-8860-3be599107084.png",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/109_9e793c76-bbd0-461a-8e4e-6d0ed9951f5f.png"
+    ],
+    "description": "A high-performance BMS (Battery Management System) designed for a 2-cell (2S) Lithium-ion or Lithium-Polymer battery pack. This \"Balanced Version\" ensures that both cells in the series are charged to the same voltage level, significantly extending battery life and improving safety. It provides comprehensive protection against overcharge, over-discharge, over-current, and short circuits. With a 20A continuous discharge rating, it is powerful enough for motor-driven projects, power tools, and high-current IoT gateways.",
+    "rating": 4.2,
+    "reviewCount": 115,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Vikram",
+        "stars": 5,
+        "text": "Best quality product."
+      },
+      {
+        "id": "r2",
+        "name": "Amit",
+        "stars": 5,
+        "text": "Best quality product."
+      }
+    ]
+  },
+  {
+    "id": "74",
+    "title": "DFRobot MP2636 Power Booster & Charger Module",
+    "category": "Electronics",
+    "tags": [
+      "Power Management Modules",
+      "Battery Chargers & Boosters",
+      "Portable Power Supplies",
+      "Robotics Components"
+    ],
+    "price": 883.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/1_f0827a7d-79a7-46f4-97c7-780acaf97da5.png",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/2_ed096ef2-01f3-4ba7-8bca-d8bc9792c6ca.png",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/3_04aa7b92-e971-426d-bb3a-9d4e5f03f0ea.png"
+    ],
+    "description": "A high-performance, all-in-one power management module designed for portable electronics. It integrates a Lithium battery charger and a DC-DC boost converter on a single board. Based on the MP2636 highly integrated flexible switch-mode device, it supports charging a single-cell Li-ion/Li-poly battery and boosting its voltage to a stable 5V output. It features a unique bi-directional design, allowing it to act as both a charger (via Micro-USB) and a power supply (via USB-A), making it the perfect core for DIY power banks or mobile robots.",
+    "rating": 3.6,
+    "reviewCount": 146,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Aditya",
+        "stars": 5,
+        "text": "Highly recommended."
+      },
+      {
+        "id": "r2",
+        "name": "Vikram",
+        "stars": 3,
+        "text": "Took a while to arrive."
+      },
+      {
+        "id": "r3",
+        "name": "Anjali",
+        "stars": 4,
+        "text": "Very good, works as expected."
+      },
+      {
+        "id": "r4",
+        "name": "Amit",
+        "stars": 5,
+        "text": "Highly recommended."
+      },
+      {
+        "id": "r5",
+        "name": "Neha",
+        "stars": 3,
+        "text": "Decent quality for the price."
+      },
+      {
+        "id": "r6",
+        "name": "Priya",
+        "stars": 4,
+        "text": "Satisfied with the purchase."
+      },
+      {
+        "id": "r7",
+        "name": "Arjun",
+        "stars": 3,
+        "text": "Decent quality for the price."
+      }
+    ]
+  },
+  {
+    "id": "75",
+    "title": "TP4056 1A Li-Ion Battery Charging & Protection Module",
+    "category": "Electronics",
+    "tags": [
+      "Battery Charging Modules",
+      "Power Management",
+      "Lithium Battery Accessories",
+      "DIY Electronics"
+    ],
+    "price": 14.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/1_a8523843-f05c-49e4-a2b8-616fcde0d07a (1).png",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/2_a5ef5d0b-bffe-4839-8667-1f5e1a7c95d9 (1).png",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/1_a8523843-f05c-49e4-a2b8-616fcde0d07a (2).png"
+    ],
+    "description": "This is the most popular, low-cost module for charging single-cell 3.7V Lithium-ion (Li-ion) or Lithium-Polymer (LiPo) batteries. This specific version includes a dual-protection circuit (using the DW01A and 8205A chips), which protects the battery from over-charging, over-discharging, and over-current. It is powered via a Micro USB port or external solder pads, making it ideal for converting wired devices into rechargeable ones.",
+    "rating": 4.8,
+    "reviewCount": 57,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Vikram",
+        "stars": 5,
+        "text": "Highly recommended."
+      },
+      {
+        "id": "r2",
+        "name": "Neha",
+        "stars": 4,
+        "text": "Fast delivery and good quality."
+      }
+    ]
+  },
+  {
+    "id": "76",
+    "title": "3.7V 2500mAh 18650 Li-Ion Battery",
+    "category": "Electronics",
+    "tags": [
+      "Rechargeable Batteries",
+      "Lithium-Ion Cells",
+      "Energy Storage",
+      "Power Sources"
+    ],
+    "price": 81.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/2_dd1d34f5-284c-41e4-bb8b-46b38b73def7.png",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/3_dbc3d5f4-621a-4c04-a160-904dd6fce66c.png",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/2_420c8dad-369e-48e5-8688-e890848dbffd.png"
+    ],
+    "description": "The 18650 is a standardized cylindrical lithium-ion cell (18mm diameter, 65mm length) widely used in everything from laptop batteries to electric vehicles. A 2500mAh capacity at a nominal 3.7V provides approximately 9.25Wh of energy. These cells are favored for DIY projects because of their high energy density, rechargeable nature, and compatibility with numerous holders and management modules.",
+    "rating": 4.1,
+    "reviewCount": 123,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Anjali",
+        "stars": 5,
+        "text": "Highly recommended."
+      },
+      {
+        "id": "r2",
+        "name": "Arjun",
+        "stars": 3,
+        "text": "Took a while to arrive."
+      },
+      {
+        "id": "r3",
+        "name": "Anjali",
+        "stars": 5,
+        "text": "Exceeded my expectations!"
+      },
+      {
+        "id": "r4",
+        "name": "Anjali",
+        "stars": 3,
+        "text": "Took a while to arrive."
+      }
+    ]
+  },
+  {
+    "id": "77",
+    "title": "SW3518 100W High-Power Fast Charging Module",
+    "category": "Electronics",
+    "tags": [
+      "DC-DC Buck Converters",
+      "USB Power Delivery (PD) Modules",
+      "Fast Charging Controllers",
+      "Power Management"
+    ],
+    "price": 534.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/R257008-1.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/4-2.png",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/R257008-2-1.jpg"
+    ],
+    "description": "The SW3518 is a highly integrated, multi-protocol DC-DC Step-Down (Buck) converter module. It is engineered for high-performance power delivery, making it one of the few hobbyist-accessible modules capable of a true 100W output via USB-C. Because it supports PPS (Programmable Power Supply) and nearly every major fast-charging standard, it is a favorite for building custom bench power supplies, automotive chargers, or high-capacity portable power banks.",
+    "rating": 4.8,
+    "reviewCount": 70,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Anjali",
+        "stars": 3,
+        "text": "It's okay, does the job."
+      }
+    ]
+  },
+  {
+    "id": "78",
+    "title": "1 lithium battery pack 5V charge and discharge board",
+    "category": "Electronics",
+    "tags": [
+      "Power Management Modules",
+      "DC-DC Boost Converters",
+      "Battery Chargers",
+      "UPS Modules"
+    ],
+    "price": 107.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/1-15-2.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/1-15-2.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/2-18.jpg"
+    ],
+    "description": "These boards are designed to allow \"pass-through\" charging, meaning you can power your project while the battery is charging. When the external power is removed, the board instantly switches to battery power, acting as a Mini-UPS. They are commonly used to make portable versions of microcontrollers that require 5V, such as an Arduino Uno or a Raspberry Pi.",
+    "rating": 3.5,
+    "reviewCount": 94,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Amit",
+        "stars": 4,
+        "text": "Very good, works as expected."
+      },
+      {
+        "id": "r2",
+        "name": "Amit",
+        "stars": 4,
+        "text": "Satisfied with the purchase."
+      }
+    ]
+  },
+  {
+    "id": "79",
+    "title": "STMICROELECTRONICS Development Board, Nucleo, STM32 MCUS, Arduino Uno Compatible, On-Board Programmer",
+    "category": "Electronics",
+    "tags": [
+      "Microcontroller Development Boards",
+      "ARM Cortex-M Platforms",
+      "Embedded Prototyping Tools"
+    ],
+    "price": 1994.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/14-2.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/STMICROELECTRONICS-Development-Board-Nucleo-STM32-MCUS-Arduino-Uno-Compatible-On-Board-Programmer.png",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/STMICROELECTRONICS-Development-Board-Nucleo-STM32-MCUS-Arduino-Uno-Compatible-On-Board-Programmer.jpg"
+    ],
+    "description": "The Nucleo-64 board features an STM32 microcontroller in a LQFP64 package. It is divided into two main sections: the integrated ST-LINK debugger/programmer (the top part that can be snapped off) and the target microcontroller (the main board). It supports a wide range of Integrated Development Environments (IDEs), including IAR, Keil, and GCC-based IDEs (like STM32CubeIDE), and is fully compatible with the Arduino ecosystem.",
+    "rating": 3.7,
+    "reviewCount": 100,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Amit",
+        "stars": 5,
+        "text": "Best quality product."
+      },
+      {
+        "id": "r2",
+        "name": "Neha",
+        "stars": 5,
+        "text": "Exceeded my expectations!"
+      },
+      {
+        "id": "r3",
+        "name": "Sneha",
+        "stars": 3,
+        "text": "It's okay, does the job."
+      },
+      {
+        "id": "r4",
+        "name": "Aditya",
+        "stars": 3,
+        "text": "It's okay, does the job."
+      },
+      {
+        "id": "r5",
+        "name": "Amit",
+        "stars": 3,
+        "text": "It's okay, does the job."
+      },
+      {
+        "id": "r6",
+        "name": "Neha",
+        "stars": 3,
+        "text": "Took a while to arrive."
+      }
+    ]
+  },
+  {
+    "id": "80",
+    "title": "STM32F411CEU6 Minimum System Board Microcomputer STM32 ARM Core Board",
+    "category": "Electronics",
+    "tags": [
+      "Microcontroller Development Boards",
+      "ARM Cortex-M4 Platforms",
+      "Embedded System Prototyping"
+    ],
+    "price": 314.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/3-2.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/STM32F411CEU6-Minimum-System-Board-Microcomputer-STM32-ARM-Core-Board-1.png",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/STM32F411CEU6-Minimum-System-Board-Microcomputer-STM32-ARM-Core-Board-2.png"
+    ],
+    "description": "This is a Minimum System Board, meaning it contains only the essential components to run the microcontroller: the MCU itself, a crystal oscillator (typically 25MHz), a reset button, a user button, and a USB-C connector for power and communication. It is designed to be breadboard-friendly and is widely used for high-end embedded projects, including audio processing, motor control, and complex sensor fusion.",
+    "rating": 4.5,
+    "reviewCount": 112,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Amit",
+        "stars": 3,
+        "text": "It's okay, does the job."
+      },
+      {
+        "id": "r2",
+        "name": "Aditya",
+        "stars": 4,
+        "text": "Satisfied with the purchase."
+      },
+      {
+        "id": "r3",
+        "name": "Priya",
+        "stars": 4,
+        "text": "Satisfied with the purchase."
+      },
+      {
+        "id": "r4",
+        "name": "Vikram",
+        "stars": 5,
+        "text": "Highly recommended."
+      },
+      {
+        "id": "r5",
+        "name": "Rahul",
+        "stars": 5,
+        "text": "Exceeded my expectations!"
+      },
+      {
+        "id": "r6",
+        "name": "Neha",
+        "stars": 4,
+        "text": "Satisfied with the purchase."
+      },
+      {
+        "id": "r7",
+        "name": "Aditya",
+        "stars": 4,
+        "text": "Fast delivery and good quality."
+      },
+      {
+        "id": "r8",
+        "name": "Sairaj",
+        "stars": 3,
+        "text": "It's okay, does the job."
+      },
+      {
+        "id": "r9",
+        "name": "Rahul",
+        "stars": 3,
+        "text": "It's okay, does the job."
+      },
+      {
+        "id": "r10",
+        "name": "Amit",
+        "stars": 5,
+        "text": "Absolutely amazing!"
+      }
+    ]
+  },
+  {
+    "id": "81",
+    "title": "Adafruit Feather M0 Express \u2013 Designed for CircuitPython -ATSAMD21 Cortex-M0",
+    "category": "Electronics",
+    "tags": [
+      "Microcontroller Development Boards",
+      "ARM Cortex-M0 Platforms",
+      "Python-on-Hardware"
+    ],
+    "price": 2476.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Adafruit-Feather-M0-Express-Designed-for-CircuitPython-ATSAMD21-Cortex-M0-1.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Adafruit-Feather-M0-Express-Designed-for-CircuitPython-ATSAMD21-Cortex-M0-3.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Adafruit-Feather-M0-Express-Designed-for-CircuitPython-ATSAMD21-Cortex-M0-5.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Adafruit-Feather-M0-Express-Designed-for-CircuitPython-ATSAMD21-Cortex-M0-2.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Adafruit-Feather-M0-Express-Designed-for-CircuitPython-ATSAMD21-Cortex-M0-4.jpg"
+    ],
+    "description": "The Feather M0 Express is the \"all-around\" board for modern embedded development. Unlike the standard Feather M0, the Express version features a 2 MB SPI Flash chip which acts as a tiny hard drive. When you plug it into your computer, it shows up as a USB drive (CIRCUITPY), allowing you to drag and drop your Python files directly onto the board without needing a dedicated programmer or compiler.",
+    "rating": 3.9,
+    "reviewCount": 67,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Neha",
+        "stars": 5,
+        "text": "Exceeded my expectations!"
+      },
+      {
+        "id": "r2",
+        "name": "Neha",
+        "stars": 4,
+        "text": "Fast delivery and good quality."
+      },
+      {
+        "id": "r3",
+        "name": "Priya",
+        "stars": 5,
+        "text": "Exceeded my expectations!"
+      },
+      {
+        "id": "r4",
+        "name": "Sairaj",
+        "stars": 4,
+        "text": "Fast delivery and good quality."
+      },
+      {
+        "id": "r5",
+        "name": "Rahul",
+        "stars": 4,
+        "text": "Very good, works as expected."
+      },
+      {
+        "id": "r6",
+        "name": "Amit",
+        "stars": 4,
+        "text": "Satisfied with the purchase."
+      }
+    ]
+  },
+  {
+    "id": "82",
+    "title": "NXP Development Kit KWIKSTIK-K40 K40X256VLQ100 MCU, USB Touch Sensing and Segment LCD Functionality",
+    "category": "Electronics",
+    "tags": [
+      "Microcontroller Development Kits",
+      "ARM Cortex-M4 Platforms",
+      "HMI Development Tools"
+    ],
+    "price": 5626.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/mcu.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/mcu-1.jpg"
+    ],
+    "description": "The KwikStik is unique because of its form factor: it is a sleek, handheld board that functions as a standalone development platform or can be plugged into a PC as a USB stick. It features an integrated debugger, a built-in segment LCD, and on-board touch-sensing pads, making it an \"out-of-the-box\" solution for prototyping medical devices, industrial controllers, or consumer electronics that require a display and touch interface",
+    "rating": 4.0,
+    "reviewCount": 110,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Arjun",
+        "stars": 4,
+        "text": "Very good, works as expected."
+      },
+      {
+        "id": "r2",
+        "name": "Rahul",
+        "stars": 5,
+        "text": "Absolutely amazing!"
+      },
+      {
+        "id": "r3",
+        "name": "Rahul",
+        "stars": 5,
+        "text": "Best quality product."
+      },
+      {
+        "id": "r4",
+        "name": "Neha",
+        "stars": 5,
+        "text": "Absolutely amazing!"
+      },
+      {
+        "id": "r5",
+        "name": "Sairaj",
+        "stars": 3,
+        "text": "It's okay, does the job."
+      },
+      {
+        "id": "r6",
+        "name": "Neha",
+        "stars": 3,
+        "text": "Decent quality for the price."
+      },
+      {
+        "id": "r7",
+        "name": "Arjun",
+        "stars": 5,
+        "text": "Highly recommended."
+      },
+      {
+        "id": "r8",
+        "name": "Sneha",
+        "stars": 5,
+        "text": "Exceeded my expectations!"
+      },
+      {
+        "id": "r9",
+        "name": "Sneha",
+        "stars": 5,
+        "text": "Exceeded my expectations!"
+      }
+    ]
+  },
+  {
+    "id": "83",
+    "title": "MIC4576-5BU IC \u2013 Step Down Regulator IC",
+    "category": "Electronics",
+    "tags": [
+      "Voltage Regulators",
+      "DC-DC Switching Regulators",
+      "Buck Converters",
+      "Power Management ICs (PMIC)"
+    ],
+    "price": 246.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/SKU-1090016.png",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/SKU-1090016.png"
+    ],
+    "description": "The MIC4576-5BU simplifies the design of switching power supplies by requiring a minimum number of external components (only an inductor, a catch diode, and two capacitors). It operates at a fixed switching frequency of 200 kHz, which allows for smaller filter components than lower-frequency regulators. The \"5BU\" designation typically refers to the 5.0V fixed output in a TO-263 (D2PAK) surface-mount package.",
+    "rating": 3.9,
+    "reviewCount": 121,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Anjali",
+        "stars": 5,
+        "text": "Exceeded my expectations!"
+      },
+      {
+        "id": "r2",
+        "name": "Priya",
+        "stars": 3,
+        "text": "Decent quality for the price."
+      },
+      {
+        "id": "r3",
+        "name": "Neha",
+        "stars": 3,
+        "text": "Took a while to arrive."
+      },
+      {
+        "id": "r4",
+        "name": "Neha",
+        "stars": 3,
+        "text": "It's okay, does the job."
+      },
+      {
+        "id": "r5",
+        "name": "Vikram",
+        "stars": 4,
+        "text": "Fast delivery and good quality."
+      },
+      {
+        "id": "r6",
+        "name": "Aditya",
+        "stars": 3,
+        "text": "It's okay, does the job."
+      },
+      {
+        "id": "r7",
+        "name": "Vikram",
+        "stars": 5,
+        "text": "Best quality product."
+      }
+    ]
+  },
+  {
+    "id": "84",
+    "title": "KA7805 Linear Voltage Regulator",
+    "category": "Electronics",
+    "tags": [
+      "Linear Voltage Regulators",
+      "Power Management ICs",
+      "Fixed Output Regulators"
+    ],
+    "price": 15.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/KA7805-Linear-Voltage-Regulator-1.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/KA7805-Linear-Voltage-Regulator-1.jpg"
+    ],
+    "description": "The KA78xx series of the three-terminal positive regulator are available in the TO-220/D-PAK package and with several fixed output voltages, making them useful in a wide range of applications. Each type employs internal current limiting, thermal shut-down and safe operating area protection, making it essentially indestructible. If adequate heat sinking is provided, they can deliver over 1A output current. Although designed primarily as fixed voltage regulators, these devices can be used with external components to obtain adjustable voltages and currents.",
+    "rating": 4.2,
+    "reviewCount": 162,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Anjali",
+        "stars": 5,
+        "text": "Exceeded my expectations!"
+      },
+      {
+        "id": "r2",
+        "name": "Anjali",
+        "stars": 3,
+        "text": "It's okay, does the job."
+      },
+      {
+        "id": "r3",
+        "name": "Arjun",
+        "stars": 4,
+        "text": "Very good, works as expected."
+      },
+      {
+        "id": "r4",
+        "name": "Arjun",
+        "stars": 4,
+        "text": "Very good, works as expected."
+      },
+      {
+        "id": "r5",
+        "name": "Priya",
+        "stars": 4,
+        "text": "Very good, works as expected."
+      },
+      {
+        "id": "r6",
+        "name": "Sneha",
+        "stars": 4,
+        "text": "Fast delivery and good quality."
+      },
+      {
+        "id": "r7",
+        "name": "Priya",
+        "stars": 4,
+        "text": "Very good, works as expected."
+      }
+    ]
+  },
+  {
+    "id": "85",
+    "title": "Altera MAX II EPM240 CPLD Development Board",
+    "category": "Electronics",
+    "tags": [
+      "Programmable Logic Devices",
+      "CPLD Development Boards",
+      "Digital Logic Prototyping"
+    ],
+    "price": 928.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Hf7b5b1101ab04294993c0d4aee8c74d3U.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/H050dd37eff00430e82d55aef34932252w.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/H2fd44558b5214aed9d6237bacc56def4M.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/H1030e6a6899d4f4bb66145ac2b439034L.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/H4c9127674fa84c94870067cb69c3fdcfL.jpg"
+    ],
+    "description": "This board is a \"minimum system\" break-out for the EPM240T100C5N chip. It provides a massive amount of GPIOs for its size and is frequently used for high-speed glue logic, bus bridging, or as a learning platform for Verilog or VHDL hardware description languages. Because it is non-volatile, the configuration is stored on the chip itself, so it starts running your logic the microsecond power is applied.",
+    "rating": 3.9,
+    "reviewCount": 131,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Anjali",
+        "stars": 5,
+        "text": "Absolutely amazing!"
+      },
+      {
+        "id": "r2",
+        "name": "Anjali",
+        "stars": 4,
+        "text": "Very good, works as expected."
+      },
+      {
+        "id": "r3",
+        "name": "Neha",
+        "stars": 5,
+        "text": "Exceeded my expectations!"
+      },
+      {
+        "id": "r4",
+        "name": "Vikram",
+        "stars": 4,
+        "text": "Fast delivery and good quality."
+      },
+      {
+        "id": "r5",
+        "name": "Anjali",
+        "stars": 5,
+        "text": "Highly recommended."
+      },
+      {
+        "id": "r6",
+        "name": "Neha",
+        "stars": 4,
+        "text": "Fast delivery and good quality."
+      },
+      {
+        "id": "r7",
+        "name": "Sairaj",
+        "stars": 3,
+        "text": "Took a while to arrive."
+      }
+    ]
+  },
+  {
+    "id": "86",
+    "title": "ARIES MICRO v1.0 Devlopment Board",
+    "category": "Electronics",
+    "tags": [
+      "Microcontroller Development Boards",
+      "RISC-V Platforms",
+      "IoT & Embedded Systems"
+    ],
+    "price": 1140.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/345.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/345.jpg"
+    ],
+    "description": "The ARIES MICRO is the smaller sibling of the ARIES v2.0 board. It utilizes the VEGA ET1031, a 32-bit RISC-V microcontroller core. The board is designed to be highly accessible for hobbyists and professionals alike, offering a rich set of peripherals in a breadboard-friendly package. It is specifically designed to reduce dependency on foreign silicon and build a local ecosystem for embedded systems.",
+    "rating": 3.7,
+    "reviewCount": 146,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Anjali",
+        "stars": 5,
+        "text": "Highly recommended."
+      },
+      {
+        "id": "r2",
+        "name": "Aditya",
+        "stars": 4,
+        "text": "Very good, works as expected."
+      },
+      {
+        "id": "r3",
+        "name": "Rahul",
+        "stars": 5,
+        "text": "Highly recommended."
+      },
+      {
+        "id": "r4",
+        "name": "Rahul",
+        "stars": 3,
+        "text": "It's okay, does the job."
+      },
+      {
+        "id": "r5",
+        "name": "Rahul",
+        "stars": 5,
+        "text": "Highly recommended."
+      }
+    ]
+  },
+  {
+    "id": "87",
+    "title": "SparkFun DEV-15423 Qwiic Micro \u2013 SAMD21 Development Board",
+    "category": "Electronics",
+    "tags": [
+      "Microcontroller Development Boards",
+      "ARM Cortex-M0+ Platforms",
+      "Qwiic Ecosystem",
+      "Wearable Electronics"
+    ],
+    "price": 1728.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/SparkFun-Qwiic-Micro-SAMD21-Development-Board-1.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/SparkFun-Qwiic-Micro-SAMD21-Development-Board-3.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/SparkFun-Qwiic-Micro-SAMD21-Development-Board-2.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/SparkFun-Qwiic-Micro-SAMD21-Development-Board-4.jpg"
+    ],
+    "description": "Measuring only 1\" x 0.5\", the Qwiic Micro is designed for projects where space is at a premium. Despite its tiny footprint, it packs all the power of the SAMD21 architecture. It is essentially a \"pro\" version of a microcontroller board that eliminates the need for bulky headers or soldering when using SparkFun\u2019s Qwiic-enabled peripherals. It comes pre-loaded with the UF2 bootloader, making it extremely easy to flash code.",
+    "rating": 4.9,
+    "reviewCount": 38,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Arjun",
+        "stars": 4,
+        "text": "Very good, works as expected."
+      },
+      {
+        "id": "r2",
+        "name": "Arjun",
+        "stars": 3,
+        "text": "It's okay, does the job."
+      },
+      {
+        "id": "r3",
+        "name": "Amit",
+        "stars": 3,
+        "text": "It's okay, does the job."
+      },
+      {
+        "id": "r4",
+        "name": "Priya",
+        "stars": 4,
+        "text": "Fast delivery and good quality."
+      },
+      {
+        "id": "r5",
+        "name": "Rahul",
+        "stars": 5,
+        "text": "Highly recommended."
+      }
+    ]
+  },
+  {
+    "id": "88",
+    "title": "SparkFun DEV-17745 Thing Plus \u2013 RP2040",
+    "category": "Electronics",
+    "tags": [
+      "Microcontroller Development Boards",
+      "RP2040 Platforms",
+      "Raspberry Pi Ecosystem",
+      "Portable IoT"
+    ],
+    "price": 1947.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/17745-SparkFun_Thing_Plus_-_RP2040-01a.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/17745-SparkFun_Thing_Plus_-_RP2040-04a.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/17745-SparkFun_Thing_Plus_-_RP2040-03a.jpg"
+    ],
+    "description": "This board features the RP2040\u2014a dual-core ARM Cortex-M0+ processor\u2014mounted on a board with the Feather-compatible pinout. This means it works with a vast ecosystem of \"FeatherWing\" add-on boards. Unlike the basic Pico, the Thing Plus includes several \"pro\" upgrades: a Qwiic connector for solderless I2C, a built-in LiPo battery charger, and 16MB of external Flash memory (8 times more than the standard Pico).",
+    "rating": 4.5,
+    "reviewCount": 67,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Neha",
+        "stars": 4,
+        "text": "Fast delivery and good quality."
+      },
+      {
+        "id": "r2",
+        "name": "Aditya",
+        "stars": 5,
+        "text": "Best quality product."
+      },
+      {
+        "id": "r3",
+        "name": "Sairaj",
+        "stars": 4,
+        "text": "Satisfied with the purchase."
+      }
+    ]
+  },
+  {
+    "id": "89",
+    "title": "Sipeed M1 dock suit ( M1 dock + 2.4 inch LCD + OV2640 ) K210 Dev. Board for Edge Computing",
+    "category": "Electronics",
+    "tags": [
+      "Edge AI Development Boards",
+      "RISC-V Platforms",
+      "Machine Learning Hardware",
+      "Computer Vision Kits"
+    ],
+    "price": 2828.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/1.6.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/6.1 (1).jpg"
+    ],
+    "description": "The Sipeed M1 Dock Suit is a powerful entry-level kit for Edge AI and computer vision. At its core is the Kendryte K210, a dual-core 64-bit RISC-V processor equipped with a built-in Neural Network Processor (KPU). This allows the board to perform real-time image recognition, object detection, and audio processing directly on the \"edge\" without needing a cloud connection.",
+    "rating": 4.2,
+    "reviewCount": 24,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Priya",
+        "stars": 5,
+        "text": "Absolutely amazing!"
+      },
+      {
+        "id": "r2",
+        "name": "Arjun",
+        "stars": 4,
+        "text": "Fast delivery and good quality."
+      },
+      {
+        "id": "r3",
+        "name": "Aditya",
+        "stars": 4,
+        "text": "Fast delivery and good quality."
+      },
+      {
+        "id": "r4",
+        "name": "Arjun",
+        "stars": 4,
+        "text": "Fast delivery and good quality."
+      },
+      {
+        "id": "r5",
+        "name": "Priya",
+        "stars": 3,
+        "text": "Decent quality for the price."
+      },
+      {
+        "id": "r6",
+        "name": "Vikram",
+        "stars": 3,
+        "text": "Decent quality for the price."
+      },
+      {
+        "id": "r7",
+        "name": "Amit",
+        "stars": 3,
+        "text": "It's okay, does the job."
+      },
+      {
+        "id": "r8",
+        "name": "Anjali",
+        "stars": 5,
+        "text": "Absolutely amazing!"
+      },
+      {
+        "id": "r9",
+        "name": "Priya",
+        "stars": 3,
+        "text": "Decent quality for the price."
+      },
+      {
+        "id": "r10",
+        "name": "Sairaj",
+        "stars": 5,
+        "text": "Exceeded my expectations!"
+      }
+    ]
+  },
+  {
+    "id": "90",
+    "title": "Digilent Arty Z7-10 Zynq-7000 SoC Development Board",
+    "category": "Electronics",
+    "tags": [
+      "FPGA & SoC Development Boards",
+      "Embedded Vision Platforms",
+      "ARM Cortex-A9 Systems"
+    ],
+    "price": 27052.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/1680716-02.png",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/1680716-03.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/1680716-01.jpg"
+    ],
+    "description": "he Arty family of Digilent FPGA/SoC boards was designed with versatility and flexibility in mind. With universally popular Arduino\u2122 headers and multiple Pmod\u2122 ports, an Arty will be the most adaptable FPGA/SoC board in your toolbox.The Digilent Arty Z7 is a ready-to-use development platform designed around the Xilinx Zynq\u00ae-7000 System-on-a-chip (SoC) family. The Zynq\u00ae-7000 SoC family integrates the software programmability of an ARM\u00ae-based processor with the hardware programmability of an FPGA, enabling key analytics and hardware acceleration while integrating CPU, DSP, ASSP, and mixed signal functionality on a single device.The Digilent Arty Z7 is supported by Xilinx\u2019s Vivado Design Suite, including the free WebPACK version. The SDSoC\u2122 Development Environment provides a familiar embedded C/C++/OpenCL application development experience for heterogeneous Zynq\u00ae SoC deployment.",
+    "rating": 4.6,
+    "reviewCount": 39,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Aditya",
+        "stars": 5,
+        "text": "Exceeded my expectations!"
+      },
+      {
+        "id": "r2",
+        "name": "Amit",
+        "stars": 5,
+        "text": "Exceeded my expectations!"
+      }
+    ]
+  },
+  {
+    "id": "91",
+    "title": "TPA3116D2 Audio Amplifier with Tone Control Panel, 2 x 80 W (12 \u2013 24 VDC or 12 \u2013 17 VAC)",
+    "category": "Electronics",
+    "tags": [
+      "Microcontroller Development Boards",
+      "RP2040 Platforms",
+      "Raspberry Pi Ecosystem",
+      "Portable IoT"
+    ],
+    "price": 1439.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/fd.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/fd.4.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/fd.2.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/fd.3.jpg"
+    ],
+    "description": "The TPA3116D2 Audio Amplifier with Tone Control Panel is a versatile audio device capable of delivering 2 x 80 watts of power. It operates on a wide voltage range, supporting 12-24 VDC or 12-17 VAC power sources. This amplifier features integrated tone control for fine-tuning audio output, making it suitable for various audio applications while offering robust and efficient performance.",
+    "rating": 4.3,
+    "reviewCount": 103,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Sneha",
+        "stars": 4,
+        "text": "Satisfied with the purchase."
+      },
+      {
+        "id": "r2",
+        "name": "Sairaj",
+        "stars": 3,
+        "text": "Took a while to arrive."
+      },
+      {
+        "id": "r3",
+        "name": "Vikram",
+        "stars": 5,
+        "text": "Best quality product."
+      },
+      {
+        "id": "r4",
+        "name": "Vikram",
+        "stars": 4,
+        "text": "Fast delivery and good quality."
+      },
+      {
+        "id": "r5",
+        "name": "Anjali",
+        "stars": 3,
+        "text": "It's okay, does the job."
+      },
+      {
+        "id": "r6",
+        "name": "Priya",
+        "stars": 4,
+        "text": "Satisfied with the purchase."
+      },
+      {
+        "id": "r7",
+        "name": "Priya",
+        "stars": 5,
+        "text": "Best quality product."
+      }
+    ]
+  },
+  {
+    "id": "92",
+    "title": "MAX4466 Electret Microphone Amplifier with Adjustable Gain Module",
+    "category": "Electronics",
+    "tags": [
+      "Audio Sensors",
+      "Microphone Amplifiers",
+      "Analog Input Modules",
+      "Signal Conditioning"
+    ],
+    "price": 107.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/5-1.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/MAX4466-Electret-Microphone-Amplifier-with-Adjustable-Gain-Module-2.jpg"
+    ],
+    "description": "MAX4466 Electret Microphone Amplifier with Adjustable Gain Module is fully assembled; tested board comes with a 20-20KHz electret microphone soldered on. For the amplification, we use the Maxim MAX4466, an op-amp specifically designed for this delicate task; The amplifier has excellent power supply noise rejection, so this amplifier sounds really good and isn\u2019t nearly as noisy or scratchy as other mic amp breakouts we've tried!",
+    "rating": 5.0,
+    "reviewCount": 158,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Vikram",
+        "stars": 3,
+        "text": "Took a while to arrive."
+      },
+      {
+        "id": "r2",
+        "name": "Sneha",
+        "stars": 4,
+        "text": "Fast delivery and good quality."
+      },
+      {
+        "id": "r3",
+        "name": "Anjali",
+        "stars": 4,
+        "text": "Very good, works as expected."
+      },
+      {
+        "id": "r4",
+        "name": "Vikram",
+        "stars": 3,
+        "text": "Took a while to arrive."
+      },
+      {
+        "id": "r5",
+        "name": "Priya",
+        "stars": 3,
+        "text": "Took a while to arrive."
+      },
+      {
+        "id": "r6",
+        "name": "Sairaj",
+        "stars": 3,
+        "text": "Decent quality for the price."
+      }
+    ]
+  },
+  {
+    "id": "93",
+    "title": "RDA5807M (RRD-102 V2.0) FM Stereo Radio Module",
+    "category": "Electronics",
+    "tags": [
+      "Wireless Communication Modules",
+      "FM Radio Receivers",
+      "Audio Electronics",
+      "I2C Peripherals"
+    ],
+    "price": 65.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/19-2.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/2016-04-12T07-23-52.781Z-2960-1.JPG.2560x2560_q85.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/81977174ba223b2be03ae59b6e10b7ae.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/fm-rda5807-connection-diagram.jpg"
+    ],
+    "description": "RDA5807M FM Stereo Radio Module is (FM Stereo radio Module) high sensitivity, low power consumption, ultra-small size of the FM stereo radio module. Using RDA Microelectronics of RDA5807M(or RDA5802NM), this circuit fewer external components, the noise factor is minimal. Small size, low power consumption, low cost, simple application, the use of a wide range of advantages. It is an easy-to-use and possessed highly cost-effective single-chip FM stereo radio module.",
+    "rating": 3.8,
+    "reviewCount": 37,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Sneha",
+        "stars": 5,
+        "text": "Exceeded my expectations!"
+      },
+      {
+        "id": "r2",
+        "name": "Sairaj",
+        "stars": 4,
+        "text": "Fast delivery and good quality."
+      },
+      {
+        "id": "r3",
+        "name": "Sneha",
+        "stars": 5,
+        "text": "Exceeded my expectations!"
+      }
+    ]
+  },
+  {
+    "id": "94",
+    "title": "Elecrow Pico W5 Microcontroller Development Board",
+    "category": "Electronics",
+    "tags": [
+      "Microcontroller Development Boards",
+      "Ethernet IoT Gateways",
+      "RP2040 Platforms",
+      "Industrial Controllers"
+    ],
+    "price": 1059.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/41.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/42.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/43.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/44.jpg"
+    ],
+    "description": "The Elecrow Pico W5 is a powerful microcontroller development board built around the Raspberry Pi RP2040 chip, tailored for IoT and embedded applications. Featuring a 32-bit dual-core ARM Cortex-M0+ processor running at up to 133 MHz, it offers reliable performance for various tasks. This upgraded version surpasses the original Pico W with enhanced features such as dual-band WiFi (2.4 GHz/5 GHz), Bluetooth 5.0, a larger flash memory, and a USB Type-C interface.",
+    "rating": 3.5,
+    "reviewCount": 106,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Anjali",
+        "stars": 3,
+        "text": "It's okay, does the job."
+      },
+      {
+        "id": "r2",
+        "name": "Arjun",
+        "stars": 5,
+        "text": "Best quality product."
+      },
+      {
+        "id": "r3",
+        "name": "Priya",
+        "stars": 3,
+        "text": "Took a while to arrive."
+      },
+      {
+        "id": "r4",
+        "name": "Neha",
+        "stars": 4,
+        "text": "Very good, works as expected."
+      },
+      {
+        "id": "r5",
+        "name": "Sairaj",
+        "stars": 3,
+        "text": "Took a while to arrive."
+      }
+    ]
+  },
+  {
+    "id": "95",
+    "title": "CAPUF CH32V003 Development Kit with 0.96\u2033 OLED Display",
+    "category": "Electronics",
+    "tags": [
+      "RISC-V Development Boards",
+      "Low-Cost Microcontroller Kits",
+      "Embedded HMI Prototyping",
+      "IoT Learning Platforms"
+    ],
+    "price": 3804.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/11-19.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/mad.125.jpg"
+    ],
+    "description": "The CAPUF CH32V003 Development Kit is a comprehensive platform designed for developers and engineers to explore and utilize the capabilities of the CH32V003 microcontroller. Equipped with a 0.96-inch OLED display, this development kit offers an ideal environment for prototyping, testing, and developing embedded applications.",
+    "rating": 4.7,
+    "reviewCount": 69,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Aditya",
+        "stars": 5,
+        "text": "Highly recommended."
+      },
+      {
+        "id": "r2",
+        "name": "Amit",
+        "stars": 5,
+        "text": "Absolutely amazing!"
+      }
+    ]
+  },
+  {
+    "id": "96",
+    "title": "Unsoldered ATTINY88 Development Board 16Mhz Compatible NANO V3.0 Improvement Board",
+    "category": "Electronics",
+    "tags": [
+      "Microcontroller Development Boards",
+      "AVR Prototyping Platforms",
+      "Low-Cost Arduino-Compatible Boards",
+      "Compact Embedded Systems"
+    ],
+    "price": 211.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/3-32.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/387.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/388.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/389.jpg"
+    ],
+    "description": "The ATtiny88 Nano V3.0 is a compatible and cheaper version of the Arduino Nano V3.0. This variant is based on the ATtiny88 Microcontroller chip. This board contains a Micro USB connection with which the ATtiny can be programmed and powered. Usually, Nano boards use a CH340 chip for converting USB to Serial, for example, but the ATtiny88 microcontroller has this built in.",
+    "rating": 4.2,
+    "reviewCount": 68,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Sneha",
+        "stars": 3,
+        "text": "Decent quality for the price."
+      },
+      {
+        "id": "r2",
+        "name": "Aditya",
+        "stars": 5,
+        "text": "Absolutely amazing!"
+      },
+      {
+        "id": "r3",
+        "name": "Sneha",
+        "stars": 5,
+        "text": "Highly recommended."
+      },
+      {
+        "id": "r4",
+        "name": "Sairaj",
+        "stars": 3,
+        "text": "Took a while to arrive."
+      },
+      {
+        "id": "r5",
+        "name": "Sairaj",
+        "stars": 4,
+        "text": "Very good, works as expected."
+      }
+    ]
+  },
+  {
+    "id": "97",
+    "title": "Digispark ATTINY85 Mini USB Development Board",
+    "category": "Electronics",
+    "tags": [
+      "Microcontroller Development Boards",
+      "AVR Learning Platforms",
+      "Wearable Electronics",
+      "USB Peripheral Emulation (HID)"
+    ],
+    "price": 251.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/2-10.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Digispark-ATTINY85-Mini-USB-Development1.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Digispark-ATTINY85-Mini-USB-Development2.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/robu-2-15.jpg"
+    ],
+    "description": "Although small in size, great in capabilities. The Digispark ATTINY85 Mini USB Development Board is similar to the Arduino but cheaper and smaller (of course a bit less powerful). With a whole host of shields to extend its functionality and the ability to use the familiar Arduino IDE, this board is a great way to jump into microcontroller electronics.",
+    "rating": 3.5,
+    "reviewCount": 97,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Arjun",
+        "stars": 3,
+        "text": "It's okay, does the job."
+      },
+      {
+        "id": "r2",
+        "name": "Vikram",
+        "stars": 5,
+        "text": "Best quality product."
+      },
+      {
+        "id": "r3",
+        "name": "Neha",
+        "stars": 4,
+        "text": "Very good, works as expected."
+      },
+      {
+        "id": "r4",
+        "name": "Vikram",
+        "stars": 5,
+        "text": "Highly recommended."
+      },
+      {
+        "id": "r5",
+        "name": "Sneha",
+        "stars": 3,
+        "text": "Decent quality for the price."
+      },
+      {
+        "id": "r6",
+        "name": "Anjali",
+        "stars": 3,
+        "text": "It's okay, does the job."
+      },
+      {
+        "id": "r7",
+        "name": "Vikram",
+        "stars": 5,
+        "text": "Absolutely amazing!"
+      }
+    ]
+  },
+  {
+    "id": "98",
+    "title": "GL-12 840 Points Solderless Breadboard",
+    "category": "Electronics",
+    "tags": [
+      "Microcontroller Development Boards",
+      "AVR Learning Platforms",
+      "Wearable Electronics",
+      "USB Peripheral Emulation (HID)"
+    ],
+    "price": 55.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/12.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/12.jpg"
+    ],
+    "description": "Parts will not be damaged so they will be available for re-use afterward. 840 Tie points \u2013 128 Groups of 5 connected terminals, 8 Bus of 25 connected terminals Reusable for fast build a prototype of an electronic circuit \u2013 will accept transistors, diodes, LEDs, resistors, capacitors and virtually all types of components \u2013 No soldering required \u2013 Can modify or revise the circuits easily Fit for jumper wire of 0.8mm diameter \u2013 Standard 2.54mm hole spacing Adhesive sheet on the back side of the board \u2013 Multiple breadboards can be spliced together too.",
+    "rating": 4.4,
+    "reviewCount": 156,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Arjun",
+        "stars": 5,
+        "text": "Best quality product."
+      },
+      {
+        "id": "r2",
+        "name": "Priya",
+        "stars": 3,
+        "text": "Took a while to arrive."
+      },
+      {
+        "id": "r3",
+        "name": "Neha",
+        "stars": 5,
+        "text": "Absolutely amazing!"
+      },
+      {
+        "id": "r4",
+        "name": "Neha",
+        "stars": 3,
+        "text": "It's okay, does the job."
+      },
+      {
+        "id": "r5",
+        "name": "Amit",
+        "stars": 5,
+        "text": "Best quality product."
+      }
+    ]
+  },
+  {
+    "id": "99",
+    "title": "ATTINY85-20PU MICROCHIP 8 Bit MCU, AVR ATtiny Family ATtiny85 Series Microcontrollers, AVR, 20 MHz, 8 KB, 8 Pins, DIP",
+    "category": "Electronics",
+    "tags": [
+      "8-bit Microcontrollers",
+      "Integrated Circuits (IC)",
+      "AVR Architecture",
+      "Low-Power Embedded Systems",
+      "DIP Components"
+    ],
+    "price": 199.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/F-2.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/F-2.jpg"
+    ],
+    "description": "The high-performance, low-power 8bit AVR RISC-based microcontroller combines 8KB ISP flash memory, 512B EEPROM, 512-Byte SRAM, 6 general purpose I/O lines, 32 general purpose working registers, one 8bit timer/counter with compare modes, one 8bit high-speed timer/counter, USI, internal and external Interrupts, 4-channel 10-bit A/D converter, programmable watchdog timer with internal oscillator, three software selectable power saving modes, and debugWIRE for on-chip debugging. The device achieves a throughput of 20 MIPS at 20 MHz and operates between 2.7-5.5 volts.",
+    "rating": 4.9,
+    "reviewCount": 69,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Anjali",
+        "stars": 5,
+        "text": "Highly recommended."
+      },
+      {
+        "id": "r2",
+        "name": "Priya",
+        "stars": 4,
+        "text": "Fast delivery and good quality."
+      },
+      {
+        "id": "r3",
+        "name": "Amit",
+        "stars": 3,
+        "text": "It's okay, does the job."
+      },
+      {
+        "id": "r4",
+        "name": "Arjun",
+        "stars": 3,
+        "text": "Decent quality for the price."
+      },
+      {
+        "id": "r5",
+        "name": "Neha",
+        "stars": 5,
+        "text": "Highly recommended."
+      },
+      {
+        "id": "r6",
+        "name": "Anjali",
+        "stars": 3,
+        "text": "Took a while to arrive."
+      }
+    ]
+  },
+  {
+    "id": "100",
+    "title": "ATTINY85 USB Development Board",
+    "category": "Electronics",
+    "tags": [
+      "Microcontroller Development Boards",
+      "USB Peripheral Devices",
+      "DIY Electronics",
+      "Educational Prototyping Tools"
+    ],
+    "price": 229.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/ATTINY85-USB-Development-Board-2.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/ATTINY85-USB-Development-Board-1.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/ATTINY85-USB-Development-Board-3.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/ATTINY85-USB-Development-Board-4.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/ATTINY85-USB-Development-Board-5.jpg"
+    ],
+    "description": "The ATtiny85 based mini development board is similar to the Arduino, but cheaper and smaller (of course a bit less powerful). With a whole host of shields to extend its functionality and the ability to use the familiar Arduino IDE, this ATTINY85 USB Development Board is a great way to jump into microcontroller electronics.",
+    "rating": 3.5,
+    "reviewCount": 130,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Anjali",
+        "stars": 5,
+        "text": "Exceeded my expectations!"
+      },
+      {
+        "id": "r2",
+        "name": "Rahul",
+        "stars": 3,
+        "text": "Took a while to arrive."
+      },
+      {
+        "id": "r3",
+        "name": "Anjali",
+        "stars": 5,
+        "text": "Best quality product."
+      }
+    ]
+  },
+  {
+    "id": "101",
+    "title": "NodeMCU ESP8266 Serial Port Baseboard",
+    "category": "Electronics",
+    "tags": [
+      "Microcontroller Expansion Boards",
+      "Prototyping Accessories",
+      "IoT Development Tools",
+      "Power Management Modules"
+    ],
+    "price": 111.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/sa.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/78f1a805-1d2b-85ac-fbf4-32bbe9205341.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/2c15e8ef-077b-7937-901d-6585df6e04a1.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/ss.jpg"
+    ],
+    "description": "This is NodeMCU ESP8266 Serial Port Baseboard Lua WIFI Development Board.This baseboard is the Breakout Board for our NodeMcu ESP8266 V3 Lua CH340 Wifi Dev. Board. Nodemcu Baseboard NodeMcu Lua WIFI Development Board ESP8266 Serial Port Baseboard is an open-source networking platform.",
+    "rating": 4.9,
+    "reviewCount": 167,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Amit",
+        "stars": 4,
+        "text": "Very good, works as expected."
+      }
+    ]
+  },
+  {
+    "id": "102",
+    "title": "SmartElex Aryabhatta 8051 Microcontroller Development Board AT89S52 with Onboard USB Programmer",
+    "category": "Electronics",
+    "tags": [
+      "8051 Microcontroller Development Boards",
+      "Embedded Learning Kits",
+      "Industrial Automation Prototyping",
+      "Legacy Architecture Training Tools"
+    ],
+    "price": 688.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/DSC01191.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/DSC01195.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/DSC01199.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/DSC01200.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/DSC01188.jpg"
+    ],
+    "description": "This?8051 Development Board is aimed at providing the microcontroller newbies with a quick way into the development of embedded projects. The Aryabhatta 8051 Development Board AT89S52 with Onboard USB Programmer is very easy to use but also at the same time offering high functionality and yet it is available at a price everyone can afford!!!",
+    "rating": 4.2,
+    "reviewCount": 196,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Arjun",
+        "stars": 3,
+        "text": "It's okay, does the job."
+      },
+      {
+        "id": "r2",
+        "name": "Anjali",
+        "stars": 5,
+        "text": "Highly recommended."
+      },
+      {
+        "id": "r3",
+        "name": "Arjun",
+        "stars": 5,
+        "text": "Absolutely amazing!"
+      },
+      {
+        "id": "r4",
+        "name": "Aditya",
+        "stars": 4,
+        "text": "Fast delivery and good quality."
+      },
+      {
+        "id": "r5",
+        "name": "Sneha",
+        "stars": 5,
+        "text": "Exceeded my expectations!"
+      },
+      {
+        "id": "r6",
+        "name": "Amit",
+        "stars": 5,
+        "text": "Best quality product."
+      },
+      {
+        "id": "r7",
+        "name": "Arjun",
+        "stars": 3,
+        "text": "Took a while to arrive."
+      }
+    ]
+  },
+  {
+    "id": "103",
+    "title": "PIC K150 USB Automatic Develop Microcontroller Programmer with ICSP Cable (Body width: 4 mm)",
+    "category": "Electronics",
+    "tags": [
+      "Microcontroller Programmers",
+      "PIC Development Tools",
+      "Embedded System Accessories",
+      "EEPROM/Flash Programmers"
+    ],
+    "price": 913.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/1221.jpeg",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/36D78FC6168647C69A56D633CA939E2303C81EC9D2CC261326D29A22CFC746D2C9C956CBB0D29C5616C8CE999E9266C9C9369AA093-1.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/8B828F939E978BC65670D6338326CE999DC749CFD2CC9923CFD243EF330336D22653535327D2CC469AC86346133DCF9B330316F5CE13-1.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/43286.jpg"
+    ],
+    "description": "The PIC K150 USB Automatic Develop Microcontroller Programmer With ICSP Cable is a low-cost high-performance PIC programmer. This supports most popular PIC chips, programmed, readout, encryption, use a high-speed USB communication, fast programming.",
+    "rating": 3.9,
+    "reviewCount": 144,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Anjali",
+        "stars": 5,
+        "text": "Exceeded my expectations!"
+      },
+      {
+        "id": "r2",
+        "name": "Arjun",
+        "stars": 4,
+        "text": "Satisfied with the purchase."
+      },
+      {
+        "id": "r3",
+        "name": "Amit",
+        "stars": 5,
+        "text": "Absolutely amazing!"
+      },
+      {
+        "id": "r4",
+        "name": "Anjali",
+        "stars": 3,
+        "text": "Decent quality for the price."
+      },
+      {
+        "id": "r5",
+        "name": "Priya",
+        "stars": 4,
+        "text": "Very good, works as expected."
+      },
+      {
+        "id": "r6",
+        "name": "Arjun",
+        "stars": 5,
+        "text": "Exceeded my expectations!"
+      },
+      {
+        "id": "r7",
+        "name": "Sneha",
+        "stars": 3,
+        "text": "Took a while to arrive."
+      },
+      {
+        "id": "r8",
+        "name": "Arjun",
+        "stars": 3,
+        "text": "Took a while to arrive."
       }
     ]
   }
