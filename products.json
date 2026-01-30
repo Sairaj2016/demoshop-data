@@ -4380,6 +4380,77 @@
         "text": "Took a while to arrive."
       }
     ]
+  },
+  {
+    "id": "104",
+    "title": "zinky-zynq-7000-development-board-1000x1000",
+    "category": "Electronics",
+    "tags": [
+      "Microcontroller Programmers",
+      "PIC Development Tools",
+      "Embedded System Accessories",
+      "EEPROM/Flash Programmers"
+    ],
+    "price": 16000.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/1221.jpeg",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/36D78FC6168647C69A56D633CA939E2303C81EC9D2CC261326D29A22CFC746D2C9C956CBB0D29C5616C8CE999E9266C9C9369AA093-1.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/8B828F939E978BC65670D6338326CE999DC749CFD2CC9923CFD243EF330336D22653535327D2CC469AC86346133DCF9B330316F5CE13-1.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/43286.jpg"
+    ],
+    "description": "Local supply 5V on board for required functions and power delivery. Linux BSP with Root FS support. Free RTL support. Customized Carrier boards can be developed. Zynq is a Controller + FPGA best for configuration.",
+    "rating": 4.1,
+    "reviewCount": 150,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Anjali",
+        "stars": 5,
+        "text": "Exceeded my expectations!"
+      },
+      {
+        "id": "r2",
+        "name": "Arjun",
+        "stars": 4,
+        "text": "Satisfied with the purchase."
+      },
+      {
+        "id": "r3",
+        "name": "Amit",
+        "stars": 5,
+        "text": "Absolutely amazing!"
+      },
+      {
+        "id": "r4",
+        "name": "Anjali",
+        "stars": 3,
+        "text": "Decent quality for the price."
+      },
+      {
+        "id": "r5",
+        "name": "Priya",
+        "stars": 4,
+        "text": "Very good, works as expected."
+      },
+      {
+        "id": "r6",
+        "name": "Arjun",
+        "stars": 5,
+        "text": "Exceeded my expectations!"
+      },
+      {
+        "id": "r7",
+        "name": "Sneha",
+        "stars": 3,
+        "text": "Took a while to arrive."
+      },
+      {
+        "id": "r8",
+        "name": "Arjun",
+        "stars": 3,
+        "text": "Took a while to arrive."
+      }
+    ]
   }
 ]
 
