@@ -11,800 +11,1277 @@
       "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Raspberry-Pi-5-10.jpg",
       "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Raspberry-Pi-5-6.jpg"
     ],
-    "description": "Greetings, Raspberry Pi enthusiasts! It’s official—the Raspberry Pi 5 has arrived Welcome to the cutting-edge Raspberry Pi 5 Model 8GB RAM, the latest generation of this iconic computing marvel. Packed with a 64-bit quad-core Arm Cortex-A76 processor clocked at 2.4GHz, the Raspberry Pi 5 boasts an impressive 2–3× increase in CPU performance compared to its predecessor, the Raspberry Pi 4.",
+    "description": "Greetings, Raspberry Pi enthusiasts! It\u2019s official\u2014the Raspberry Pi 5 has arrived Welcome to the cutting-edge Raspberry Pi 5 Model 8GB RAM, the latest generation of this iconic computing marvel. Packed with a 64-bit quad-core Arm Cortex-A76 processor clocked at 2.4GHz, the Raspberry Pi 5 boasts an impressive 2\u20133\u00d7 increase in CPU performance compared to its predecessor, the Raspberry Pi 4.",
     "rating": 4.4,
     "reviewCount": 128,
     "reviews": [
-      { "id": "r1", "name": "Sairaj", "stars": 5, "text": "Awesome product!!!" },
-      { "id": "r2", "name": "Aditya", "stars": 3, "text": "Good But stopped working after 3 days" },
-      { "id": "r3", "name": "Rohit", "stars": 4, "text": "Delivery was fast" }
+      {
+        "id": "r1",
+        "name": "Sairaj",
+        "stars": 5,
+        "text": "Awesome product!!!"
+      },
+      {
+        "id": "r2",
+        "name": "Aditya",
+        "stars": 3,
+        "text": "Good But stopped working after 3 days"
+      },
+      {
+        "id": "r3",
+        "name": "Rohit",
+        "stars": 4,
+        "text": "Delivery was fast"
+      }
     ]
   },
-
   {
     "id": "2",
     "title": "Raspberry PI RP2040 Microcontroller IC REEL of 100",
     "category": "Electronics",
     "price": 7371,
-
-
-     "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/board_d.jpeg",
-
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/board_d.jpeg",
     "images": [
-         "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/board_da.jpeg"
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/board_da.jpeg"
     ],
-
     "description": "RP2040 Microcontroller IC by Raspberry PI-REEL of 100 It brings our signature values of high performance, low cost, and ease of use to the microcontroller space. With a large on-chip memory, symmetric dual-core processor complex, deterministic bus fabric, and rich peripheral set augmented with our unique Programmable I/O (PIO) subsystem, it provides professional users with unrivaled power and flexibility.",
     "rating": 4.2,
     "reviewCount": 94,
     "reviews": [
-      { "id": "r1", "name": "Kiran", "stars": 4, "text": "Working" },
-      { "id": "r2", "name": "Meera", "stars": 5, "text": "Thanks Pelorus!" }
+      {
+        "id": "r1",
+        "name": "Kiran",
+        "stars": 4,
+        "text": "Working"
+      },
+      {
+        "id": "r2",
+        "name": "Meera",
+        "stars": 5,
+        "text": "Thanks Pelorus!"
+      }
     ]
   },
-
   {
     "id": "3",
     "title": "Mastech MS830N / MS830L+(2000 Counts) Manual Ranging Digital Multimeter",
     "category": "Electronics",
     "price": 1059,
-
-
     "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Mastech-MS830N-2000-Counts-Manual-Ranging-Digital-Multimeter.png",
-
     "images": [
-       "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Mastech-MS830N-2000-Counts-Manual-Ranging-Digital-Multimeter.png"
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Mastech-MS830N-2000-Counts-Manual-Ranging-Digital-Multimeter.png"
     ],
-
     "description": "Mastech MS830N / MS830L+(2000 Counts) Manual Ranging Digital Multimeter is featuring a 2000-count display, the Mastech MS830N ensures precise and clear readings for essential electrical measurements, including voltage, current, and resistance. The manual-ranging capability allows users to manually select the appropriate measurement range, offering flexibility and control over the testing process.",
     "rating": 4.2,
     "reviewCount": 94,
     "reviews": [
-      { "id": "r1", "name": "Kiran", "stars": 4, "text": "Working" },
-      { "id": "r2", "name": "Meera", "stars": 5, "text": "Thanks Pelorus!" }
+      {
+        "id": "r1",
+        "name": "Kiran",
+        "stars": 4,
+        "text": "Working"
+      },
+      {
+        "id": "r2",
+        "name": "Meera",
+        "stars": 5,
+        "text": "Thanks Pelorus!"
+      }
     ]
   },
-
   {
     "id": "4",
     "title": "LM2596S DC-DC Buck Converter Power Supply",
     "category": "Electronics",
-    "price": 44.00 ,
-
-
+    "price": 44.0,
     "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/5-54.jpg",
-
     "images": [
-         "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/5-54.jpg"
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/5-54.jpg"
     ],
-
     "description": "DC-DC Buck Converter Step Down Module LM2596 Power Supply is a step-down(buck) switching regulator, capable of driving a 3-A load with excellent line and load regulation. These devices are available in fixed output voltages of 3.3 V, 5 V, 12 V, and an adjustable output version.The LM2596 series operates at a switching frequency of 150kHz, thus allowing smaller sized filter components than what would be required with lower frequency switching regulators.",
     "rating": 4.2,
     "reviewCount": 94,
     "reviews": [
-      { "id": "r1", "name": "Mahindra", "stars": 4, "text": "Good" },
-      { "id": "r2", "name": "John", "stars": 5, "text": "Nice" }
+      {
+        "id": "r1",
+        "name": "Mahindra",
+        "stars": 4,
+        "text": "Good"
+      },
+      {
+        "id": "r2",
+        "name": "John",
+        "stars": 5,
+        "text": "Nice"
+      }
     ]
   },
-
   {
     "id": "5",
     "title": "LM2596S DC-DC Buck Converter Power Supply",
     "category": "Electronics",
-    "price": 3.00 ,
-
-
+    "price": 3.0,
     "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/5.jpg",
-
     "images": [
-       "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/6.jpg"
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/6.jpg"
     ],
-
     "description": "8 Pin IC Socket base adaptor is an 8 pin IC holder, which can be soldered directly onto the PCB. The IC can be removed from this socket when required. The IC is placed on the socket at the time of use. This base acts as a removable IC holder.The socket is used when the IC is temperature sensitive and the heat from the soldering iron can damage the IC. This socket is used when working with a microcontroller IC and can be removed for programming.",
     "rating": 4.2,
     "reviewCount": 94,
     "reviews": [
-      { "id": "r1", "name": "Tesjawi", "stars": 4, "text": "value for money." },
-      { "id": "r2", "name": "Surya", "stars": 5, "text": "Good Product" },
-      { "id": "r3", "name": "Kavya", "stars": 2, "text": "Hell no!" },
-      { "id": "r4", "name": "Kancha", "stars": 5, "text": "Best Quality" }
+      {
+        "id": "r1",
+        "name": "Tesjawi",
+        "stars": 4,
+        "text": "value for money."
+      },
+      {
+        "id": "r2",
+        "name": "Surya",
+        "stars": 5,
+        "text": "Good Product"
+      },
+      {
+        "id": "r3",
+        "name": "Kavya",
+        "stars": 2,
+        "text": "Hell no!"
+      },
+      {
+        "id": "r4",
+        "name": "Kancha",
+        "stars": 5,
+        "text": "Best Quality"
+      }
     ]
   },
-
   {
     "id": "6",
     "title": "Raspberry Pi Zero 2 W",
     "category": "Electronics",
-    "price": 1640.00 ,
-
-
+    "price": 1640.0,
     "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/rpi-zero.jpg",
-
     "images": [
-        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/raspberry-pi-1.jpg",
-        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/1124637.jpg",
-        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/1124637-1.jpg",
-        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/6.jpg"
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/raspberry-pi-1.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/1124637.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/1124637-1.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/6.jpg"
     ],
-
     "description": "As u know the Raspberry Pi Zero W has been well performed and done its trade to enhance this the Raspberry has launched the brand new Raspberry Pi Zero 2 W which is the newest version to prior. Day by Day raspberry pi has reduced its dimensions with flawless technology into it this time the RPI Zero 2 W comes with a size of only 65mm long by 30mm wide and at a very economical price. With the addition of wireless LAN and Bluetooth, the Raspberry Pi Zero W2 is ideal for making embedded Internet of Things (IoT) projects. The Pi Zero W2 has been designed to be as flexible and compact as possible with mini connectors and an unpopulated 40-pin GPIO, allowing you to use only what your project requires.",
     "rating": 4.2,
     "reviewCount": 94,
     "reviews": [
-      { "id": "r1", "name": "Tesjawi", "stars": 4, "text": "value for money." },
-      { "id": "r2", "name": "Surya", "stars": 5, "text": "Good Product" },
-      { "id": "r3", "name": "Kavya", "stars": 2, "text": "Hell no!" },
-      { "id": "r4", "name": "Kancha", "stars": 5, "text": "Best Quality" }
+      {
+        "id": "r1",
+        "name": "Tesjawi",
+        "stars": 4,
+        "text": "value for money."
+      },
+      {
+        "id": "r2",
+        "name": "Surya",
+        "stars": 5,
+        "text": "Good Product"
+      },
+      {
+        "id": "r3",
+        "name": "Kavya",
+        "stars": 2,
+        "text": "Hell no!"
+      },
+      {
+        "id": "r4",
+        "name": "Kancha",
+        "stars": 5,
+        "text": "Best Quality"
+      }
     ]
   },
-
   {
     "id": "7",
     "title": "Raspberry Pi 4 Model B with 4GB RAM",
     "category": "Electronics",
-    "price": 2500 ,
-
-
+    "price": 2500,
     "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Raspberry-Pi-4-4GB-Model-B-2.jpg",
-
     "images": [
-        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Raspberry-Pi-4-4GB-Model-B-4.jpg",
-        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Raspberry-Pi-4-4GB-Model-B-5.jpg",
-        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Raspberry-Pi-4-4GB-Model-B-7.jpg",
-        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Raspberry-Pi-4-Model-B-with-4-GB-RAM-1.jpg"
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Raspberry-Pi-4-4GB-Model-B-4.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Raspberry-Pi-4-4GB-Model-B-5.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Raspberry-Pi-4-4GB-Model-B-7.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Raspberry-Pi-4-Model-B-with-4-GB-RAM-1.jpg"
     ],
-
     "description": "Raspberry Pi 4 Model B with 4GB RAM is the latest product in the popular Raspberry Pi range of computers. It offers ground-breaking increases in processor speed, multimedia performance, memory; and connectivity compared to the prior-generation Raspberry Pi 3 Model B+ while retaining backward compatibility and similar power consumption. For the end-user, Raspberry Pi 4 Model B provides desktop performance comparable to entry-level x86 PC systems.",
     "rating": 4.2,
     "reviewCount": 94,
     "reviews": [
-      { "id": "r1", "name": "Tesjawi", "stars": 4, "text": "value for money." },
-      { "id": "r2", "name": "Surya", "stars": 5, "text": "Good Product" },
-      { "id": "r3", "name": "Kavya", "stars": 2, "text": "omg!" },
-      { "id": "r4", "name": "Kancha", "stars": 5, "text": "Best Quality" }
+      {
+        "id": "r1",
+        "name": "Tesjawi",
+        "stars": 4,
+        "text": "value for money."
+      },
+      {
+        "id": "r2",
+        "name": "Surya",
+        "stars": 5,
+        "text": "Good Product"
+      },
+      {
+        "id": "r3",
+        "name": "Kavya",
+        "stars": 2,
+        "text": "omg!"
+      },
+      {
+        "id": "r4",
+        "name": "Kancha",
+        "stars": 5,
+        "text": "Best Quality"
+      }
     ]
   },
-
   {
     "id": "8",
-    "title": "1.5F – 5.5V – Super Capacitor",
+    "title": "1.5F \u2013 5.5V \u2013 Super Capacitor",
     "category": "Electronics",
-    "price": 89.00  ,
-
-
+    "price": 89.0,
     "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Super-capacitors.jpg",
-
     "images": [
-       "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Super-capacitors.jpg"
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Super-capacitors.jpg"
     ],
-
     "description": "Super capacitors are perfect for applications where the capacity of a standard electrolytic capacitor is too small and a rechargeable battery is bigger than needed. This 1.5F capacitor will run an LED / Arduino board for 15-20mins",
     "rating": 4.2,
     "reviewCount": 94,
     "reviews": [
-      { "id": "r1", "name": "Tesjawi", "stars": 4, "text": "value for money." },
-      { "id": "r2", "name": "Surya", "stars": 5, "text": "Good Product" },
-      { "id": "r3", "name": "Kavya", "stars": 2, "text": "omg!" },
-      { "id": "r4", "name": "Kancha", "stars": 5, "text": "Best Quality" }
+      {
+        "id": "r1",
+        "name": "Tesjawi",
+        "stars": 4,
+        "text": "value for money."
+      },
+      {
+        "id": "r2",
+        "name": "Surya",
+        "stars": 5,
+        "text": "Good Product"
+      },
+      {
+        "id": "r3",
+        "name": "Kavya",
+        "stars": 2,
+        "text": "omg!"
+      },
+      {
+        "id": "r4",
+        "name": "Kancha",
+        "stars": 5,
+        "text": "Best Quality"
+      }
     ]
   },
-
   {
     "id": "9",
-    "title": "1.5F – 6V – Super Capacitor",
+    "title": "1.5F \u2013 6V \u2013 Super Capacitor",
     "category": "Electronics",
-    "price": 80 ,
-
-
+    "price": 80,
     "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/R261038_1.jpg",
-
     "images": [
-        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/R261038_2.jpg",
-        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/R261038_3.jpg"
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/R261038_2.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/R261038_3.jpg"
     ],
-
     "description": "Super capacitors are perfect for applications where the capacity of a standard electrolytic capacitor is too small and a rechargeable battery is bigger than needed. The 1.5 Farad, 6 Volt Super Capacitor is a high-performance energy storage component designed to bridge the gap between traditional electrolytic capacitors and rechargeable batteries. Built for applications requiring rapid charge and discharge cycles, this super capacitor delivers reliable short-term power with exceptional efficiency and durability.",
     "rating": 4.2,
     "reviewCount": 94,
     "reviews": [
-      { "id": "r1", "name": "Tesjawi", "stars": 4, "text": "value for money." },
-      { "id": "r2", "name": "Surya", "stars": 5, "text": "Good Product" },
-      { "id": "r3", "name": "Kavya", "stars": 2, "text": "omg!" },
-      { "id": "r4", "name": "Kancha", "stars": 5, "text": "Best Quality" }
+      {
+        "id": "r1",
+        "name": "Tesjawi",
+        "stars": 4,
+        "text": "value for money."
+      },
+      {
+        "id": "r2",
+        "name": "Surya",
+        "stars": 5,
+        "text": "Good Product"
+      },
+      {
+        "id": "r3",
+        "name": "Kavya",
+        "stars": 2,
+        "text": "omg!"
+      },
+      {
+        "id": "r4",
+        "name": "Kancha",
+        "stars": 5,
+        "text": "Best Quality"
+      }
     ]
   },
-
-    {
+  {
     "id": "10",
     "title": "Teensy 4.1 Development Board",
     "category": "Electronics",
-    "price": 80 ,
-
-
+    "price": 80,
     "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/1-14.jpg",
-
     "images": [
-        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/751841-1.jpg",
-        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Untitled-3.jpg"
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/751841-1.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Untitled-3.jpg"
     ],
-
-    "description": "Here’s Teensy 4.1 Development Board. The Teensy 4.1 is the newest iteration of the astoundingly popular development platform that features an ARM Cortex-M7 processor at 600MHz, with an NXP iMXRT1062 chip, four times larger flash memory than the 4.0, and two new locations to optionally add more memory. The Teensy 4.1 is the same size and shape as the Teensy 3.6 (2.4in by 0.7in) and provides greater I/O capability, including an ethernet PHY, SD card socket, and USB host port.",
+    "description": "Here\u2019s Teensy 4.1 Development Board. The Teensy 4.1 is the newest iteration of the astoundingly popular development platform that features an ARM Cortex-M7 processor at 600MHz, with an NXP iMXRT1062 chip, four times larger flash memory than the 4.0, and two new locations to optionally add more memory. The Teensy 4.1 is the same size and shape as the Teensy 3.6 (2.4in by 0.7in) and provides greater I/O capability, including an ethernet PHY, SD card socket, and USB host port.",
     "rating": 4.2,
     "reviewCount": 115,
     "reviews": [
-      { "id": "r1", "name": "Tesjawi", "stars": 4, "text": "value for money." },
-      { "id": "r2", "name": "Surya", "stars": 5, "text": "Good Product" },
-      { "id": "r3", "name": "Kavya", "stars": 2, "text": "omg!" },
-      { "id": "r4", "name": "Kancha", "stars": 5, "text": "Best Quality" }
+      {
+        "id": "r1",
+        "name": "Tesjawi",
+        "stars": 4,
+        "text": "value for money."
+      },
+      {
+        "id": "r2",
+        "name": "Surya",
+        "stars": 5,
+        "text": "Good Product"
+      },
+      {
+        "id": "r3",
+        "name": "Kavya",
+        "stars": 2,
+        "text": "omg!"
+      },
+      {
+        "id": "r4",
+        "name": "Kancha",
+        "stars": 5,
+        "text": "Best Quality"
+      }
     ]
   },
-
   {
     "id": "11",
     "title": "Cytron 40 pins PIC Start Up Kit SK40C",
     "category": "Electronics",
-    "price": 709 ,
-
-
+    "price": 709,
     "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/2122-800x800.jpg",
-
     "images": [
-       "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/9883-800x800.jpg",
-       "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/enhanced-40-pins-pic-start-up-kit-3226-800x800.jpg",
-       "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/2119-800x800.jpg"
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/9883-800x800.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/enhanced-40-pins-pic-start-up-kit-3226-800x800.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/2119-800x800.jpg"
     ],
-
     "description": "This is Cytron 40 pins PIC Start Up Kit SK40C. The SK40C (new version of SK40B) is a 40pin PIC microcontroller starter kit designed to offer an easy-to-start solution for PIC microcontroller user. This board comes with the basic element for the user to begin project development. It offers plug and use features.",
     "rating": 4.2,
     "reviewCount": 115,
     "reviews": [
-      { "id": "r1", "name": "Tesjawi", "stars": 4, "text": "crazy." },
-      { "id": "r2", "name": "Surya", "stars": 5, "text": "very nice" },
-      { "id": "r3", "name": "Kavya", "stars": 2, "text": "omg!" },
-      { "id": "r4", "name": "Kancha", "stars": 5, "text": "Best Quality" }
+      {
+        "id": "r1",
+        "name": "Tesjawi",
+        "stars": 4,
+        "text": "crazy."
+      },
+      {
+        "id": "r2",
+        "name": "Surya",
+        "stars": 5,
+        "text": "very nice"
+      },
+      {
+        "id": "r3",
+        "name": "Kavya",
+        "stars": 2,
+        "text": "omg!"
+      },
+      {
+        "id": "r4",
+        "name": "Kancha",
+        "stars": 5,
+        "text": "Best Quality"
+      }
     ]
   },
-  
-   {
+  {
     "id": "12",
-    "title": "40 Pins dsPIC Start Up Kit – SKDS40A",
+    "title": "40 Pins dsPIC Start Up Kit \u2013 SKDS40A",
     "category": "Electronics",
-    "price": 1201.00 ,
-
-
+    "price": 1201.0,
     "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Connection.png",
-
     "images": [
-        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/4571-800x800-300x300-1.jpg",
-        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/SKDS40A.png"
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/4571-800x800-300x300-1.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/SKDS40A.png"
     ],
-
-    "description": "This is 40 Pins dsPIC Start Up Kit – SKDS40A. The SKds40A is designed to support Microchip  40-pin dsPIC MCU. It supports dsPIC30F3011, 4011, 3014, 4013.",
+    "description": "This is 40 Pins dsPIC Start Up Kit \u2013 SKDS40A. The SKds40A is designed to support Microchip  40-pin dsPIC MCU. It supports dsPIC30F3011, 4011, 3014, 4013.",
     "rating": 4.2,
     "reviewCount": 115,
     "reviews": [
-      { "id": "r1", "name": "Tesjawi", "stars": 4, "text": "crazy." },
-      { "id": "r2", "name": "Surya", "stars": 5, "text": "very nice" },
-      { "id": "r3", "name": "Kavya", "stars": 2, "text": "omg!" },
-      { "id": "r4", "name": "Kancha", "stars": 5, "text": "Best Quality" }
+      {
+        "id": "r1",
+        "name": "Tesjawi",
+        "stars": 4,
+        "text": "crazy."
+      },
+      {
+        "id": "r2",
+        "name": "Surya",
+        "stars": 5,
+        "text": "very nice"
+      },
+      {
+        "id": "r3",
+        "name": "Kavya",
+        "stars": 2,
+        "text": "omg!"
+      },
+      {
+        "id": "r4",
+        "name": "Kancha",
+        "stars": 5,
+        "text": "Best Quality"
+      }
     ]
   },
-
-
-   {
+  {
     "id": "13",
     "title": "CIKU PIC PIC18F4550 based Arduino form factor starter kit",
     "category": "Electronics",
-    "price": 1249.00 ,
-
-
+    "price": 1249.0,
     "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/10587-800x800.jpg",
-
     "images": [
-       "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/10590-800x800.jpg",
-       "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/10588-800x800.jpg"
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/10590-800x800.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/10588-800x800.jpg"
     ],
-
-    "description": "This is 40 Pins dsPIC Start Up Kit – SKDS40A. The SKds40A is designed to support Microchip  40-pin dsPIC MCU. It supports dsPIC30F3011, 4011, 3014, 4013.",
+    "description": "This is 40 Pins dsPIC Start Up Kit \u2013 SKDS40A. The SKds40A is designed to support Microchip  40-pin dsPIC MCU. It supports dsPIC30F3011, 4011, 3014, 4013.",
     "rating": 4.2,
     "reviewCount": 115,
     "reviews": [
-      { "id": "r1", "name": "Tesjawi", "stars": 4, "text": "crazy." },
-      { "id": "r2", "name": "Surya", "stars": 5, "text": "very nice" },
-      { "id": "r3", "name": "Kavya", "stars": 2, "text": "omg!" },
-      { "id": "r4", "name": "Kancha", "stars": 5, "text": "Best Quality" }
+      {
+        "id": "r1",
+        "name": "Tesjawi",
+        "stars": 4,
+        "text": "crazy."
+      },
+      {
+        "id": "r2",
+        "name": "Surya",
+        "stars": 5,
+        "text": "very nice"
+      },
+      {
+        "id": "r3",
+        "name": "Kavya",
+        "stars": 2,
+        "text": "omg!"
+      },
+      {
+        "id": "r4",
+        "name": "Kancha",
+        "stars": 5,
+        "text": "Best Quality"
+      }
     ]
   },
-
   {
     "id": "14",
     "title": "650nm 6mm 5V DC 5mW Mini Laser Dot Diode Module",
     "category": "Electronics",
-    "price": 16.00 ,
-
-
+    "price": 16.0,
     "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/im131029001_2_1.jpg",
-
     "images": [
-        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/5vlaser-1.jpg",
-        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/31CfR6roROL._SX342_.jpg",
-        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/im131029001_1_1.jpg",
-        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/images.jpg",
-        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/s-l500.jpg"
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/5vlaser-1.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/31CfR6roROL._SX342_.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/im131029001_1_1.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/images.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/s-l500.jpg"
     ],
-
     "description": "650nm 6mm 5V DC 5mW Mini Laser Dot Diode Module which is made of copper plastic. It is suitable for 3V 5mW standard, with 6mm outside diameter, can be used to connect diode tubes for multiple uses.",
     "rating": 4.2,
     "reviewCount": 115,
     "reviews": [
-      { "id": "r1", "name": "Tesjawi", "stars": 4, "text": "crazy." },
-      { "id": "r2", "name": "Surya", "stars": 5, "text": "very nice" },
-      { "id": "r3", "name": "Kavya", "stars": 2, "text": "omg!" },
-      { "id": "r4", "name": "Kancha", "stars": 5, "text": "Best Quality" }
+      {
+        "id": "r1",
+        "name": "Tesjawi",
+        "stars": 4,
+        "text": "crazy."
+      },
+      {
+        "id": "r2",
+        "name": "Surya",
+        "stars": 5,
+        "text": "very nice"
+      },
+      {
+        "id": "r3",
+        "name": "Kavya",
+        "stars": 2,
+        "text": "omg!"
+      },
+      {
+        "id": "r4",
+        "name": "Kancha",
+        "stars": 5,
+        "text": "Best Quality"
+      }
     ]
   },
-
   {
     "id": "15",
     "title": "Laser Module 650NM 5V",
     "category": "Electronics",
-    "price": 31.00 ,
-
-
+    "price": 31.0,
     "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/1-15.jpg",
-
     "images": [
-        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/sku_58601_1.jpg"
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/sku_58601_1.jpg"
     ],
-
     "description": "The LASER MODULE 650NM 5V head is composed of a light-emitting tube, condenser lens, and adjustable copper sleeve and it is assembled when delivered, the focal length of the lens is adjusted glued by strong glue stick, which can work directly after connecting to a 5V DC power supply.",
     "rating": 4.2,
     "reviewCount": 115,
     "reviews": [
-      { "id": "r1", "name": "Tesjawi", "stars": 4, "text": "crazy." },
-      { "id": "r2", "name": "Surya", "stars": 5, "text": "very nice" },
-      { "id": "r3", "name": "Kavya", "stars": 2, "text": "omg!" },
-      { "id": "r4", "name": "Kancha", "stars": 5, "text": "Best Quality" }
+      {
+        "id": "r1",
+        "name": "Tesjawi",
+        "stars": 4,
+        "text": "crazy."
+      },
+      {
+        "id": "r2",
+        "name": "Surya",
+        "stars": 5,
+        "text": "very nice"
+      },
+      {
+        "id": "r3",
+        "name": "Kavya",
+        "stars": 2,
+        "text": "omg!"
+      },
+      {
+        "id": "r4",
+        "name": "Kancha",
+        "stars": 5,
+        "text": "Best Quality"
+      }
     ]
   },
-
   {
     "id": "16",
     "title": "Teensy 4.0 Development Board with Headers",
     "category": "Electronics",
-    "price": 380.00 ,
-
-
+    "price": 380.0,
     "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Untitled-3.jpg",
-
     "images": [
-        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/573.jpg",
-        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/574.jpg",
-        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/575.jpg",
-        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/576.jpg"
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/573.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/574.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/575.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/576.jpg"
     ],
-
-    "description": "The Teensy 4.0 with Headers is a compact yet incredibly powerful development board featuring a 600MHz ARM Cortex-M7 processor. Pre-soldered headers mean no hassle—just plug in and start building. Despite its tiny 1.4″ x 0.7″ footprint, this board delivers serious performance for real-time computing, audio, and high-speed interfaces.",
+    "description": "The Teensy 4.0 with Headers is a compact yet incredibly powerful development board featuring a 600MHz ARM Cortex-M7 processor. Pre-soldered headers mean no hassle\u2014just plug in and start building. Despite its tiny 1.4\u2033 x 0.7\u2033 footprint, this board delivers serious performance for real-time computing, audio, and high-speed interfaces.",
     "rating": 4.2,
     "reviewCount": 115,
     "reviews": [
-      { "id": "r1", "name": "Tesjawi", "stars": 4, "text": "crazy." },
-      { "id": "r2", "name": "Surya", "stars": 5, "text": "very nice" },
-      { "id": "r3", "name": "Kavya", "stars": 2, "text": "omg!" },
-      { "id": "r4", "name": "Kancha", "stars": 5, "text": "Best Quality" }
+      {
+        "id": "r1",
+        "name": "Tesjawi",
+        "stars": 4,
+        "text": "crazy."
+      },
+      {
+        "id": "r2",
+        "name": "Surya",
+        "stars": 5,
+        "text": "very nice"
+      },
+      {
+        "id": "r3",
+        "name": "Kavya",
+        "stars": 2,
+        "text": "omg!"
+      },
+      {
+        "id": "r4",
+        "name": "Kancha",
+        "stars": 5,
+        "text": "Best Quality"
+      }
     ]
   },
-
   {
     "id": "17",
     "title": "Waveshare Luckfox Pico Mini A RV1103 Linux Micro Development Board, Integrates ARM Cortex-A7/RISC-V MCU/NPU/ISP Processors",
     "category": "Electronics",
-    "price": 992.00 ,
-
-
+    "price": 992.0,
     "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/1-67.jpg",
-
     "images": [
-        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/luckfox-pico-mini-a-1.jpg",
-        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/luckfox-pico-mini-a-2.jpg",
-        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Luckfox-Pico-Mini-details-size.jpg"
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/luckfox-pico-mini-a-1.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/luckfox-pico-mini-a-2.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Luckfox-Pico-Mini-details-size.jpg"
     ],
-
     "description": "The integration of diverse processors, including the ARM Cortex-A7, RISC-V MCU, NPU, and ISP, makes this board versatile for a range of applications requiring varied computational capabilities. Developers can leverage these components to build solutions that involve machine learning, image processing, IoT, and other embedded applications.",
     "rating": 4.2,
     "reviewCount": 115,
     "reviews": [
-      { "id": "r1", "name": "Tesjawi", "stars": 4, "text": "crazy." },
-      { "id": "r2", "name": "Surya", "stars": 5, "text": "very nice" },
-      { "id": "r3", "name": "Kavya", "stars": 2, "text": "omg!" },
-      { "id": "r4", "name": "Kancha", "stars": 5, "text": "Best Quality" }
+      {
+        "id": "r1",
+        "name": "Tesjawi",
+        "stars": 4,
+        "text": "crazy."
+      },
+      {
+        "id": "r2",
+        "name": "Surya",
+        "stars": 5,
+        "text": "very nice"
+      },
+      {
+        "id": "r3",
+        "name": "Kavya",
+        "stars": 2,
+        "text": "omg!"
+      },
+      {
+        "id": "r4",
+        "name": "Kancha",
+        "stars": 5,
+        "text": "Best Quality"
+      }
     ]
   },
-
   {
     "id": "18",
     "title": "Logitech C270 Digital HD Webcam",
     "category": "Electronics",
-    "price": 2000.00 ,
-
-
+    "price": 2000.0,
     "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Logitech-C270-Digital-HD-Webcam-4.jpg",
-
     "images": [
-        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Logitech-C270-Digital-HD-Webcam-3.jpg",
-        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Logitech-C270-Digital-HD-Webcam-1.jpg"
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Logitech-C270-Digital-HD-Webcam-3.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Logitech-C270-Digital-HD-Webcam-1.jpg"
     ],
-
-    "description": "The Logitech C270 Digital HD Webcam has Crisp HD 720p/30 fps video calls with diagonal 55° field of  view and auto light correction. This Logitech C270 Digital HD Webcam is Compatible with popular platforms including Skype and Zoom. The Logitech C270 Digital HD Webcam is  built-in noise-reducing mic makes sure your voice comes across clearly up to 1.5 meters away, even if you’re in busy surroundings. C270’s Right Light 2 feature adjusts to lighting conditions, producing brighter, contrasted images to help you look good in all your conference calls.",
+    "description": "The Logitech C270 Digital HD Webcam has Crisp HD 720p/30 fps video calls with diagonal 55\u00b0 field of  view and auto light correction. This Logitech C270 Digital HD Webcam is Compatible with popular platforms including Skype and Zoom. The Logitech C270 Digital HD Webcam is  built-in noise-reducing mic makes sure your voice comes across clearly up to 1.5 meters away, even if you\u2019re in busy surroundings. C270\u2019s Right Light 2 feature adjusts to lighting conditions, producing brighter, contrasted images to help you look good in all your conference calls.",
     "rating": 4.2,
     "reviewCount": 115,
     "reviews": [
-      { "id": "r1", "name": "Tesjawi", "stars": 4, "text": "crazy." },
-      { "id": "r2", "name": "Surya", "stars": 5, "text": "very nice" },
-      { "id": "r3", "name": "Kavya", "stars": 2, "text": "omg!" },
-      { "id": "r4", "name": "Kancha", "stars": 5, "text": "Best Quality" }
+      {
+        "id": "r1",
+        "name": "Tesjawi",
+        "stars": 4,
+        "text": "crazy."
+      },
+      {
+        "id": "r2",
+        "name": "Surya",
+        "stars": 5,
+        "text": "very nice"
+      },
+      {
+        "id": "r3",
+        "name": "Kavya",
+        "stars": 2,
+        "text": "omg!"
+      },
+      {
+        "id": "r4",
+        "name": "Kancha",
+        "stars": 5,
+        "text": "Best Quality"
+      }
     ]
   },
-
   {
     "id": "19",
     "title": "Elecrow CrowView Note-All-in-One Portable Monitor, Phone-to-Laptop Device With Full-Featured Type-C",
     "category": "Electronics",
-    "price": 17034.00 ,
-
-
+    "price": 17034.0,
     "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Elecrow-CrowView-Note-All-in-One-Portable-Monitor-Phone-to-Laptop-Device-With-Full-Featured-Type-C (1).jpg",
-
     "images": [
-        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Elecrow-CrowView-Note-All-in-One-Portable-Monitor-Phone-to-Laptop-Device-With-Full-Featured-Type-C (1).jpg"
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Elecrow-CrowView-Note-All-in-One-Portable-Monitor-Phone-to-Laptop-Device-With-Full-Featured-Type-C (1).jpg"
     ],
-
     "description": "we designed the Elecrow CrowView Note-All-in-One Portable Monitor , empowering all your devices as laptops. This Elecrow CrowView Note all-in-one portable monitor is compatible with smartphones, single-board computers such as Raspberry Pi 5 and Jetson Nano, mini PCs, and gaming consoles. It provides a clean, organized workspace, enhancing your productivity anywhere.",
     "rating": 4.2,
     "reviewCount": 115,
     "reviews": [
-      { "id": "r1", "name": "Tesjawi", "stars": 4, "text": "crazy." },
-      { "id": "r2", "name": "Surya", "stars": 5, "text": "very nice" },
-      { "id": "r3", "name": "Kavya", "stars": 2, "text": "omg!" },
-      { "id": "r4", "name": "Kancha", "stars": 5, "text": "Best Quality" }
+      {
+        "id": "r1",
+        "name": "Tesjawi",
+        "stars": 4,
+        "text": "crazy."
+      },
+      {
+        "id": "r2",
+        "name": "Surya",
+        "stars": 5,
+        "text": "very nice"
+      },
+      {
+        "id": "r3",
+        "name": "Kavya",
+        "stars": 2,
+        "text": "omg!"
+      },
+      {
+        "id": "r4",
+        "name": "Kancha",
+        "stars": 5,
+        "text": "Best Quality"
+      }
     ]
   },
-
   {
     "id": "20",
     "title": "Olimex Duinomite-Mini PIC32MX795 PIC 32Bit",
     "category": "Electronics",
-    "price": 2913.00 ,
-
-
+    "price": 2913.0,
     "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Olimex-Duinomite-mini-Pic32MX795-Pic-32Bit - Copy.jpg",
-
     "images": [
-        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/DUINOMITE-MINI-3.jpg",
-        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/DUINOMITE-MINI-2.jpg"
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/DUINOMITE-MINI-3.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/DUINOMITE-MINI-2.jpg"
     ],
-
     "description": "The Olimex Duinomite-mini Pic32MX795 Pic 32Bit is a Maximite Compatible Basic computer, originally designed by Geoff Graham, with additional features. DuinoMite allows you to program in BASIC language and have VGA and Keyboard interface, so you can develop and write your code in Basic without the need of any computer.",
     "rating": 4.2,
     "reviewCount": 115,
     "reviews": [
-      { "id": "r1", "name": "Tesjawi", "stars": 4, "text": "crazy." },
-      { "id": "r2", "name": "Surya", "stars": 5, "text": "very nice" },
-      { "id": "r3", "name": "Kavya", "stars": 2, "text": "omg!" },
-      { "id": "r4", "name": "Kancha", "stars": 5, "text": "Best Quality" }
+      {
+        "id": "r1",
+        "name": "Tesjawi",
+        "stars": 4,
+        "text": "crazy."
+      },
+      {
+        "id": "r2",
+        "name": "Surya",
+        "stars": 5,
+        "text": "very nice"
+      },
+      {
+        "id": "r3",
+        "name": "Kavya",
+        "stars": 2,
+        "text": "omg!"
+      },
+      {
+        "id": "r4",
+        "name": "Kancha",
+        "stars": 5,
+        "text": "Best Quality"
+      }
     ]
   },
-
   {
     "id": "21",
     "title": "STMICROELECTRONICS NUCLEO-G071RB Development Board ,Nucleo-64, 32-Bit, STM32G071RB MCU",
     "category": "Electronics",
-    "price": 1423.00 ,
-
-
+    "price": 1423.0,
     "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Development-Board-Nucleo-64-32-Bit-STM32G071RB-MCU-Arduino.jpg",
-
     "images": [
-        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Development-Board-Nucleo-64-32-Bit-STM32G071RB-MCU-Arduino.jpg"
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Development-Board-Nucleo-64-32-Bit-STM32G071RB-MCU-Arduino.jpg"
     ],
-
-    "description": "The STM Nucleo Development Board, STMICROELECTRONICS NUCLEO-G071RB – STM32 Nucleo-64 STM32G071RB Development Board boards provide an affordable and flexible way for users to try out new concepts and build prototypes with the STM32 microcontroller, which provide various combinations of performance, power consumption and features. do not require any separate probe, as it integrates the ST-LINK/V2-1 debugger/programmer. The STM32 Nucleo-64 boards come with the comprehensive free STM32 software libraries and examples that are available with the STM32Cube package.",
+    "description": "The STM Nucleo Development Board, STMICROELECTRONICS NUCLEO-G071RB \u2013 STM32 Nucleo-64 STM32G071RB Development Board boards provide an affordable and flexible way for users to try out new concepts and build prototypes with the STM32 microcontroller, which provide various combinations of performance, power consumption and features. do not require any separate probe, as it integrates the ST-LINK/V2-1 debugger/programmer. The STM32 Nucleo-64 boards come with the comprehensive free STM32 software libraries and examples that are available with the STM32Cube package.",
     "rating": 4.2,
     "reviewCount": 115,
     "reviews": [
-      { "id": "r1", "name": "Tesjawi", "stars": 4, "text": "crazy." },
-      { "id": "r2", "name": "Surya", "stars": 5, "text": "very nice" },
-      { "id": "r3", "name": "Kavya", "stars": 2, "text": "omg!" },
-      { "id": "r4", "name": "Kancha", "stars": 5, "text": "Best Quality" }
+      {
+        "id": "r1",
+        "name": "Tesjawi",
+        "stars": 4,
+        "text": "crazy."
+      },
+      {
+        "id": "r2",
+        "name": "Surya",
+        "stars": 5,
+        "text": "very nice"
+      },
+      {
+        "id": "r3",
+        "name": "Kavya",
+        "stars": 2,
+        "text": "omg!"
+      },
+      {
+        "id": "r4",
+        "name": "Kancha",
+        "stars": 5,
+        "text": "Best Quality"
+      }
     ]
   },
-
   {
     "id": "22",
-    "title": "3.5″ inch ILI9486 TFT LCD Module 480×320 for Arduino Uno without Stylus",
+    "title": "3.5\u2033 inch ILI9486 TFT LCD Module 480\u00d7320 for Arduino Uno without Stylus",
     "category": "Electronics",
-    "price": 1054.00 ,
-
-
+    "price": 1054.0,
     "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/14.jpg",
-
     "images": [
-        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/3.5-inch-TFT-tocuh-LCD-for-Arudino-uno-05.webp",
-        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/3.5-inch-TFT-tocuh-LCD-for-Arudino-uno-04.webp"
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/3.5-inch-TFT-tocuh-LCD-for-Arudino-uno-05.webp",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/3.5-inch-TFT-tocuh-LCD-for-Arudino-uno-04.webp"
     ],
-
-    "description": "3.5″ inch ILI9486 TFT  LCD Module 480×320 for Arduino Uno without Stylus is a compact yet powerful display solution designed specifically for Arduino Uno boards. With a high-resolution 480×320 screen, it offers crisp and clear visuals for your projects. This module boasts compatibility with Arduino Uno, making it easy to integrate into your existing projects. Whether you’re building a smart home dashboard, a portable gaming device, or an interactive art installation, this LCD Module provides a vibrant canvas for your creativity.",
+    "description": "3.5\u2033 inch ILI9486 TFT  LCD Module 480\u00d7320 for Arduino Uno without Stylus is a compact yet powerful display solution designed specifically for Arduino Uno boards. With a high-resolution 480\u00d7320 screen, it offers crisp and clear visuals for your projects. This module boasts compatibility with Arduino Uno, making it easy to integrate into your existing projects. Whether you\u2019re building a smart home dashboard, a portable gaming device, or an interactive art installation, this LCD Module provides a vibrant canvas for your creativity.",
     "rating": 4.2,
     "reviewCount": 115,
     "reviews": [
-      { "id": "r1", "name": "Tesjawi", "stars": 4, "text": "crazy." },
-      { "id": "r2", "name": "Surya", "stars": 5, "text": "very nice" },
-      { "id": "r3", "name": "Kavya", "stars": 2, "text": "omg!" },
-      { "id": "r4", "name": "Kancha", "stars": 5, "text": "Best Quality" }
+      {
+        "id": "r1",
+        "name": "Tesjawi",
+        "stars": 4,
+        "text": "crazy."
+      },
+      {
+        "id": "r2",
+        "name": "Surya",
+        "stars": 5,
+        "text": "very nice"
+      },
+      {
+        "id": "r3",
+        "name": "Kavya",
+        "stars": 2,
+        "text": "omg!"
+      },
+      {
+        "id": "r4",
+        "name": "Kancha",
+        "stars": 5,
+        "text": "Best Quality"
+      }
     ]
   },
-
   {
     "id": "23",
-    "title": "4D Systems 3.2″ LCD module with Arduino Adaptor Shield and Cable uLCD-32PTU-AR",
+    "title": "4D Systems 3.2\u2033 LCD module with Arduino Adaptor Shield and Cable uLCD-32PTU-AR",
     "category": "Electronics",
-    "price": 31.00 ,
-
-
+    "price": 31.0,
     "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/51.jpg",
-
     "images": [
-        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/50-1.jpg"
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/50-1.jpg"
     ],
-
-    "description": "The 4D Arduino Adaptor Shield (Rev 2.0) is designed to seamlessly connect 4D Systems display modules to Arduino boards, eliminating the need for jumper wires. Compatible with gen4 displays like the gen4-uLCD-24DT and gen4-uLCD-43DT, it facilitates easy integration into projects. The included 4DLCD-32QA is a 3.2” TFT display with a resolution of 240×320 pixels, offering 65K colors, a brightness of 200 cd/m², and a contrast ratio of 350:1. With a 4-wire resistive touch screen and a 40-pin FPC interface, LCD module with Arduino Adapter Shield is perfect for enhancing Arduino projects that require a graphical display.",
+    "description": "The 4D Arduino Adaptor Shield (Rev 2.0) is designed to seamlessly connect 4D Systems display modules to Arduino boards, eliminating the need for jumper wires. Compatible with gen4 displays like the gen4-uLCD-24DT and gen4-uLCD-43DT, it facilitates easy integration into projects. The included 4DLCD-32QA is a 3.2\u201d TFT display with a resolution of 240\u00d7320 pixels, offering 65K colors, a brightness of 200 cd/m\u00b2, and a contrast ratio of 350:1. With a 4-wire resistive touch screen and a 40-pin FPC interface, LCD module with Arduino Adapter Shield is perfect for enhancing Arduino projects that require a graphical display.",
     "rating": 4.2,
     "reviewCount": 115,
     "reviews": [
-      { "id": "r1", "name": "Tesjawi", "stars": 4, "text": "crazy." },
-      { "id": "r2", "name": "Surya", "stars": 5, "text": "very nice" },
-      { "id": "r3", "name": "Kavya", "stars": 2, "text": "omg!" },
-      { "id": "r4", "name": "Kancha", "stars": 5, "text": "Best Quality" }
+      {
+        "id": "r1",
+        "name": "Tesjawi",
+        "stars": 4,
+        "text": "crazy."
+      },
+      {
+        "id": "r2",
+        "name": "Surya",
+        "stars": 5,
+        "text": "very nice"
+      },
+      {
+        "id": "r3",
+        "name": "Kavya",
+        "stars": 2,
+        "text": "omg!"
+      },
+      {
+        "id": "r4",
+        "name": "Kancha",
+        "stars": 5,
+        "text": "Best Quality"
+      }
     ]
   },
-
   {
     "id": "24",
     "title": "Micro USB-A to Micro-B Cable 100cm Data & Power Cable",
     "category": "Electronics",
-    "price": 107.00 ,
-
-
+    "price": 107.0,
     "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Micro-USB-A-to-Micro-B-Cable-100cm-1-1.jpg",
-
     "images": [
-        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Micro-USB-A-to-Micro-B-Cable-100cm-2-1.jpg",
-        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Micro-USB-A-to-Micro-B-Cable-100cm-3-1.jpg"
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Micro-USB-A-to-Micro-B-Cable-100cm-2-1.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Micro-USB-A-to-Micro-B-Cable-100cm-3-1.jpg"
     ],
-
     "description": "The Micro USB-A to Micro-B Cable is a durable and reliable data and charging cable designed for a wide range of electronic devices. With a length of 100cm, it offers flexibility and convenience for connecting devices at a comfortable distance. The cable supports both data transfer and power delivery, making it suitable for smartphones, tablets, development boards, cameras, and other USB-enabled devices.",
     "rating": 4.2,
     "reviewCount": 115,
     "reviews": [
-      { "id": "r1", "name": "Tesjawi", "stars": 4, "text": "crazy." },
-      { "id": "r2", "name": "Surya", "stars": 5, "text": "very nice" },
-      { "id": "r3", "name": "Kavya", "stars": 2, "text": "omg!" },
-      { "id": "r4", "name": "Kancha", "stars": 5, "text": "Best Quality" }
+      {
+        "id": "r1",
+        "name": "Tesjawi",
+        "stars": 4,
+        "text": "crazy."
+      },
+      {
+        "id": "r2",
+        "name": "Surya",
+        "stars": 5,
+        "text": "very nice"
+      },
+      {
+        "id": "r3",
+        "name": "Kavya",
+        "stars": 2,
+        "text": "omg!"
+      },
+      {
+        "id": "r4",
+        "name": "Kancha",
+        "stars": 5,
+        "text": "Best Quality"
+      }
     ]
   },
-
   {
     "id": "25",
     "title": "Official Arduino Edge Control AKX00034",
     "category": "Electronics",
-    "price": 22162.00 ,
-
-
+    "price": 22162.0,
     "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/1017386_1.jpg",
-
     "images": [
-        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/1017386_2.jpg",
-        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/1017386_3.jpg",
-        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/1017386_4.jpg",
-        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/1017386_5.jpg"
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/1017386_2.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/1017386_3.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/1017386_4.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/1017386_5.jpg"
     ],
-
     "description": "The Official Arduino Edge Control can be positioned anywhere and is suitable for precision farming, smart agriculture, and other applications requiring intelligent control in remote locations. Power can be either supplied via solar panel or DC input.",
     "rating": 4.2,
     "reviewCount": 115,
     "reviews": [
-      { "id": "r1", "name": "Tesjawi", "stars": 4, "text": "crazy." },
-      { "id": "r2", "name": "Surya", "stars": 5, "text": "very nice" },
-      { "id": "r3", "name": "Kavya", "stars": 2, "text": "omg!" },
-      { "id": "r4", "name": "Kancha", "stars": 5, "text": "Best Quality" }
+      {
+        "id": "r1",
+        "name": "Tesjawi",
+        "stars": 4,
+        "text": "crazy."
+      },
+      {
+        "id": "r2",
+        "name": "Surya",
+        "stars": 5,
+        "text": "very nice"
+      },
+      {
+        "id": "r3",
+        "name": "Kavya",
+        "stars": 2,
+        "text": "omg!"
+      },
+      {
+        "id": "r4",
+        "name": "Kancha",
+        "stars": 5,
+        "text": "Best Quality"
+      }
     ]
   },
   {
     "id": "26",
-    "title": "SmartElex 16-Channel Analog/Digital MUX Breakout Board – CD74HC4067 (Pack of 2)",
+    "title": "SmartElex 16-Channel Analog/Digital MUX Breakout Board \u2013 CD74HC4067 (Pack of 2)",
     "category": "Electronics",
-    "tags": ["Development", "Breakout_Boards"], 
-    "price": 444 ,
-
-
-    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/31HbwXcqw.jpg",
-
-    "images": [
-        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/417uB0EWU.jpg",
-        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/31sSijhe48.jpg",
-        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/51eRva7Ron.jpg"
+    "tags": [
+      "Development",
+      "Breakout_Boards"
     ],
-
-    "description": "The SmartElex Analog/Digital MUX Breakout is a compact and smart board that brings huge flexibility to your circuits. With this Analog/Digital MUX Breakout, you can switch one signal line among 16 different channels - perfect when you want to read many sensors without using lots of pins. Built around the reliable CD74HC4067 chip, this 16-Channel MUX Breakout makes your work easier: whether you're dealing with analog signals like temperature sensors or digital signals like buttons and switches, it handles both. With just a few control lines, you can pick which channel to connect. Ideal for hobbyists, makers, and DIY electronics enthusiasts, this multiplexer module gives you room to expand without complexity. Simply plug it in, connect a few wires, and free up your microcontroller’s pins for other tasks - making your project cleaner and smarter.",
+    "price": 444,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/31HbwXcqw.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/417uB0EWU.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/31sSijhe48.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/51eRva7Ron.jpg"
+    ],
+    "description": "The SmartElex Analog/Digital MUX Breakout is a compact and smart board that brings huge flexibility to your circuits. With this Analog/Digital MUX Breakout, you can switch one signal line among 16 different channels - perfect when you want to read many sensors without using lots of pins. Built around the reliable CD74HC4067 chip, this 16-Channel MUX Breakout makes your work easier: whether you're dealing with analog signals like temperature sensors or digital signals like buttons and switches, it handles both. With just a few control lines, you can pick which channel to connect. Ideal for hobbyists, makers, and DIY electronics enthusiasts, this multiplexer module gives you room to expand without complexity. Simply plug it in, connect a few wires, and free up your microcontroller\u2019s pins for other tasks - making your project cleaner and smarter.",
     "rating": 3.9,
     "reviewCount": 240,
     "reviews": [
-      { "id": "r1", "name": "Tesjawi", "stars": 3, "text": "crazy." },
-      { "id": "r2", "name": "Surya", "stars": 4, "text": "very nice" },
-      { "id": "r3", "name": "Kavya", "stars": 4, "text": "omg!" },
-      { "id": "r4", "name": "Kancha", "stars": 5, "text": "Best Quality" }
+      {
+        "id": "r1",
+        "name": "Tesjawi",
+        "stars": 3,
+        "text": "crazy."
+      },
+      {
+        "id": "r2",
+        "name": "Surya",
+        "stars": 4,
+        "text": "very nice"
+      },
+      {
+        "id": "r3",
+        "name": "Kavya",
+        "stars": 4,
+        "text": "omg!"
+      },
+      {
+        "id": "r4",
+        "name": "Kancha",
+        "stars": 5,
+        "text": "Best Quality"
+      }
     ]
   },
   {
     "id": "27",
     "title": "ATSAMA5D27-SOM1",
     "category": "Integrated Circuits",
-    "tags": ["Microcontrollers", "FPGA Modules"], 
-    "price": 3365.00 ,
-
-
-    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/MFG_ATSAMA5D2.webp",
-
-    "images": [
-        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/MFG_ATSAMA5D2.webp"
+    "tags": [
+      "Microcontrollers",
+      "FPGA Modules"
     ],
-
+    "price": 3365.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/MFG_ATSAMA5D2.webp",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/MFG_ATSAMA5D2.webp"
+    ],
     "description": "The module is built around the ATSAMA5D27C-D1G-CU, which is a 'System in Package' (SiP) that combines the microprocessor with DDR2 memory.",
     "rating": 4.8,
     "reviewCount": 260,
     "reviews": [
-      { "id": "r1", "name": "Tesjawi", "stars": 4, "text": "crazy." },
-      { "id": "r2", "name": "Surya", "stars": 5, "text": "very nice" },
-      { "id": "r3", "name": "Kavya", "stars": 2, "text": "omg!" },
-      { "id": "r4", "name": "Kancha", "stars": 5, "text": "Best Quality" }
+      {
+        "id": "r1",
+        "name": "Tesjawi",
+        "stars": 4,
+        "text": "crazy."
+      },
+      {
+        "id": "r2",
+        "name": "Surya",
+        "stars": 5,
+        "text": "very nice"
+      },
+      {
+        "id": "r3",
+        "name": "Kavya",
+        "stars": 2,
+        "text": "omg!"
+      },
+      {
+        "id": "r4",
+        "name": "Kancha",
+        "stars": 5,
+        "text": "Best Quality"
+      }
     ]
   },
   {
     "id": "28",
     "title": "OSD3358-512M-ISM",
     "category": "Integrated Circuits",
-    "tags": ["Microcontrollers", "FPGA Modules"], 
-    "price": 4500.00 ,
-
-
-    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/MFG_OSD3358-512M-ISM_sml.webp",
-
-    "images": [
-        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/MFG_OSD3358-512M-ISM_sml.webp"
+    "tags": [
+      "Microcontrollers",
+      "FPGA Modules"
     ],
-
-    "description": "The OSD3358-512M-ISM is a high-performance System-in-Package (SiP) from Octavo Systems. It is a more powerful alternative to the SAMA5D27-SOM1 you previously looked at, integrating a full Linux-ready computer—including the processor, RAM, and power management—into a single BGA package.",
+    "price": 4500.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/MFG_OSD3358-512M-ISM_sml.webp",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/MFG_OSD3358-512M-ISM_sml.webp"
+    ],
+    "description": "The OSD3358-512M-ISM is a high-performance System-in-Package (SiP) from Octavo Systems. It is a more powerful alternative to the SAMA5D27-SOM1 you previously looked at, integrating a full Linux-ready computer\u2014including the processor, RAM, and power management\u2014into a single BGA package.",
     "rating": 4.6,
     "reviewCount": 1144,
     "reviews": [
-      { "id": "r1", "name": "Tesjawi", "stars": 4, "text": "crazy." },
-      { "id": "r2", "name": "Surya", "stars": 5, "text": "very nice" },
-      { "id": "r3", "name": "Kavya", "stars": 2, "text": "omg!" },
-      { "id": "r4", "name": "Kancha", "stars": 5, "text": "Best Quality" }
+      {
+        "id": "r1",
+        "name": "Tesjawi",
+        "stars": 4,
+        "text": "crazy."
+      },
+      {
+        "id": "r2",
+        "name": "Surya",
+        "stars": 5,
+        "text": "very nice"
+      },
+      {
+        "id": "r3",
+        "name": "Kavya",
+        "stars": 2,
+        "text": "omg!"
+      },
+      {
+        "id": "r4",
+        "name": "Kancha",
+        "stars": 5,
+        "text": "Best Quality"
+      }
     ]
   },
   {
     "id": "29",
     "title": "40 pins PIC Start Up Kit Combo 2 SK40C + PIC18F4550 (SK40C2)",
     "category": "Electronics",
-    "tags": ["Microcontroller Development Boards", "Embedded Systems", "Programmers Evaluation Boards"], 
-    "price": 1503 ,
-
-
-    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/4079-800x800.jpg",
-
-    "images": [
-        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/4079-800x800.jpg"
+    "tags": [
+      "Microcontroller Development Boards",
+      "Embedded Systems",
+      "Programmers Evaluation Boards"
     ],
-
+    "price": 1503,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/4079-800x800.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/4079-800x800.jpg"
+    ],
     "description": "This is 40 pins PIC Start Up Kit Combo 2 SK40C + PIC18F4550 (SK40C2). The SK40C (new version of SK40B) is a 40pin PIC microcontroller starter kit designed to offer an easy-to-start solution for PIC microcontroller user. This board comes with the basic element for the user to begin project development. It offers plug and use features.",
     "rating": 4.9,
     "reviewCount": 1089,
     "reviews": [
-      { "id": "r1", "name": "Tesjawi", "stars": 4, "text": "crazy." },
-      { "id": "r2", "name": "Surya", "stars": 5, "text": "very nice" },
-      { "id": "r3", "name": "Kavya", "stars": 2, "text": "omg!" },
-      { "id": "r4", "name": "Kancha", "stars": 5, "text": "Best Quality" }
+      {
+        "id": "r1",
+        "name": "Tesjawi",
+        "stars": 4,
+        "text": "crazy."
+      },
+      {
+        "id": "r2",
+        "name": "Surya",
+        "stars": 5,
+        "text": "very nice"
+      },
+      {
+        "id": "r3",
+        "name": "Kavya",
+        "stars": 2,
+        "text": "omg!"
+      },
+      {
+        "id": "r4",
+        "name": "Kancha",
+        "stars": 5,
+        "text": "Best Quality"
+      }
     ]
   },
   {
     "id": "30",
     "title": "Raspberry Pi 3 Model B+ Starter Kit",
     "category": "Electronics",
-    "tags": ["Microcontroller Development Boards", "Embedded Systems", "Programmers Evaluation Boards", "Raspberry Pi Kits"], 
-
-    "price": 5534.00 ,
-
-
-    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/RPI-kit.jpg",
-
-    "images": [
-        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Raspberry-Pi-3-B.jpg",
-        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/5V-3A-Raspberry-Pi-Supply.jpg",
-        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Raspberr-Pi-3-Model-B-or-B-plus-Case-Red-White.png",
-        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/1LAN_RJ45.jpg",
-        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/HDMI-to-HDMI_Copper_Black.jpg",
-        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Heat-Sink_Alimunium.jpg",
-        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/SD-card.jpg",
-        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/sandisk-32-gb-card.jpg"
-        
+    "tags": [
+      "Microcontroller Development Boards",
+      "Embedded Systems",
+      "Programmers Evaluation Boards",
+      "Raspberry Pi Kits"
     ],
-
-    "description": "An exclusive Starter Kit from Robu.in that includes the fastest model of the Raspberry Pi family – The Raspberry Pi 3 Model B+ and everything you need to get up and running.The raspberry pi 3 b+ kit is the most popular board featuring a 64-bit quad-core processor running at 1.4 GHz. It incorporates enhanced built-in dual-band WiFi (2.4 GHz and 5 GHz), Bluetooth 4.2/BLE, and faster Ethernet. Also included in this Raspberry Pi 3 Starter Kit is a premium Raspberry Pi 3 case, a 32 GB Class 10 MicroSD Card.The 5V,3 A Micro USB power supply is specially designed and tested for the Raspberry Pi 3 B+. The high-Quality 50cm HDMI to HDMI cable made up of Copper will give seamless connectivity with the Display. RJ45 Ethernet patch LAN cable with gold-plated connectors will give a high-speed LAN connection to your Board Get it and kick start your journey with Raspberry Pi.",
+    "price": 5534.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/RPI-kit.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Raspberry-Pi-3-B.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/5V-3A-Raspberry-Pi-Supply.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Raspberr-Pi-3-Model-B-or-B-plus-Case-Red-White.png",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/1LAN_RJ45.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/HDMI-to-HDMI_Copper_Black.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Heat-Sink_Alimunium.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/SD-card.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/sandisk-32-gb-card.jpg"
+    ],
+    "description": "An exclusive Starter Kit from Robu.in that includes the fastest model of the Raspberry Pi family \u2013 The Raspberry Pi 3 Model B+ and everything you need to get up and running.The raspberry pi 3 b+ kit is the most popular board featuring a 64-bit quad-core processor running at 1.4 GHz. It incorporates enhanced built-in dual-band WiFi (2.4 GHz and 5 GHz), Bluetooth 4.2/BLE, and faster Ethernet. Also included in this Raspberry Pi 3 Starter Kit is a premium Raspberry Pi 3 case, a 32 GB Class 10 MicroSD Card.The 5V,3 A Micro USB power supply is specially designed and tested for the Raspberry Pi 3 B+. The high-Quality 50cm HDMI to HDMI cable made up of Copper will give seamless connectivity with the Display. RJ45 Ethernet patch LAN cable with gold-plated connectors will give a high-speed LAN connection to your Board Get it and kick start your journey with Raspberry Pi.",
     "rating": 4.5,
     "reviewCount": 110,
     "reviews": [
-      { "id": "r1", "name": "Tesjawi", "stars": 4, "text": "crazy." },
-      { "id": "r2", "name": "Surya", "stars": 5, "text": "very nice" },
-      { "id": "r3", "name": "Kavya", "stars": 2, "text": "omg!" },
-      { "id": "r4", "name": "Kancha", "stars": 5, "text": "Best Quality" }
+      {
+        "id": "r1",
+        "name": "Tesjawi",
+        "stars": 4,
+        "text": "crazy."
+      },
+      {
+        "id": "r2",
+        "name": "Surya",
+        "stars": 5,
+        "text": "very nice"
+      },
+      {
+        "id": "r3",
+        "name": "Kavya",
+        "stars": 2,
+        "text": "omg!"
+      },
+      {
+        "id": "r4",
+        "name": "Kancha",
+        "stars": 5,
+        "text": "Best Quality"
+      }
     ]
   },
   {
     "id": "31",
-    "title": "Quantum Tiny Linux Development Kit – With SoM and Expansion Board",
+    "title": "Quantum Tiny Linux Development Kit \u2013 With SoM and Expansion Board",
     "category": "Electronics",
-    "tags": ["Microcontroller Development Boards", "Embedded Systems", "Internet of Things"], 
-
-    "price": 8001.00 ,
-
-
-    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/quantum_mini_linux_dev_kit_hardware_overview_4vfLMw7_2000x.png",
-
-    "images": [
-        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/seeed_quantummini_2000x.jpg",
-        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Quantum-Mini-Linux-Dev-Kit_2000x.png"
+    "tags": [
+      "Microcontroller Development Boards",
+      "Embedded Systems",
+      "Internet of Things"
     ],
-
-    "description": "Quantum Tiny Linux Development Kit – With SoM and Expansion BoardQuantum Tiny Linux Development Kit consists of a core board which is the SoM (System on Module) and an expansion board as the carrier board.The SoM, Quark-N, is based on Allwinner H3, Quad-core Cortex-A7, and ARM Mali400 MP2 GPU. The carrier board, Atom-N, leads out a row of golden finger pins to realize I/O expansion, expand SPI, I2C, UART, GPIO, and other useful interfaces.The kit may be the smallest Linux development board on the market which is suitable for scenarios such as a personal server, intelligent voice assistant, and robotic development.",
+    "price": 8001.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/quantum_mini_linux_dev_kit_hardware_overview_4vfLMw7_2000x.png",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/seeed_quantummini_2000x.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Quantum-Mini-Linux-Dev-Kit_2000x.png"
+    ],
+    "description": "Quantum Tiny Linux Development Kit \u2013 With SoM and Expansion BoardQuantum Tiny Linux Development Kit consists of a core board which is the SoM (System on Module) and an expansion board as the carrier board.The SoM, Quark-N, is based on Allwinner H3, Quad-core Cortex-A7, and ARM Mali400 MP2 GPU. The carrier board, Atom-N, leads out a row of golden finger pins to realize I/O expansion, expand SPI, I2C, UART, GPIO, and other useful interfaces.The kit may be the smallest Linux development board on the market which is suitable for scenarios such as a personal server, intelligent voice assistant, and robotic development.",
     "rating": 4.2,
     "reviewCount": 115,
     "reviews": [
-      { "id": "r1", "name": "Tesjawi", "stars": 4, "text": "crazy." },
-      { "id": "r2", "name": "Surya", "stars": 5, "text": "very nice" },
-      { "id": "r3", "name": "Kavya", "stars": 2, "text": "omg!" },
-      { "id": "r4", "name": "Kancha", "stars": 5, "text": "Best Quality" }
+      {
+        "id": "r1",
+        "name": "Tesjawi",
+        "stars": 4,
+        "text": "crazy."
+      },
+      {
+        "id": "r2",
+        "name": "Surya",
+        "stars": 5,
+        "text": "very nice"
+      },
+      {
+        "id": "r3",
+        "name": "Kavya",
+        "stars": 2,
+        "text": "omg!"
+      },
+      {
+        "id": "r4",
+        "name": "Kancha",
+        "stars": 5,
+        "text": "Best Quality"
+      }
     ]
   },
-
-
   {
     "id": "32",
     "title": "EK-TM4C123GXL",
     "category": "Electronics",
-    "tags": ["Microcontroller Development Boards", "Embedded Systems", "Internet of Things", "Embedded Evaluation Kits"], 
-
-    "price": 1908.00 ,
-
-
-    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/EK_TM4C123GX.webp",
-
-    "images": [
-        "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/EK_TM4C123GX.webp"
+    "tags": [
+      "Microcontroller Development Boards",
+      "Embedded Systems",
+      "Internet of Things",
+      "Embedded Evaluation Kits"
     ],
-
+    "price": 1908.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/EK_TM4C123GX.webp",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/EK_TM4C123GX.webp"
+    ],
     "description": "The EK-TM4C123GXL, also known as the Tiva C Series LaunchPad, is a low-cost evaluation platform from Texas Instruments for the ARM Cortex-M4F-based microcontroller. It is widely used in engineering education and for prototyping high-performance embedded systems.",
     "rating": 4.2,
     "reviewCount": 115,
     "reviews": [
-      { "id": "r1", "name": "Tesjawi", "stars": 4, "text": "crazy." },
-      { "id": "r2", "name": "Surya", "stars": 5, "text": "very nice" },
-      { "id": "r3", "name": "Kavya", "stars": 2, "text": "omg!" },
-      { "id": "r4", "name": "Kancha", "stars": 5, "text": "Best Quality" }
+      {
+        "id": "r1",
+        "name": "Tesjawi",
+        "stars": 4,
+        "text": "crazy."
+      },
+      {
+        "id": "r2",
+        "name": "Surya",
+        "stars": 5,
+        "text": "very nice"
+      },
+      {
+        "id": "r3",
+        "name": "Kavya",
+        "stars": 2,
+        "text": "omg!"
+      },
+      {
+        "id": "r4",
+        "name": "Kancha",
+        "stars": 5,
+        "text": "Best Quality"
+      }
     ]
   },
-
-  { "id": "33",
+  {
+    "id": "33",
     "title": "X-NUCLEO-GNSS1A1",
     "category": "Electronics",
     "tags": [
@@ -4451,7 +4928,1186 @@
         "text": "Took a while to arrive."
       }
     ]
+  },
+  {
+    "id": "105",
+    "title": "Industrial Shields Raspberry Pi PLC CPU Gateway",
+    "category": "Electronics",
+    "tags": [],
+    "price": 48357.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/0.3-21.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/0.2-29.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/0.1-30.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/0.7-5.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/0.7-5 (1).jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/0.5-16.jpg"
+    ],
+    "description": "The Raspberry Pi PLC CPU Gateway is a high-performance modular industrial controller designed for automation, monitoring, and IoT applications. Combining fast processing, real-time multitasking, and advanced connectivity, it supports a wide range of projects\u2014from smart infrastructure and energy management to water consumption control.",
+    "rating": 4.0,
+    "reviewCount": 47,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Vikram",
+        "stars": 3,
+        "text": "Took a while to arrive."
+      },
+      {
+        "id": "r2",
+        "name": "Sairaj",
+        "stars": 4,
+        "text": "Satisfied with the purchase."
+      },
+      {
+        "id": "r3",
+        "name": "Sneha",
+        "stars": 4,
+        "text": "Very good, works as expected."
+      },
+      {
+        "id": "r4",
+        "name": "Aditya",
+        "stars": 5,
+        "text": "Highly recommended."
+      },
+      {
+        "id": "r5",
+        "name": "Priya",
+        "stars": 4,
+        "text": "Satisfied with the purchase."
+      },
+      {
+        "id": "r6",
+        "name": "Anjali",
+        "stars": 3,
+        "text": "Decent quality for the price."
+      }
+    ]
+  },
+  {
+    "id": "106",
+    "title": "Industrial Shields Controllino MICRO Controller",
+    "category": "Electronics",
+    "tags": [],
+    "price": 30548.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/0.1-33.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/0.1-33.jpg"
+    ],
+    "description": "The Controllino MICRO is a compact yet powerful industrial controller built around the 32-bit Raspberry Pi RP2040 microcontroller, fully compatible with the Arduino ecosystem. Designed for space-constrained automation and control applications, it delivers high performance in the smallest Controllino form factor to date.",
+    "rating": 4.1,
+    "reviewCount": 141,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Neha",
+        "stars": 3,
+        "text": "It's okay, does the job."
+      },
+      {
+        "id": "r2",
+        "name": "Neha",
+        "stars": 5,
+        "text": "Absolutely amazing!"
+      },
+      {
+        "id": "r3",
+        "name": "Priya",
+        "stars": 4,
+        "text": "Fast delivery and good quality."
+      },
+      {
+        "id": "r4",
+        "name": "Sneha",
+        "stars": 5,
+        "text": "Exceeded my expectations!"
+      },
+      {
+        "id": "r5",
+        "name": "Sairaj",
+        "stars": 4,
+        "text": "Very good, works as expected."
+      },
+      {
+        "id": "r6",
+        "name": "Amit",
+        "stars": 4,
+        "text": "Fast delivery and good quality."
+      },
+      {
+        "id": "r7",
+        "name": "Sneha",
+        "stars": 4,
+        "text": "Satisfied with the purchase."
+      },
+      {
+        "id": "r8",
+        "name": "Vikram",
+        "stars": 4,
+        "text": "Fast delivery and good quality."
+      }
+    ]
+  },
+  {
+    "id": "107",
+    "title": "SeeedStudio Grove Air Quality Sensor v1.3",
+    "category": "Electronics",
+    "tags": [],
+    "price": 1077.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/3-10.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/2-11.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/1-11.jpg"
+    ],
+    "description": "SeeedStudio Grove Air quality sensor v1.3 is designed for indoor air quality testing. It can respond to carbon monoxide, alcohol, acetone, thinner, formaldehyde, and other slightly toxic gases. Compatible with 5V and 3.3V power supply, it can work with Arduino and Raspberry Pi. With its long-term stability & low power consumption, it would be a perfect choice for air quality monitoring.",
+    "rating": 4.3,
+    "reviewCount": 113,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Amit",
+        "stars": 3,
+        "text": "It's okay, does the job."
+      },
+      {
+        "id": "r2",
+        "name": "Neha",
+        "stars": 3,
+        "text": "Took a while to arrive."
+      },
+      {
+        "id": "r3",
+        "name": "Anjali",
+        "stars": 4,
+        "text": "Satisfied with the purchase."
+      },
+      {
+        "id": "r4",
+        "name": "Sairaj",
+        "stars": 3,
+        "text": "Took a while to arrive."
+      },
+      {
+        "id": "r5",
+        "name": "Anjali",
+        "stars": 4,
+        "text": "Satisfied with the purchase."
+      },
+      {
+        "id": "r6",
+        "name": "Sairaj",
+        "stars": 5,
+        "text": "Best quality product."
+      },
+      {
+        "id": "r7",
+        "name": "Neha",
+        "stars": 5,
+        "text": "Absolutely amazing!"
+      },
+      {
+        "id": "r8",
+        "name": "Anjali",
+        "stars": 4,
+        "text": "Very good, works as expected."
+      },
+      {
+        "id": "r9",
+        "name": "Arjun",
+        "stars": 4,
+        "text": "Very good, works as expected."
+      },
+      {
+        "id": "r10",
+        "name": "Neha",
+        "stars": 3,
+        "text": "It's okay, does the job."
+      }
+    ]
+  },
+  {
+    "id": "108",
+    "title": "INMP441 MEMS High Precision Omnidirectional Microphone Module I2S",
+    "category": "Electronics",
+    "tags": [
+      "Sound Sensor Modules"
+    ],
+    "price": 184.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/INMP441-MEMS-High-Precision-Omnidirectional-Microphone-Module-I2S-4.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/INMP441-MEMS-High-Precision-Omnidirectional-Microphone-Module-I2S-2.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/INMP441-MEMS-High-Precision-Omnidirectional-Microphone-Module-I2S-1.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/INMP441-MEMS-High-Precision-Omnidirectional-Microphone-Module-I2S-3.jpg"
+    ],
+    "description": "The INMP441 is a high-performance, low-power, digital output, omnidirectional MEMS microphone with a bottom port. The complete INMP441 solution consists of a MEMS sensor, signal conditioning, analog to digital converter, anti-aliasing filter, power management, and industry-standard 24-bit I2S interface.",
+    "rating": 4.0,
+    "reviewCount": 84,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Neha",
+        "stars": 4,
+        "text": "Satisfied with the purchase."
+      },
+      {
+        "id": "r2",
+        "name": "Vikram",
+        "stars": 3,
+        "text": "It's okay, does the job."
+      },
+      {
+        "id": "r3",
+        "name": "Aditya",
+        "stars": 3,
+        "text": "Decent quality for the price."
+      },
+      {
+        "id": "r4",
+        "name": "Vikram",
+        "stars": 4,
+        "text": "Satisfied with the purchase."
+      },
+      {
+        "id": "r5",
+        "name": "Anjali",
+        "stars": 3,
+        "text": "Decent quality for the price."
+      },
+      {
+        "id": "r6",
+        "name": "Priya",
+        "stars": 4,
+        "text": "Very good, works as expected."
+      },
+      {
+        "id": "r7",
+        "name": "Neha",
+        "stars": 3,
+        "text": "Decent quality for the price."
+      },
+      {
+        "id": "r8",
+        "name": "Neha",
+        "stars": 4,
+        "text": "Fast delivery and good quality."
+      },
+      {
+        "id": "r9",
+        "name": "Sneha",
+        "stars": 3,
+        "text": "Decent quality for the price."
+      },
+      {
+        "id": "r10",
+        "name": "Rahul",
+        "stars": 3,
+        "text": "Decent quality for the price."
+      }
+    ]
+  },
+  {
+    "id": "109",
+    "title": "Microphone 9\u00d77mm (Pack of 3)",
+    "category": "Electronics",
+    "tags": [],
+    "price": 55.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/7.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/5-2.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/1-24.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/6-4.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/2-20.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/3-11.jpg"
+    ],
+    "description": "This Voice microphone is Multi-Channel and is suitable for mobile phones, telephones, tape recorders, voice-activated toys, computers, and other products. The sensitivity is in accordance with the IEC standard, and the sensitivity of \u201cpa\u201d is increased by 20dB, which is the same as the sensitivity of the \u201cUbar\u201d unit.",
+    "rating": 4.7,
+    "reviewCount": 95,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Priya",
+        "stars": 5,
+        "text": "Exceeded my expectations!"
+      },
+      {
+        "id": "r2",
+        "name": "Vikram",
+        "stars": 3,
+        "text": "Took a while to arrive."
+      },
+      {
+        "id": "r3",
+        "name": "Amit",
+        "stars": 5,
+        "text": "Best quality product."
+      },
+      {
+        "id": "r4",
+        "name": "Arjun",
+        "stars": 3,
+        "text": "Decent quality for the price."
+      },
+      {
+        "id": "r5",
+        "name": "Vikram",
+        "stars": 3,
+        "text": "Took a while to arrive."
+      },
+      {
+        "id": "r6",
+        "name": "Sairaj",
+        "stars": 3,
+        "text": "It's okay, does the job."
+      },
+      {
+        "id": "r7",
+        "name": "Vikram",
+        "stars": 5,
+        "text": "Highly recommended."
+      },
+      {
+        "id": "r8",
+        "name": "Aditya",
+        "stars": 3,
+        "text": "It's okay, does the job."
+      },
+      {
+        "id": "r9",
+        "name": "Vikram",
+        "stars": 4,
+        "text": "Fast delivery and good quality."
+      }
+    ]
+  },
+  {
+    "id": "110",
+    "title": "Seeed Studio Grove Sound Sensor",
+    "category": "Electronics",
+    "tags": [
+      "Sound Sensor",
+      "grove sound sensor"
+    ],
+    "price": 507.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Untitled-1-1.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Grove-Sound-Sensor.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/LR-Grove-Sound-Sensor.jpg"
+    ],
+    "description": "Need a sound sensing device with high sensitivity? We have the Grove \u2013 Sound Sensor especially for you. It detects the sound intensity of the environment. It is a simple microphone based on the LM386 amplifier and an electret microphone. The output of this module is analog so that you can easily sample and test it by a Seeeduino or an Arduino. The sensor also comes with a potentiometer, so you can adjust the value of output by varying it.",
+    "rating": 4.5,
+    "reviewCount": 177,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Vikram",
+        "stars": 5,
+        "text": "Best quality product."
+      },
+      {
+        "id": "r2",
+        "name": "Anjali",
+        "stars": 5,
+        "text": "Best quality product."
+      },
+      {
+        "id": "r3",
+        "name": "Priya",
+        "stars": 3,
+        "text": "Decent quality for the price."
+      },
+      {
+        "id": "r4",
+        "name": "Vikram",
+        "stars": 5,
+        "text": "Exceeded my expectations!"
+      },
+      {
+        "id": "r5",
+        "name": "Neha",
+        "stars": 4,
+        "text": "Satisfied with the purchase."
+      }
+    ]
+  },
+  {
+    "id": "111",
+    "title": "Voice Recognition Module V3 Compatible with Arduino",
+    "category": "Electronics",
+    "tags": [
+      "Sensors",
+      "Sound Sensors",
+      "Sound Detection Sensor",
+      "Voice Recorder",
+      "Voice Recognition"
+    ],
+    "price": 2090.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Voice-font-b-Recognition-b-font-Module-font-b-V3-b-font-for-Arduion-Compatible-With.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/VR3-2.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Voice-Recognition-Module-V3-for-Arduino-Compatible-FZ0475-Free-Shipping-Dropshipping.jpg"
+    ],
+    "description": "Speak (Voice) Recognition Module V3 product is a speaker-dependent voice recognition module. It supports up to 80 voice commands in all. Max 7 voice commands could work at the same time. Any sound could be trained as the command. Users need to train the module first before let it recognizing any voice command.",
+    "rating": 3.7,
+    "reviewCount": 192,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Vikram",
+        "stars": 5,
+        "text": "Exceeded my expectations!"
+      },
+      {
+        "id": "r2",
+        "name": "Rahul",
+        "stars": 4,
+        "text": "Satisfied with the purchase."
+      },
+      {
+        "id": "r3",
+        "name": "Anjali",
+        "stars": 3,
+        "text": "Took a while to arrive."
+      },
+      {
+        "id": "r4",
+        "name": "Rahul",
+        "stars": 5,
+        "text": "Absolutely amazing!"
+      },
+      {
+        "id": "r5",
+        "name": "Priya",
+        "stars": 3,
+        "text": "Decent quality for the price."
+      },
+      {
+        "id": "r6",
+        "name": "Sneha",
+        "stars": 5,
+        "text": "Absolutely amazing!"
+      },
+      {
+        "id": "r7",
+        "name": "Sairaj",
+        "stars": 5,
+        "text": "Exceeded my expectations!"
+      },
+      {
+        "id": "r8",
+        "name": "Vikram",
+        "stars": 3,
+        "text": "Decent quality for the price."
+      },
+      {
+        "id": "r9",
+        "name": "Priya",
+        "stars": 3,
+        "text": "Decent quality for the price."
+      }
+    ]
+  },
+  {
+    "id": "112",
+    "title": "L298N 2A Based Motor Driver Module \u2013 Good Quality",
+    "category": "Electronics",
+    "tags": [
+      "Motor Driver",
+      "L298",
+      "L298N",
+      "Double H Bridge",
+      "H Bridge",
+      "2A Motor Driver",
+      "2A L298N",
+      "Best Prices"
+    ],
+    "price": 130.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/B1.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/SKU-43821.png",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/IMG_0533.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/IMG_0529.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/IMG_0531.jpg"
+    ],
+    "description": "It uses the popular L298 motor driver IC and has an onboard 5V regulator which it can supply to an external circuit. It can control up to 4 DC motors, or 2 DC motors with directional and speed control.This motor driver is perfect for robotics and mechatronics projects and perfect for controlling motors from microcontrollers, switches, relays, etc. Perfect for driving DC and Stepper motors for micro mouse, line following robots, robot arms, etc.",
+    "rating": 5.0,
+    "reviewCount": 69,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Arjun",
+        "stars": 5,
+        "text": "Highly recommended."
+      },
+      {
+        "id": "r2",
+        "name": "Sairaj",
+        "stars": 4,
+        "text": "Fast delivery and good quality."
+      },
+      {
+        "id": "r3",
+        "name": "Anjali",
+        "stars": 5,
+        "text": "Best quality product."
+      },
+      {
+        "id": "r4",
+        "name": "Arjun",
+        "stars": 5,
+        "text": "Best quality product."
+      },
+      {
+        "id": "r5",
+        "name": "Vikram",
+        "stars": 5,
+        "text": "Absolutely amazing!"
+      }
+    ]
+  },
+  {
+    "id": "113",
+    "title": "1203B PWM 6V 12V 24V 28V 3A DC Motor Speed Regulator",
+    "category": "Electronics",
+    "tags": [],
+    "price": 88.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/1203B-PWM-6V-12V-24V-28V-3A-DC-Motor-Speed-Regulator-5.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/1203B-PWM-6V-12V-24V-28V-3A-DC-Motor-Speed-Regulator-3.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/1203B-PWM-6V-12V-24V-28V-3A-DC-Motor-Speed-Regulator-4.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/1203B-PWM-6V-12V-24V-28V-3A-DC-Motor-Speed-Regulator-2.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/1203B-PWM-6V-12V-24V-28V-3A-DC-Motor-Speed-Regulator-1.jpg"
+    ],
+    "description": "This 1203B PWM 6V 12V 24V 28V 3A DC Motor Speed Regulator allows controlling the speed of a motor with fully adjustable 0%-100%. The motor speed controller can easily provide a continuous current of 3A to your DC motor or other DC load.",
+    "rating": 4.2,
+    "reviewCount": 190,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Sneha",
+        "stars": 4,
+        "text": "Fast delivery and good quality."
+      },
+      {
+        "id": "r2",
+        "name": "Sneha",
+        "stars": 5,
+        "text": "Absolutely amazing!"
+      },
+      {
+        "id": "r3",
+        "name": "Rahul",
+        "stars": 3,
+        "text": "Took a while to arrive."
+      },
+      {
+        "id": "r4",
+        "name": "Sairaj",
+        "stars": 3,
+        "text": "It's okay, does the job."
+      },
+      {
+        "id": "r5",
+        "name": "Aditya",
+        "stars": 4,
+        "text": "Fast delivery and good quality."
+      }
+    ]
+  },
+  {
+    "id": "114",
+    "title": "Brushless Motor Controller DC 12-36V 500W PWM Driver Board",
+    "category": "Electronics",
+    "tags": [],
+    "price": 1010.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/DC-12-36V-500W-PWM-Brushless-Motor-Controller-Board-1.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/DC-12-36V-500W-PWM-Brushless-Motor-Controller-Board-2.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/DC-12-36V-500W-PWM-Brushless-Motor-Controller-Board-3.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/DC-12-36V-500W-PWM-Brushless-Motor-Controller-Board-5.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/A6.jpg"
+    ],
+    "description": "This Brushless Motor Controller DC 12-36V 500W PWM Driver Board is used for the 3-phase brushless sensorless motor, but not suit for all 3-phase brushless sensorless motors directly. If the driving effect is not good (such as starting jitter, reversing, the motor no-load working current is too large, the speed is not stable, the efficiency is low, and can\u2019t start up with a load) Customers can adjust the resistance and capacitance of the driver board according to the actual situation to achieve the best driving effect.",
+    "rating": 4.5,
+    "reviewCount": 42,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Neha",
+        "stars": 5,
+        "text": "Exceeded my expectations!"
+      },
+      {
+        "id": "r2",
+        "name": "Arjun",
+        "stars": 5,
+        "text": "Exceeded my expectations!"
+      },
+      {
+        "id": "r3",
+        "name": "Anjali",
+        "stars": 4,
+        "text": "Satisfied with the purchase."
+      },
+      {
+        "id": "r4",
+        "name": "Aditya",
+        "stars": 4,
+        "text": "Satisfied with the purchase."
+      },
+      {
+        "id": "r5",
+        "name": "Arjun",
+        "stars": 3,
+        "text": "It's okay, does the job."
+      }
+    ]
+  },
+  {
+    "id": "115",
+    "title": "CCM5D Digital PWM DC Motor Speed Controller With Display",
+    "category": "Electronics",
+    "tags": [],
+    "price": 293.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/CCM5D-Digital-PWM-DC-Motor-Speed-Controller-With-Display-5.png",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/CCM5D-Digital-PWM-DC-Motor-Speed-Controller-With-Display-2.png",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/CCM5D-Digital-PWM-DC-Motor-Speed-Controller-With-Display-3.png"
+    ],
+    "description": "This CCM5D Digital PWM DC Motor Speed Controller With Display is used to control the speed of a DC motor through PWM. This controller comes with a 3 digit 7 segment Red color display, which displays the duty cycle of the PWM from range 0 to 100.",
+    "rating": 4.2,
+    "reviewCount": 86,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Vikram",
+        "stars": 5,
+        "text": "Highly recommended."
+      },
+      {
+        "id": "r2",
+        "name": "Arjun",
+        "stars": 5,
+        "text": "Best quality product."
+      },
+      {
+        "id": "r3",
+        "name": "Arjun",
+        "stars": 4,
+        "text": "Very good, works as expected."
+      }
+    ]
+  },
+  {
+    "id": "116",
+    "title": "12V 24V 36V 40A PWM DC Motor Speed Controller Forward Reverse Adjustable Knob Switch with Case",
+    "category": "Electronics",
+    "tags": [],
+    "price": 752.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/12V-24V-36V-40A-PWM-DC-Motor-Speed-Controller-2.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/12V-24V-36V-40A-PWM-DC-Motor-Speed-Controller-5-1.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/12V-24V-36V-40A-PWM-DC-Motor-Speed-Controller-4.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/12V-24V-36V-40A-PWM-DC-Motor-Speed-Controller-3.jpg"
+    ],
+    "description": "This is High Power 12V/24V/36V 40A PWM DC Reversible Motor Controller.  A motor controller is a device or group of devices that serves to govern in some predetermined manner the performance of an electric motor. A motor controller might include a manual or automatic means for starting and stopping the motor, selecting forward or reverse rotation, selecting and regulating the speed, regulating or limiting the torque, and protecting against overloads and faults.",
+    "rating": 4.9,
+    "reviewCount": 169,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Sneha",
+        "stars": 5,
+        "text": "Best quality product."
+      },
+      {
+        "id": "r2",
+        "name": "Sneha",
+        "stars": 4,
+        "text": "Very good, works as expected."
+      },
+      {
+        "id": "r3",
+        "name": "Neha",
+        "stars": 5,
+        "text": "Exceeded my expectations!"
+      }
+    ]
+  },
+  {
+    "id": "117",
+    "title": "HG7881 4-Channel DC 2.4-10V Motor Driver Broad",
+    "category": "Electronics",
+    "tags": [],
+    "price": 230.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/HG7881-4-Channel-DC-2.4-10V-Motor-Driver-Broad-6.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/HG7881-4-Channel-DC-2.4-10V-Motor-Driver-Broad-7.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/HG7881-4-Channel-DC-2.4-10V-Motor-Driver-Broad-5.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/HG7881-4-Channel-DC-2.4-10V-Motor-Driver-Broad-4.jpg"
+    ],
+    "description": "This HG7881 4-Channel dc motor driver module comes with its own four L9110S chip. It can drive 4 DC or Can drive two 4-wire 2-phase stepping motor.",
+    "rating": 4.8,
+    "reviewCount": 72,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Arjun",
+        "stars": 3,
+        "text": "It's okay, does the job."
+      },
+      {
+        "id": "r2",
+        "name": "Rahul",
+        "stars": 4,
+        "text": "Satisfied with the purchase."
+      },
+      {
+        "id": "r3",
+        "name": "Amit",
+        "stars": 4,
+        "text": "Very good, works as expected."
+      },
+      {
+        "id": "r4",
+        "name": "Sneha",
+        "stars": 3,
+        "text": "Decent quality for the price."
+      }
+    ]
+  },
+  {
+    "id": "118",
+    "title": "Forward/Reverse Motor Controller Board 12V 24V Motor Two Relay Delay Timing Cycle YYB-5 Module",
+    "category": "Electronics",
+    "tags": [],
+    "price": 981.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/5-12.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Forward-Reverse-Motor-Controller-Board-12V-24V-Motor-Two-Relay-Delay-Timing-Cycle-Module-YYB-5-1.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Forward-Reverse-Motor-Controller-Board-12V-24V-Motor-Two-Relay-Delay-Timing-Cycle-Module-YYB-5-2.jpg"
+    ],
+    "description": "The Forward/Reverse Motor Controller Board 12V 24V Motor Two Relay Delay Timing Cycle YYB-5 Module is an electronic module designed to control the direction, speed, and timing of a DC motor.",
+    "rating": 3.6,
+    "reviewCount": 92,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Neha",
+        "stars": 4,
+        "text": "Satisfied with the purchase."
+      },
+      {
+        "id": "r2",
+        "name": "Amit",
+        "stars": 3,
+        "text": "Decent quality for the price."
+      },
+      {
+        "id": "r3",
+        "name": "Priya",
+        "stars": 3,
+        "text": "It's okay, does the job."
+      },
+      {
+        "id": "r4",
+        "name": "Vikram",
+        "stars": 5,
+        "text": "Exceeded my expectations!"
+      },
+      {
+        "id": "r5",
+        "name": "Sairaj",
+        "stars": 4,
+        "text": "Satisfied with the purchase."
+      }
+    ]
+  },
+  {
+    "id": "119",
+    "title": "Motor Driver TB6612FNG Module Performance Ultra Small Volume 3 PI Matching Performance Ultra L298N",
+    "category": "Electronics",
+    "tags": [],
+    "price": 152.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/1-pc-Dual-Motor-Driver-1A-font-b-TB6612FNG-b-font-for-font-b-Arduino-b-800x800.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Motor-drive-TB6612FNG-module-high-performance-ultra-small-volume-3PI-supporting-perform.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/AAZM_131182990550510221Kk0ceMh7Sd.png"
+    ],
+    "description": "The Motor Driver TB6612FNG Module motor driver can control up to two DC motors at a constant current of 1.2A (3.2A peak). Two input signals (IN1 and IN2) can be used to control the motor in one of four function modes \u2013 CW, CCW, short-brake, and stop.",
+    "rating": 5.0,
+    "reviewCount": 162,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Anjali",
+        "stars": 4,
+        "text": "Fast delivery and good quality."
+      },
+      {
+        "id": "r2",
+        "name": "Sairaj",
+        "stars": 3,
+        "text": "Took a while to arrive."
+      }
+    ]
+  },
+  {
+    "id": "120",
+    "title": "Waveshare General Driver board for Robots, Based on ESP32",
+    "category": "Electronics",
+    "tags": [],
+    "price": 2829.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/3.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Waveshare-General-Driver-board-for-Robots-4.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Waveshare-General-Driver-board-for-Robots-1.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Waveshare-General-Driver-board-for-Robots-2.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Waveshare-General-Driver-board-for-Robots-3.jpg"
+    ],
+    "description": "Waveshare General Driver board for Robots, Based on ESP32, multi-functional, supports WIFI, Bluetooth and ESP-NOW communications",
+    "rating": 4.4,
+    "reviewCount": 98,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Amit",
+        "stars": 5,
+        "text": "Absolutely amazing!"
+      },
+      {
+        "id": "r2",
+        "name": "Amit",
+        "stars": 3,
+        "text": "Decent quality for the price."
+      }
+    ]
+  },
+  {
+    "id": "121",
+    "title": "SX1278 LoRa Module Ra- 02 433MHZ Wireless Spread Spectrum Transmission",
+    "category": "Electronics",
+    "tags": [],
+    "price": 391.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/36-1.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/sx1278_lora_module_1.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/sx1278_lora_module_5.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/sx1278_lora_module_2.jpg"
+    ],
+    "description": "Ra-02 is a wireless transmission module based on SEMTECH\u2019s SX1278 wireless transceiver. It adopts advanced LoRa spread spectrum technology, with a communication distance of 10,000 meters. It has a strong ability of anti-jamming and has the function of air wake-up Consumption. The SX1278 RF module is mainly used for long-range spread spectrum communication, and it can resist Minimizing current consumption. The SX1278 has a high sensitivity of -148 dBm with a power output of +20 dBm, and a long transmission distance and high reliability. At the same time, compared with the traditional modulation technology, LoRa \u2122 modulation technology has obvious advantages in anti-blocking and selection, which solves the problem that the traditional design scheme can not consider the distance, interference and power consumption at the same time.",
+    "rating": 3.8,
+    "reviewCount": 118,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Priya",
+        "stars": 4,
+        "text": "Fast delivery and good quality."
+      },
+      {
+        "id": "r2",
+        "name": "Vikram",
+        "stars": 4,
+        "text": "Satisfied with the purchase."
+      },
+      {
+        "id": "r3",
+        "name": "Priya",
+        "stars": 5,
+        "text": "Absolutely amazing!"
+      },
+      {
+        "id": "r4",
+        "name": "Arjun",
+        "stars": 4,
+        "text": "Satisfied with the purchase."
+      },
+      {
+        "id": "r5",
+        "name": "Amit",
+        "stars": 3,
+        "text": "It's okay, does the job."
+      },
+      {
+        "id": "r6",
+        "name": "Amit",
+        "stars": 5,
+        "text": "Best quality product."
+      },
+      {
+        "id": "r7",
+        "name": "Vikram",
+        "stars": 3,
+        "text": "Took a while to arrive."
+      }
+    ]
+  },
+  {
+    "id": "122",
+    "title": "Wireless Transmitter 915Mhz, Lora Shield for Leonardo,, UNO, Mega2560,, Duemilanove, Due",
+    "category": "Electronics",
+    "tags": [],
+    "price": 2216.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/41-1.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Wireless-Transmitter-915Mhz-Lora-Shield-for-Arduino-2.jpeg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Wireless-Transmitter-915Mhz-Lora-Shield-for-Arduino-5.jpeg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Wireless-Transmitter-915Mhz-Lora-Shield-for-Arduino-3.jpeg"
+    ],
+    "description": "Lora Shield is a long-range transceiver on the Arduino shield form factor and is based on an Open source library. The Lora Shield allows the user to send data and reach extremely long ranges at low data rates. It provides ultra-long range spread spectrum communication and high interference immunity whilst minimising current consumption.",
+    "rating": 4.3,
+    "reviewCount": 42,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Sneha",
+        "stars": 5,
+        "text": "Exceeded my expectations!"
+      },
+      {
+        "id": "r2",
+        "name": "Amit",
+        "stars": 5,
+        "text": "Exceeded my expectations!"
+      },
+      {
+        "id": "r3",
+        "name": "Anjali",
+        "stars": 4,
+        "text": "Fast delivery and good quality."
+      },
+      {
+        "id": "r4",
+        "name": "Neha",
+        "stars": 3,
+        "text": "Decent quality for the price."
+      },
+      {
+        "id": "r5",
+        "name": "Amit",
+        "stars": 4,
+        "text": "Fast delivery and good quality."
+      }
+    ]
+  },
+  {
+    "id": "123",
+    "title": "NANO IO Shield Expansion Board For Arduino Screw Terminals",
+    "category": "Electronics",
+    "tags": [],
+    "price": 167.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/4-3.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/NANO-IO-Shield-Expansion-Board-For-Arduino-Screw-Terminals.png"
+    ],
+    "description": "NANO IO Shield Expansion Board For Arduino Screw Terminals is a small simple Arduino Nano extension board, it will be the Nano all pins of derivation, convenient connection and we do the experiments.",
+    "rating": 4.3,
+    "reviewCount": 186,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Sneha",
+        "stars": 5,
+        "text": "Absolutely amazing!"
+      },
+      {
+        "id": "r2",
+        "name": "Vikram",
+        "stars": 4,
+        "text": "Satisfied with the purchase."
+      },
+      {
+        "id": "r3",
+        "name": "Arjun",
+        "stars": 3,
+        "text": "Took a while to arrive."
+      }
+    ]
+  },
+  {
+    "id": "124",
+    "title": "Multifunction Shield For Arduino Uno / Leonardo",
+    "category": "Electronics",
+    "tags": [],
+    "price": 140.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/12-16.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Arduino-Multi-function-Shield.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/Multi-func-shield-624-624x422.jpg"
+    ],
+    "description": "This Arduino Uno and Leonardo compatible multifunction experimenter shield (HCARDU0085) has a large range of features which makes it ideal for beginners who just want to experiment and learn, or just as a general-purpose shield for more advanced uses.",
+    "rating": 3.5,
+    "reviewCount": 104,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Sneha",
+        "stars": 4,
+        "text": "Satisfied with the purchase."
+      },
+      {
+        "id": "r2",
+        "name": "Sneha",
+        "stars": 4,
+        "text": "Satisfied with the purchase."
+      },
+      {
+        "id": "r3",
+        "name": "Arjun",
+        "stars": 3,
+        "text": "It's okay, does the job."
+      },
+      {
+        "id": "r4",
+        "name": "Rahul",
+        "stars": 3,
+        "text": "It's okay, does the job."
+      },
+      {
+        "id": "r5",
+        "name": "Arjun",
+        "stars": 3,
+        "text": "Took a while to arrive."
+      },
+      {
+        "id": "r6",
+        "name": "Sairaj",
+        "stars": 3,
+        "text": "It's okay, does the job."
+      },
+      {
+        "id": "r7",
+        "name": "Sairaj",
+        "stars": 5,
+        "text": "Absolutely amazing!"
+      }
+    ]
+  },
+  {
+    "id": "125",
+    "title": "Pro-Range BLD750 Brushless DC Motor Driver",
+    "category": "Electronics",
+    "tags": [],
+    "price": 8082.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/B3.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/BLD750.3.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/BLD750.4.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/BLD750.5.jpg"
+    ],
+    "description": "The Pro-Range BLD750 BLDC motor drive is a high-performance, cost-effective 3-phase BLDC motor drive, which can provide a power output of Max 750VA. The design is based on advanced DSP technology and features high torque, low noise, low vibration, PID speed loop, PID current loop, over-current protection, overload protection, and a combined use of manual speed adjustment and automatic speed adjustment.",
+    "rating": 3.8,
+    "reviewCount": 28,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Anjali",
+        "stars": 3,
+        "text": "Decent quality for the price."
+      },
+      {
+        "id": "r2",
+        "name": "Sairaj",
+        "stars": 5,
+        "text": "Best quality product."
+      },
+      {
+        "id": "r3",
+        "name": "Anjali",
+        "stars": 4,
+        "text": "Fast delivery and good quality."
+      },
+      {
+        "id": "r4",
+        "name": "Priya",
+        "stars": 3,
+        "text": "It's okay, does the job."
+      },
+      {
+        "id": "r5",
+        "name": "Priya",
+        "stars": 4,
+        "text": "Satisfied with the purchase."
+      },
+      {
+        "id": "r6",
+        "name": "Sairaj",
+        "stars": 3,
+        "text": "It's okay, does the job."
+      },
+      {
+        "id": "r7",
+        "name": "Anjali",
+        "stars": 4,
+        "text": "Fast delivery and good quality."
+      }
+    ]
+  },
+  {
+    "id": "126",
+    "title": "VisionFive2 RISC-V Single Board Computer 8GB WiFi",
+    "category": "Electronics",
+    "tags": [],
+    "price": 10249.0,
+    "image": "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/14-4.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/2-6.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/3-7.jpg",
+      "https://raw.githubusercontent.com/Sairaj2016/demoshop-data/main/images/4-2.jpg"
+    ],
+    "description": "The Waveshare VisionFive2 RISC-V Single Board Computer is a cutting-edge computing solution built around the StarFive JH7110 processor, which features an integrated 3D GPU. This single-board computer offers powerful computing capabilities suitable for a wide range of applications, from embedded systems to IoT devices. With its RISC-V architecture, the VisionFive2 delivers efficient and scalable performance, making it ideal for both industrial and educational purposes.",
+    "rating": 4.5,
+    "reviewCount": 41,
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Vikram",
+        "stars": 4,
+        "text": "Fast delivery and good quality."
+      },
+      {
+        "id": "r2",
+        "name": "Priya",
+        "stars": 4,
+        "text": "Satisfied with the purchase."
+      },
+      {
+        "id": "r3",
+        "name": "Sneha",
+        "stars": 4,
+        "text": "Satisfied with the purchase."
+      },
+      {
+        "id": "r4",
+        "name": "Priya",
+        "stars": 3,
+        "text": "Decent quality for the price."
+      },
+      {
+        "id": "r5",
+        "name": "Sairaj",
+        "stars": 4,
+        "text": "Fast delivery and good quality."
+      },
+      {
+        "id": "r6",
+        "name": "Aditya",
+        "stars": 4,
+        "text": "Satisfied with the purchase."
+      },
+      {
+        "id": "r7",
+        "name": "Sairaj",
+        "stars": 3,
+        "text": "Decent quality for the price."
+      },
+      {
+        "id": "r8",
+        "name": "Priya",
+        "stars": 4,
+        "text": "Fast delivery and good quality."
+      }
+    ]
   }
 ]
-
-
